@@ -3,17 +3,22 @@
 
 ## Mechanistic interpretability
 
-- [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ![](https://img.shields.io/github/stars/neelnanda-io/TransformerLens?style=social)
+- [nnsight](https://github.com/ndif-team/nnsight) ![](https://img.shields.io/github/stars/ndif-team/nnsight?style=social) - use regular pytorch to define interventions inside a `with` block. Can remotely connect to model activations, with the aim to keep it simple.
 - [Pyvene (intervention focused)](https://github.com/stanfordnlp/pyvene)  ![](https://img.shields.io/github/stars/stanfordnlp/pyvene?style=social)
-- [nnsight](https://github.com/ndif-team/nnsight) ![](https://img.shields.io/github/stars/ndif-team/nnsight?style=social)
-- [BauKit](https://github.com/davidbau/baukit) ![](https://img.shields.io/github/stars/davidbau/baukit?style=social)
-- [Transformer Debugger (OpenAI)](https://github.com/openai/transformer-debugger) ![](https://img.shields.io/github/stars/openai/transformer-debugger?style=social)
-- [penzai](https://github.com/google-deepmind/penzai) ![](https://img.shields.io/github/stars/google-deepmind/penzai?style=social)
-- [Graphpatch](https://github.com/evan-lloyd/graphpatch) ![](https://img.shields.io/github/stars/evan-lloyd/graphpatch?style=social)
+  - > pyvene tries to be HuggingFace-native, supporting pre-defined interventions or customized interventions (below).
+Show more
+- [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ![](https://img.shields.io/github/stars/neelnanda-io/TransformerLens?style=social)
+  - uses jaxtyping, aliases models into a common interface, not as huggingface compatible as other libs
+- [BauKit](https://github.com/davidbau/baukit) ![](https://img.shields.io/github/stars/davidbau/baukit?style=social) - light, simple, and well loved
+- [penzai](https://github.com/google-deepmind/penzai) ![](https://img.shields.io/github/stars/google-deepmind/penzai?style=social) - jax-based, not HuggingFace-native
+- [Transformer Debugger (OpenAI)](https://github.com/openai/transformer-debugger) ![](https://img.shields.io/github/stars/openai/transformer-debugger?style=social) - not HuggingFace-native 
+- [Graphpatch](https://github.com/evan-lloyd/graphpatch) ![](https://img.shields.io/github/stars/evan-lloyd/graphpatch?style=social) - promising but abandoned
+- [A tutorial on doing it manually](https://github.com/annahdo/implementing_activation_steering)
   
 ## Explainability, counterfactuals and probing
 
 - [captum](https://github.com/pytorch/captum)
+- [inseq](https://github.com/inseq-team/inseq)
 - [Explabox](https://github.com/MarcelRobeer/explabox) (2022)
 - [IBM: AIX360](https://github.com/Trusted-AI/AIX360) (2019)
 - [Microsoft: Responsible AI Toolbox](https://responsibleaitoolbox.ai/) (2021)
@@ -53,3 +58,4 @@
 - [s list that inspired this one](https://github.com/dweprinz/dweprinz.github.io/blob/905db3fe5bd0d3ca0ddd2b201382c2a25accc00b/_pages/resources/responsible-ai/ai-safety.md?plain=1#L48)
 - [the github interpretability topic](https://github.com/topics/interpretability)
 - https://github.com/wangyongjie-ntu/Awesome-explainable-AI
+- https://twitter.com/davidbau/status/1785991694279913617
