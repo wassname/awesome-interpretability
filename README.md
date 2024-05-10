@@ -3,12 +3,14 @@
 
 ## Mechanistic interpretability
 
-- [nnsight](https://github.com/ndif-team/nnsight) ![](https://img.shields.io/github/stars/ndif-team/nnsight?style=social) - use regular pytorch to define interventions inside a `with` block. Can remotely connect to model activations, with the aim to keep it simple.
+- [nnsight](https://github.com/ndif-team/nnsight) ![](https://img.shields.io/github/stars/ndif-team/nnsight?style=social) 
+  - > [To customize a model, instead of running it as a function, you run it as a "with" context. Inside "with" you can write regular pytorch to modify the computation.](https://twitter.com/davidbau/status/1785991660197015827)
+  - aim to keep it as simple as bauket eventually, and support remote mechinterp. HuggingFace compatible
 - [Pyvene (intervention focused)](https://github.com/stanfordnlp/pyvene)  ![](https://img.shields.io/github/stars/stanfordnlp/pyvene?style=social)
-  - > pyvene tries to be HuggingFace-native, supporting pre-defined interventions or customized interventions (below).
-Show more
+  - > [pyvene tries to be HuggingFace-native, supporting pre-defined interventions or customized interventions (below).](https://twitter.com/ZhengxuanZenWu/status/1768356269470191842)
 - [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ![](https://img.shields.io/github/stars/neelnanda-io/TransformerLens?style=social)
   - uses jaxtyping, aliases models into a common interface, not as huggingface compatible as other libs
+  - > [an extremely opinionated toolkit for doing whatever you want to specific models, ](https://twitter.com/NeelNanda5/status/1786146027659280430)
 - [BauKit](https://github.com/davidbau/baukit) ![](https://img.shields.io/github/stars/davidbau/baukit?style=social) - light, simple, and well loved
 - [penzai](https://github.com/google-deepmind/penzai) ![](https://img.shields.io/github/stars/google-deepmind/penzai?style=social) - jax-based, not HuggingFace-native
 - [Transformer Debugger (OpenAI)](https://github.com/openai/transformer-debugger) ![](https://img.shields.io/github/stars/openai/transformer-debugger?style=social) - not HuggingFace-native 
@@ -39,19 +41,22 @@ Show more
 ## Structured output 
 
 - [jsonformer](https://github.com/1rgs/jsonformer)
+  - doesn't do enums
+- [outlines](https://github.com/outlines-dev/outlines) 
 - [Microsoft Guidance](https://github.com/guidance-ai/guidance)
 - [lmql.ai](https://lmql.ai/)
 - [llama.cpp grammar](https://github.com/ggerganov/llama.cpp/pull/1773)
 - [langchain output_parsers](https://python.langchain.com/docs/modules/model_io/output_parsers/)
-- [outlines](https://github.com/outlines-dev/outlines) 
-- [salute](https://github.com/LevanKvirkvelia/salute) 
+- [salute](https://github.com/LevanKvirkvelia/salute) - typescript
 - [guardrails](https://github.com/ShreyaR/guardrails)
-- [clownfish](https://github.com/newhouseb/clownfish)
-- [relm](https://github.com/mkuchnik/relm)
+- [clownfish](https://github.com/newhouseb/clownfish) - 2023 Modifying Transformers to Follow a JSON Schema - not updated
+- [relm](https://github.com/mkuchnik/relm) - 2023 Regular Expression engine for Language Models  - not updated
 - [Constrained-Text-Generation-Studio](https://github.com/Hellisotherpeople/Constrained-Text-Generation-Studio)
 - [kor](https://github.com/eyurtsev/kor)
-- [lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer)
-- [instructor](https://github.com/jxnl/instructor/)
+- [lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer) - remote api's
+- [instructor](https://github.com/jxnl/instructor/) - for remote api's without logits
+- [Promptify](https://github.com/promptslab/Promptify)
+- [prob_jsonformer](https://github.com/wassname/prob_jsonformer) - Jsonformer, but it can output the probablity of each choice in a single pass
 
 ## See more
 
