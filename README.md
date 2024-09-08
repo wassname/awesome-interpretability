@@ -15,7 +15,7 @@
 - [penzai](https://github.com/google-deepmind/penzai) ![](https://img.shields.io/github/stars/google-deepmind/penzai?style=social) - jax-based, not HuggingFace-native
 - [Transformer Debugger (OpenAI)](https://github.com/openai/transformer-debugger) ![](https://img.shields.io/github/stars/openai/transformer-debugger?style=social) - not HuggingFace-native 
 - [Graphpatch](https://github.com/evan-lloyd/graphpatch) ![](https://img.shields.io/github/stars/evan-lloyd/graphpatch?style=social) - promising but abandoned
-- [https://github.com/fdalvi/NeuroX](NeuroX)
+- [NeuroX](https://github.com/fdalvi/NeuroX)
 - [A tutorial on doing it manually](https://github.com/annahdo/implementing_activation_steering)
   
 ## Explainability, counterfactuals and probing
