@@ -1,22 +1,24 @@
 # awesome-interpretability
 
 
-## Mechanistic interpretability
+## Mechanistic interpretability libraries
+- [BauKit](https://github.com/davidbau/baukit) ![](https://img.shields.io/github/stars/davidbau/baukit?style=social) - light, simple, and well loved
 
+- [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ![](https://img.shields.io/github/stars/neelnanda-io/TransformerLens?style=social)
+  - uses jaxtyping, aliases models into a common interface, not as huggingface compatible as other libs
+  - > [an extremely opinionated toolkit for doing whatever you want to specific models, ](https://twitter.com/NeelNanda5/status/1786146027659280430)
+- [vgel/repeng](https://github.com/vgel/repeng) - A library for making RepE control vectors 
 - [nnsight](https://github.com/ndif-team/nnsight) ![](https://img.shields.io/github/stars/ndif-team/nnsight?style=social) 
   - > [To customize a model, instead of running it as a function, you run it as a "with" context. Inside "with" you can write regular pytorch to modify the computation.](https://twitter.com/davidbau/status/1785991660197015827)
   - aim to keep it as simple as bauket eventually, and support remote mechinterp. HuggingFace compatible
 - [Pyvene (intervention focused)](https://github.com/stanfordnlp/pyvene)  ![](https://img.shields.io/github/stars/stanfordnlp/pyvene?style=social)
   - > [pyvene tries to be HuggingFace-native, supporting pre-defined interventions or customized interventions (below).](https://twitter.com/ZhengxuanZenWu/status/1768356269470191842)
-- [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ![](https://img.shields.io/github/stars/neelnanda-io/TransformerLens?style=social)
-  - uses jaxtyping, aliases models into a common interface, not as huggingface compatible as other libs
-  - > [an extremely opinionated toolkit for doing whatever you want to specific models, ](https://twitter.com/NeelNanda5/status/1786146027659280430)
-- [BauKit](https://github.com/davidbau/baukit) ![](https://img.shields.io/github/stars/davidbau/baukit?style=social) - light, simple, and well loved
 - [penzai](https://github.com/google-deepmind/penzai) ![](https://img.shields.io/github/stars/google-deepmind/penzai?style=social) - jax-based, not HuggingFace-native
 - [Transformer Debugger (OpenAI)](https://github.com/openai/transformer-debugger) ![](https://img.shields.io/github/stars/openai/transformer-debugger?style=social) - not HuggingFace-native 
 - [Graphpatch](https://github.com/evan-lloyd/graphpatch) ![](https://img.shields.io/github/stars/evan-lloyd/graphpatch?style=social) - promising but abandoned
 - [NeuroX](https://github.com/fdalvi/NeuroX)
 - [A tutorial on doing it manually](https://github.com/annahdo/implementing_activation_steering)
+
   
 ## Explainability, counterfactuals and probing
 
