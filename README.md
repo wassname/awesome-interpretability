@@ -18,7 +18,7 @@
 - [Graphpatch](https://github.com/evan-lloyd/graphpatch) ![](https://img.shields.io/github/stars/evan-lloyd/graphpatch?style=social) - promising but abandoned
 - [NeuroX](https://github.com/fdalvi/NeuroX)
 - [A tutorial on doing it manually](https://github.com/annahdo/implementing_activation_steering)
-
+- [cupbearer](https://github.com/ejnnr/cupbearer) A library for mechanistic anomaly detection 
   
 ## Explainability, counterfactuals and probing
 
