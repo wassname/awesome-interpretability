@@ -19,6 +19,11 @@
 - [NeuroX](https://github.com/fdalvi/NeuroX)
 - [A tutorial on doing it manually](https://github.com/annahdo/implementing_activation_steering)
 - [cupbearer](https://github.com/ejnnr/cupbearer) A library for mechanistic anomaly detection 
+
+google-deepmind/penzai
+pico-model/pico
+AlignmentResearch/tuned-lens
+
   
 ## Explainability, counterfactuals and probing
 
