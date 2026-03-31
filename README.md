@@ -20,10 +20,12 @@
 - [A tutorial on doing it manually](https://github.com/annahdo/implementing_activation_steering)
 - [cupbearer](https://github.com/ejnnr/cupbearer) A library for mechanistic anomaly detection 
 
-google-deepmind/penzai
+google-deepmind/penzai https://github.com/google-deepmind/penzai
 pico-model/pico
 AlignmentResearch/tuned-lens
 
+  http://neuronpedia.org/
+  https://transluce.org/introducing-docent
   
 ## Explainability, counterfactuals and probing
 
@@ -69,6 +71,7 @@ AlignmentResearch/tuned-lens
 ## See more
 
 - [s list that inspired this one](https://github.com/dweprinz/dweprinz.github.io/blob/905db3fe5bd0d3ca0ddd2b201382c2a25accc00b/_pages/resources/responsible-ai/ai-safety.md?plain=1#L48)
+- https://mechinterpworkshop.com/cfp/
 - [the github interpretability topic](https://github.com/topics/interpretability)
 - https://github.com/wangyongjie-ntu/Awesome-explainable-AI
 - https://twitter.com/davidbau/status/1785991694279913617
