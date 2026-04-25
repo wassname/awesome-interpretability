@@ -7,6 +7,7 @@
 - [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ![](https://img.shields.io/github/stars/neelnanda-io/TransformerLens?style=social)
   - uses jaxtyping, aliases models into a common interface, not as huggingface compatible as other libs
   - > [an extremely opinionated toolkit for doing whatever you want to specific models, ](https://twitter.com/NeelNanda5/status/1786146027659280430)
+- [Tuned Lens](https://github.com/AlignmentResearch/tuned-lens) ![](https://img.shields.io/github/stars/AlignmentResearch/tuned-lens?style=social) - tools for looking at how transformer predictions are built layer-by-layer
 - [vgel/repeng](https://github.com/vgel/repeng) - A library for making RepE control vectors 
 - [nnsight](https://github.com/ndif-team/nnsight) ![](https://img.shields.io/github/stars/ndif-team/nnsight?style=social) 
   - > [To customize a model, instead of running it as a function, you run it as a "with" context. Inside "with" you can write regular pytorch to modify the computation.](https://twitter.com/davidbau/status/1785991660197015827)
@@ -14,25 +15,17 @@
 - [Pyvene (intervention focused)](https://github.com/stanfordnlp/pyvene)  ![](https://img.shields.io/github/stars/stanfordnlp/pyvene?style=social)
   - > [pyvene tries to be HuggingFace-native, supporting pre-defined interventions or customized interventions (below).](https://twitter.com/ZhengxuanZenWu/status/1768356269470191842)
 - [penzai](https://github.com/google-deepmind/penzai) ![](https://img.shields.io/github/stars/google-deepmind/penzai?style=social) - jax-based, not HuggingFace-native
+- [ViT-Prisma](https://github.com/Prisma-Multimodal/ViT-Prisma) ![](https://img.shields.io/github/stars/Prisma-Multimodal/ViT-Prisma?style=social) - mechanistic interpretability for vision and video transformers
 - [Transformer Debugger (OpenAI)](https://github.com/openai/transformer-debugger) ![](https://img.shields.io/github/stars/openai/transformer-debugger?style=social) - not HuggingFace-native 
 - [Graphpatch](https://github.com/evan-lloyd/graphpatch) ![](https://img.shields.io/github/stars/evan-lloyd/graphpatch?style=social) - promising but abandoned
 - [NeuroX](https://github.com/fdalvi/NeuroX)
 - [A tutorial on doing it manually](https://github.com/annahdo/implementing_activation_steering)
 - [cupbearer](https://github.com/ejnnr/cupbearer) A library for mechanistic anomaly detection 
-
-
-TODO add below
-
-  google-deepmind/penzai https://github.com/google-deepmind/penzai
-  pico-model/pico
-  AlignmentResearch/tuned-lens
-
-  http://neuronpedia.org/
-  https://transluce.org/introducing-docent
-
-  https://github.com/IBM/vLLM-Hook
-
-  https://github.com/UKGovernmentBEIS/vllm-lens
+- [Overcomplete](https://github.com/KempnerInstitute/overcomplete) ![](https://img.shields.io/github/stars/KempnerInstitute/overcomplete?style=social) - vision SAE toolbox
+- [vLLM-Hook](https://github.com/IBM/vLLM-Hook) ![](https://img.shields.io/github/stars/IBM/vLLM-Hook?style=social) - program internal states of vLLM-served models
+- [vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens) ![](https://img.shields.io/github/stars/UKGovernmentBEIS/vllm-lens?style=social) - extract residual stream activations and apply steering vectors in vLLM
+- [Neuronpedia](http://neuronpedia.org/) - public feature/neuron browser
+- [Docent](https://transluce.org/introducing-docent) - interactive model explanation and steering interface
   
 ## Explainability, counterfactuals and probing
 
