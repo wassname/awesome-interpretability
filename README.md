@@ -48,6 +48,21 @@
 - [Neptune-AI blog](https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools)
 - [AI Ethics tool landscape](https://edwinwenink.github.io/ai-ethics-tool-landscape/)
 
+## Adapters
+
+See [this lit review of Adapter intervention types](https://github.com/wassname/adapters_as_hypotheses)
+
+## Steering
+
+TODO format
+https://github.com/vgel/repeng
+https://github.com/IBM/AISteer360
+https://github.com/wassname/ssteer-eval-aware
+https://github.com/IBM/activation-steering
+https://github.com/chili-lab/Spherical-Steering
+https://github.com/safety-research/weight-steering
+
+
 ## Structured output 
 
 - [jsonformer](https://github.com/1rgs/jsonformer)
