@@ -20,12 +20,19 @@
 - [A tutorial on doing it manually](https://github.com/annahdo/implementing_activation_steering)
 - [cupbearer](https://github.com/ejnnr/cupbearer) A library for mechanistic anomaly detection 
 
-google-deepmind/penzai https://github.com/google-deepmind/penzai
-pico-model/pico
-AlignmentResearch/tuned-lens
+
+TODO add below
+
+  google-deepmind/penzai https://github.com/google-deepmind/penzai
+  pico-model/pico
+  AlignmentResearch/tuned-lens
 
   http://neuronpedia.org/
   https://transluce.org/introducing-docent
+
+  https://github.com/IBM/vLLM-Hook
+
+  https://github.com/UKGovernmentBEIS/vllm-lens
   
 ## Explainability, counterfactuals and probing
 
