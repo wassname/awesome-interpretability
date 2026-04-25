@@ -41,13 +41,15 @@
 ## Structured output 
 
 - [jsonformer](https://github.com/1rgs/jsonformer)
-  - doesn't do enums
+  - doesn't do enums. huggingface only
+- [prob_jsonformer](https://github.com/wassname/prob_jsonformer) - Jsonformer, but it can output the probability of each choice in a single pass. Has enum
 - [outlines](https://github.com/outlines-dev/outlines) 
 - [Microsoft Guidance](https://github.com/guidance-ai/guidance)
 - [lmql.ai](https://lmql.ai/)
 - [llama.cpp grammar](https://github.com/ggerganov/llama.cpp/pull/1773)
 - [langchain output_parsers](https://python.langchain.com/docs/modules/model_io/output_parsers/)
 - [salute](https://github.com/LevanKvirkvelia/salute) - typescript
+- [TypeChat](https://github.com/microsoft/TypeChat) - typescript
 - [guardrails](https://github.com/ShreyaR/guardrails)
 - [clownfish](https://github.com/newhouseb/clownfish) - 2023 Modifying Transformers to Follow a JSON Schema - not updated
 - [relm](https://github.com/mkuchnik/relm) - 2023 Regular Expression engine for Language Models  - not updated
@@ -56,7 +58,6 @@
 - [lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer) - remote api's
 - [instructor](https://github.com/jxnl/instructor/) - for remote api's without logits
 - [Promptify](https://github.com/promptslab/Promptify)
-- [prob_jsonformer](https://github.com/wassname/prob_jsonformer) - Jsonformer, but it can output the probablity of each choice in a single pass
 
 ## See more
 
