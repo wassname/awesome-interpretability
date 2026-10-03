@@ -57,6 +57,7 @@ See [this lit review of Adapter intervention types](https://github.com/wassname/
 
 - [vgel/repeng](https://github.com/vgel/repeng) ![](https://img.shields.io/github/stars/vgel/repeng?style=social) - A library for making RepE control vectors. See the blog post [Representation Engineering Mistral-7B an Acid Trip](https://vgel.me/posts/representation-engineering/)
 - [Steerability](https://github.com/generative-computing/steerability) ![](https://img.shields.io/github/stars/generative-computing/steerability?style=social) - extensible library for general purpose steering (was IBM/AISteer360)
+  - my open PRs: [VJP-delta steering](https://github.com/generative-computing/steerability/pull/33), [CorDA-PCA, S-space and Linear-AcT](https://github.com/generative-computing/steerability/pull/32)
 - [IBM/activation-steering](https://github.com/IBM/activation-steering) ![](https://img.shields.io/github/stars/IBM/activation-steering?style=social) - general-purpose activation steering library (ICLR 2025)
 - [Spherical-Steering](https://github.com/chili-lab/Spherical-Steering) ![](https://img.shields.io/github/stars/chili-lab/Spherical-Steering?style=social) - rotates activations instead of adding to them (ICML 2026)
 - [weight-steering](https://github.com/safety-research/weight-steering) - code for [Steering Language Models with Weight Arithmetic](https://arxiv.org/abs/2511.05408)
