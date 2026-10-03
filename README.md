@@ -81,7 +81,8 @@ Mine (wassname)
 - [abliterator](https://github.com/wassname/abliterator) - concept removal (abliteration) with baukit, not TransformerLens
 - [persona-steering-template-library](https://github.com/wassname/persona-steering-template-library) - ~100 persona prompt templates for building steering vectors, judged on on-axis vs off-axis behaviour
 - [moral-maps](https://github.com/wassname/moral-maps) - puts models through human value surveys and plots them next to human societies; shows where steering moves a model
-- [tiny-mfv](https://huggingface.co/datasets/wassname/tiny-mfv) - small moral-foundations eval used by moral-maps
+  - also a plain [eval library](https://github.com/wassname/moral-maps/blob/main/docs/evals.md): moral foundation vignettes scored against human raters, plus MFQ-2, Big Five, 16PF and Humor Styles surveys comparable to human country means. Reads answer-token probabilities from a local HF model
+- [tiny-mfv](https://huggingface.co/datasets/wassname/tiny-mfv) - 132 moral foundation vignettes (Clifford et al. 2015) as a small eval, with classic, sci-fi and AI-actor versions
 
 
 ## Structured output 
