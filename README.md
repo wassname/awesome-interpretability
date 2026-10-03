@@ -79,7 +79,9 @@ Mine (wassname)
 - [ssteer-eval-aware](https://github.com/wassname/ssteer-eval-aware) - S-space steering suppresses eval-awareness
 - [query-steering](https://github.com/wassname/query-steering) - steer attention so the model reads out a secret from its context
 - [abliterator](https://github.com/wassname/abliterator) - concept removal (abliteration) with baukit, not TransformerLens
-- [tiny-mfv](https://huggingface.co/datasets/wassname/tiny-mfv) - small moral-foundations eval, used to check where steering moves a model's values ([moral-maps](https://github.com/wassname/moral-maps))
+- [persona-steering-template-library](https://github.com/wassname/persona-steering-template-library) - ~100 persona prompt templates for building steering vectors, judged on on-axis vs off-axis behaviour
+- [moral-maps](https://github.com/wassname/moral-maps) - puts models through human value surveys and plots them next to human societies; shows where steering moves a model
+- [tiny-mfv](https://huggingface.co/datasets/wassname/tiny-mfv) - small moral-foundations eval used by moral-maps
 
 
 ## Structured output 
