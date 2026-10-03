@@ -61,6 +61,7 @@ See [this lit review of Adapter intervention types](https://github.com/wassname/
   - my open PRs: [VJP-delta steering](https://github.com/generative-computing/steerability/pull/33), [CorDA-PCA, S-space and Linear-AcT](https://github.com/generative-computing/steerability/pull/32)
 - [IBM/activation-steering](https://github.com/IBM/activation-steering) ![](https://img.shields.io/github/stars/IBM/activation-steering?style=social) - general-purpose activation steering library (ICLR 2025)
 - [Spherical-Steering](https://github.com/chili-lab/Spherical-Steering) ![](https://img.shields.io/github/stars/chili-lab/Spherical-Steering?style=social) - rotates activations instead of adding to them (ICML 2026)
+- [AxBench](https://github.com/stanfordnlp/axbench) ![](https://img.shields.io/github/stars/stanfordnlp/axbench?style=social) - benchmark for concept detection and steering. Paper: [AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders](https://arxiv.org/abs/2501.17148) (2025)
 - [weight-steering](https://github.com/safety-research/weight-steering) - code for [Steering Language Models with Weight Arithmetic](https://arxiv.org/abs/2511.05408)
 
 Reading
