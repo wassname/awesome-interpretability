@@ -8,6 +8,7 @@
   - uses jaxtyping, aliases models into a common interface, not as huggingface compatible as other libs
   - > [an extremely opinionated toolkit for doing whatever you want to specific models, ](https://twitter.com/NeelNanda5/status/1786146027659280430)
 - [Tuned Lens](https://github.com/AlignmentResearch/tuned-lens) ![](https://img.shields.io/github/stars/AlignmentResearch/tuned-lens?style=social) - tools for looking at how transformer predictions are built layer-by-layer
+- [Jacobian lens](https://github.com/anthropics/jacobian-lens) ![](https://img.shields.io/github/stars/anthropics/jacobian-lens?style=social) - decodes any residual vector into tokens via the average Jacobian to the last layer. Code for [Verbalizable Representations Form a Global Workspace in Language Models](https://transformer-circuits.pub/2026/workspace/index.html). Reference only, not maintained
 - [nnsight](https://github.com/ndif-team/nnsight) ![](https://img.shields.io/github/stars/ndif-team/nnsight?style=social) 
   - > [To customize a model, instead of running it as a function, you run it as a "with" context. Inside "with" you can write regular pytorch to modify the computation.](https://twitter.com/davidbau/status/1785991660197015827)
   - aim to keep it as simple as baukit eventually, and support remote mechinterp. HuggingFace compatible
@@ -65,6 +66,7 @@ See [this lit review of Adapter intervention types](https://github.com/wassname/
 Reading
 
 - Theia Vogel, [Small Models Can Introspect, Too](https://vgel.me/posts/qwen-introspection/) and the paper [Latent Introspection](https://arxiv.org/abs/2602.20031) - injected concept vectors, including an emergent-misalignment vector taken from the difference between two checkpoints
+- Luo et al., [Learning a Generative Meta-Model of LLM Activations](https://arxiv.org/abs/2602.06964) ([code](https://github.com/g-luo/generative_latent_prior)) - a diffusion model trained on residual activations; used as a prior, it makes steering more fluent
 - thebes (Theia Vogel), [lenses on steering vectors](https://x.com/voooooogel/status/2105793927035093490) (2026) - before you believe a "steer on X vector" result, check if a fine-tune, a sampler, a prompt, or a norm-matched random vector gives the same behaviour
 
 Mine (wassname)
