@@ -1,0 +1,426 @@
+{
+  "_id": "6a32e94f37ce0052330ad9bb",
+  "id": "neuronpedia/jacobian-lens",
+  "private": false,
+  "tags": [
+    "jacobian_lens",
+    "license:mit",
+    "region:us"
+  ],
+  "downloads": 0,
+  "likes": 115,
+  "modelId": "neuronpedia/jacobian-lens",
+  "author": "neuronpedia",
+  "sha": "b25d72a96b79c8e309d6625955a98751da47e67a",
+  "lastModified": "2026-09-25T21:08:20.000Z",
+  "gated": false,
+  "disabled": false,
+  "model-index": null,
+  "config": {},
+  "cardData": {
+    "license": "mit",
+    "tags": [
+      "jacobian_lens"
+    ]
+  },
+  "siblings": [
+    {
+      "rfilename": ".DS_Store"
+    },
+    {
+      "rfilename": ".gitattributes"
+    },
+    {
+      "rfilename": "README.md"
+    },
+    {
+      "rfilename": "deepseek-v4-flash/jlens/NeelNanda-pile-10k/config.yaml"
+    },
+    {
+      "rfilename": "deepseek-v4-flash/jlens/NeelNanda-pile-10k/deepseek-v4-flash_jacobian_lens_cblank.pt"
+    },
+    {
+      "rfilename": "gemma-2-27b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-2-27b/jlens/Salesforce-wikitext/gemma-2-27b_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-2-27b/jlens/Salesforce-wikitext/gemma-2-27b_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-2-2b-it/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-2-2b-it/jlens/Salesforce-wikitext/gemma-2-2b-it_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-2-2b-it/jlens/Salesforce-wikitext/gemma-2-2b-it_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-2-2b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-2-2b/jlens/Salesforce-wikitext/gemma-2-2b_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-2-2b/jlens/Salesforce-wikitext/gemma-2-2b_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-2-9b-it/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-2-9b-it/jlens/Salesforce-wikitext/gemma-2-9b-it_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-2-9b-it/jlens/Salesforce-wikitext/gemma-2-9b-it_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-2-9b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-2-9b/jlens/Salesforce-wikitext/gemma-2-9b_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-2-9b/jlens/Salesforce-wikitext/gemma-2-9b_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-3-12b-it/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-3-12b-it/jlens/Salesforce-wikitext/gemma-3-12b-it_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-3-12b-it/jlens/Salesforce-wikitext/gemma-3-12b-it_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-3-12b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-3-12b/jlens/Salesforce-wikitext/gemma-3-12b-pt_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-3-12b/jlens/Salesforce-wikitext/gemma-3-12b-pt_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-3-1b-it/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-3-1b-it/jlens/Salesforce-wikitext/gemma-3-1b-it_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-3-1b-it/jlens/Salesforce-wikitext/gemma-3-1b-it_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-3-1b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-3-1b/jlens/Salesforce-wikitext/gemma-3-1b-pt_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-3-1b/jlens/Salesforce-wikitext/gemma-3-1b-pt_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-3-270m-it/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-3-270m-it/jlens/Salesforce-wikitext/gemma-3-270m-it_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-3-270m-it/jlens/Salesforce-wikitext/gemma-3-270m-it_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-3-270m/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-3-270m/jlens/Salesforce-wikitext/gemma-3-270m_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-3-270m/jlens/Salesforce-wikitext/gemma-3-270m_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-3-27b-it/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-3-27b-it/jlens/Salesforce-wikitext/gemma-3-27b-it_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-3-27b-it/jlens/Salesforce-wikitext/gemma-3-27b-it_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-3-27b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-3-27b/jlens/Salesforce-wikitext/gemma-3-27b-pt_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-3-27b/jlens/Salesforce-wikitext/gemma-3-27b-pt_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-3-4b-it/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-3-4b-it/jlens/Salesforce-wikitext/gemma-3-4b-it_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-3-4b-it/jlens/Salesforce-wikitext/gemma-3-4b-it_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-3-4b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-3-4b/jlens/Salesforce-wikitext/gemma-3-4b-pt_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-3-4b/jlens/Salesforce-wikitext/gemma-3-4b-pt_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-4-31b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-4-31b/jlens/Salesforce-wikitext/gemma-4-31B_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-4-31b/jlens/Salesforce-wikitext/gemma-4-31B_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-4-e2b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-4-e2b/jlens/Salesforce-wikitext/gemma-4-E2B_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-4-e2b/jlens/Salesforce-wikitext/gemma-4-E2B_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gemma-4-e4b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gemma-4-e4b/jlens/Salesforce-wikitext/gemma-4-E4B_convergence.csv"
+    },
+    {
+      "rfilename": "gemma-4-e4b/jlens/Salesforce-wikitext/gemma-4-E4B_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gpt-oss-20b/.DS_Store"
+    },
+    {
+      "rfilename": "gpt-oss-20b/jlens/.DS_Store"
+    },
+    {
+      "rfilename": "gpt-oss-20b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gpt-oss-20b/jlens/Salesforce-wikitext/gpt-oss-20b_convergence.csv"
+    },
+    {
+      "rfilename": "gpt-oss-20b/jlens/Salesforce-wikitext/gpt-oss-20b_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "gpt2-small/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "gpt2-small/jlens/Salesforce-wikitext/gpt2_convergence.csv"
+    },
+    {
+      "rfilename": "gpt2-small/jlens/Salesforce-wikitext/gpt2_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "llama3.1-8b-it/jlens/Salesforce-wikitext/Llama-3.1-8B-Instruct_convergence.csv"
+    },
+    {
+      "rfilename": "llama3.1-8b-it/jlens/Salesforce-wikitext/Llama-3.1-8B-Instruct_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "llama3.1-8b-it/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "llama3.1-8b/jlens/Salesforce-wikitext/Llama-3.1-8B_convergence.csv"
+    },
+    {
+      "rfilename": "llama3.1-8b/jlens/Salesforce-wikitext/Llama-3.1-8B_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "llama3.1-8b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "llama3.3-70b-it/.DS_Store"
+    },
+    {
+      "rfilename": "llama3.3-70b-it/jlens/.DS_Store"
+    },
+    {
+      "rfilename": "llama3.3-70b-it/jlens/Salesforce-wikitext/Llama-3.3-70B-Instruct_convergence.csv"
+    },
+    {
+      "rfilename": "llama3.3-70b-it/jlens/Salesforce-wikitext/Llama-3.3-70B-Instruct_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "llama3.3-70b-it/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "olmo-3-1025-7b/jlens/Salesforce-wikitext/Olmo-3-1025-7B_convergence.csv"
+    },
+    {
+      "rfilename": "olmo-3-1025-7b/jlens/Salesforce-wikitext/Olmo-3-1025-7B_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "olmo-3-1025-7b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "olmo-3-1125-32b/jlens/Salesforce-wikitext/Olmo-3-1125-32B_convergence.csv"
+    },
+    {
+      "rfilename": "olmo-3-1125-32b/jlens/Salesforce-wikitext/Olmo-3-1125-32B_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "olmo-3-1125-32b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "pythia-70m-deduped/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "pythia-70m-deduped/jlens/Salesforce-wikitext/pythia-70m-deduped_convergence.csv"
+    },
+    {
+      "rfilename": "pythia-70m-deduped/jlens/Salesforce-wikitext/pythia-70m-deduped_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "qwen2.5-7b-it/jlens/Salesforce-wikitext/Qwen2.5-7B-Instruct_convergence.csv"
+    },
+    {
+      "rfilename": "qwen2.5-7b-it/jlens/Salesforce-wikitext/Qwen2.5-7B-Instruct_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "qwen2.5-7b-it/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "qwen3-1.7b/jlens/Salesforce-wikitext/Qwen3-1.7B_convergence.csv"
+    },
+    {
+      "rfilename": "qwen3-1.7b/jlens/Salesforce-wikitext/Qwen3-1.7B_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "qwen3-1.7b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "qwen3-14b/jlens/Salesforce-wikitext/Qwen3-14B_convergence.csv"
+    },
+    {
+      "rfilename": "qwen3-14b/jlens/Salesforce-wikitext/Qwen3-14B_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "qwen3-14b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "qwen3-32b/jlens/Salesforce-wikitext/Qwen3-32B_convergence.csv"
+    },
+    {
+      "rfilename": "qwen3-32b/jlens/Salesforce-wikitext/Qwen3-32B_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "qwen3-32b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "qwen3-4b/jlens/Salesforce-wikitext/Qwen3-4B_convergence.csv"
+    },
+    {
+      "rfilename": "qwen3-4b/jlens/Salesforce-wikitext/Qwen3-4B_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "qwen3-4b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "qwen3-8b/jlens/Salesforce-wikitext/Qwen3-8B_convergence.csv"
+    },
+    {
+      "rfilename": "qwen3-8b/jlens/Salesforce-wikitext/Qwen3-8B_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "qwen3-8b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "qwen3.5-0.8b/jlens/Salesforce-wikitext/Qwen3.5-0.8B_convergence.csv"
+    },
+    {
+      "rfilename": "qwen3.5-0.8b/jlens/Salesforce-wikitext/Qwen3.5-0.8B_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "qwen3.5-0.8b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "qwen3.5-27b/jlens/Salesforce-wikitext/Qwen3.5-27B_convergence.csv"
+    },
+    {
+      "rfilename": "qwen3.5-27b/jlens/Salesforce-wikitext/Qwen3.5-27B_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "qwen3.5-27b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "qwen3.5-2b-pt/jlens/Salesforce-wikitext/Qwen3.5-2B-Base_convergence.csv"
+    },
+    {
+      "rfilename": "qwen3.5-2b-pt/jlens/Salesforce-wikitext/Qwen3.5-2B-Base_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "qwen3.5-2b-pt/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "qwen3.5-2b/jlens/Salesforce-wikitext/Qwen3.5-2B_convergence.csv"
+    },
+    {
+      "rfilename": "qwen3.5-2b/jlens/Salesforce-wikitext/Qwen3.5-2B_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "qwen3.5-2b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "qwen3.5-4b/jlens/Salesforce-wikitext/CREDIT.md"
+    },
+    {
+      "rfilename": "qwen3.5-4b/jlens/Salesforce-wikitext/Qwen3.5-4B_convergence.csv"
+    },
+    {
+      "rfilename": "qwen3.5-4b/jlens/Salesforce-wikitext/Qwen3.5-4B_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "qwen3.5-4b/jlens/Salesforce-wikitext/Qwen3.5-4B_jacobian_lens_n1000.pt"
+    },
+    {
+      "rfilename": "qwen3.5-4b/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "qwen3.5-9b-pt/jlens/Salesforce-wikitext/Qwen3.5-9B-Base_convergence.csv"
+    },
+    {
+      "rfilename": "qwen3.5-9b-pt/jlens/Salesforce-wikitext/Qwen3.5-9B-Base_jacobian_lens.pt"
+    },
+    {
+      "rfilename": "qwen3.5-9b-pt/jlens/Salesforce-wikitext/config.yaml"
+    },
+    {
+      "rfilename": "qwen3.6-27b/.DS_Store"
+    },
+    {
+      "rfilename": "qwen3.6-27b/jlens/.DS_Store"
+    },
+    {
+      "rfilename": "qwen3.6-27b/jlens/Salesforce-wikitext/.DS_Store"
+    },
+    {
+      "rfilename": "qwen3.6-27b/jlens/Salesforce-wikitext/CREDIT.md"
+    },
+    {
+      "rfilename": "qwen3.6-27b/jlens/Salesforce-wikitext/Qwen3.6-27B_jacobian_lens_n1000.pt"
+    }
+  ],
+  "spaces": [
+    "ktangri/jacobian-lens-playground",
+    "KaijuOnHuggingFace/JLens",
+    "AkmalAlif69/exepert-jacobian-space",
+    "aayu-outdooragi/precog-plus"
+  ],
+  "createdAt": "2026-06-17T18:37:03.000Z",
+  "usedStorage": 67492655791
+}

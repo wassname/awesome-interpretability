@@ -1,0 +1,126 @@
+{
+  "_id": "699b80389e809f74671498b6",
+  "id": "guidelabs/steerling-8b",
+  "private": false,
+  "pipeline_tag": "text-generation",
+  "library_name": "steerling",
+  "tags": [
+    "steerling",
+    "safetensors",
+    "causal-diffusion",
+    "interpretability",
+    "concept-steering",
+    "masked-diffusion",
+    "block-causal",
+    "text-generation",
+    "custom_code",
+    "en",
+    "arxiv:2608.07594",
+    "license:apache-2.0",
+    "region:us"
+  ],
+  "downloads": 172,
+  "likes": 118,
+  "modelId": "guidelabs/steerling-8b",
+  "author": "guidelabs",
+  "sha": "f2e59522c2f6d91c063770a4ce5514947a7b68bc",
+  "lastModified": "2026-08-12T02:19:38.000Z",
+  "gated": false,
+  "disabled": false,
+  "widgetData": [
+    {
+      "text": "Hi, what can you help me with?"
+    },
+    {
+      "text": "What is 84 * 3 / 2?"
+    },
+    {
+      "text": "Tell me an interesting fact about the universe!"
+    },
+    {
+      "text": "Explain quantum computing in simple terms."
+    }
+  ],
+  "model-index": null,
+  "config": {
+    "model_type": "steerling",
+    "auto_map": {
+      "AutoConfig": "configuration_steerling.SteerlingConfig",
+      "AutoModel": "modeling_steerling.SteerlingForCausalLM",
+      "AutoModelForCausalLM": "modeling_steerling.SteerlingForCausalLM",
+      "AutoTokenizer": "tokenization_steerling.SteerlingTokenizer"
+    },
+    "architectures": [
+      "SteerlingForCausalLM"
+    ],
+    "tokenizer_config": {
+      "pad_token": "<|pad|>",
+      "bos_token": "<|bos|>",
+      "eos_token": "<|endoftext|>"
+    }
+  },
+  "cardData": {
+    "language": [
+      "en"
+    ],
+    "library_name": "steerling",
+    "license": "apache-2.0",
+    "pipeline_tag": "text-generation",
+    "tags": [
+      "causal-diffusion",
+      "interpretability",
+      "concept-steering",
+      "masked-diffusion",
+      "block-causal"
+    ]
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes"
+    },
+    {
+      "rfilename": "README.md"
+    },
+    {
+      "rfilename": "config.json"
+    },
+    {
+      "rfilename": "configuration_steerling.py"
+    },
+    {
+      "rfilename": "model-00001-of-00004.safetensors"
+    },
+    {
+      "rfilename": "model-00002-of-00004.safetensors"
+    },
+    {
+      "rfilename": "model-00003-of-00004.safetensors"
+    },
+    {
+      "rfilename": "model-00004-of-00004.safetensors"
+    },
+    {
+      "rfilename": "model.safetensors.index.json"
+    },
+    {
+      "rfilename": "modeling_steerling.py"
+    },
+    {
+      "rfilename": "tokenization_steerling.py"
+    },
+    {
+      "rfilename": "tokenizer_config.json"
+    }
+  ],
+  "spaces": [
+    "Sergidev/DLLM-Demo"
+  ],
+  "createdAt": "2026-02-22T22:16:24.000Z",
+  "safetensors": {
+    "parameters": {
+      "BF16": 8391778304
+    },
+    "total": 8391778304
+  },
+  "usedStorage": 33567173072
+}

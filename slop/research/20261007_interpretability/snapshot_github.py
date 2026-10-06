@@ -15,7 +15,7 @@ import re
 import subprocess
 import urllib.parse
 
-BOT_NAMES = {"dependabot", "renovate", "github-actions", "semantic-release-bot", "claude", "cursor", "codex", "copilot"}
+BOT_NAMES = {"dependabot", "renovate", "github-actions", "semantic-release-bot", "copybara-github", "cursoragent", "claude", "cursor", "codex", "copilot"}
 CODE_SUFFIXES = {".py", ".ipynb", ".rs", ".ts", ".tsx", ".js", ".jsx", ".c", ".cpp", ".h", ".cu", ".sh", ".toml", ".yaml", ".yml", ".html", ".css", ".vue"}
 
 

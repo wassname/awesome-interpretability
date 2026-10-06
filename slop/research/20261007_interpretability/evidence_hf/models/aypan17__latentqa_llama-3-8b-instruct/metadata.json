@@ -1,0 +1,41 @@
+{
+  "_id": "67593124138cfdc3f3e35419",
+  "id": "aypan17/latentqa_llama-3-8b-instruct",
+  "private": false,
+  "tags": [
+    "safetensors",
+    "arxiv:2412.08686",
+    "license:cc-by-nc-sa-4.0",
+    "region:us"
+  ],
+  "downloads": 0,
+  "likes": 6,
+  "modelId": "aypan17/latentqa_llama-3-8b-instruct",
+  "author": "aypan17",
+  "sha": "771bc02bc54c33fdd17fdad1db394958933b8ca4",
+  "lastModified": "2024-12-13T06:27:53.000Z",
+  "gated": false,
+  "disabled": false,
+  "model-index": null,
+  "config": {},
+  "cardData": {
+    "license": "cc-by-nc-sa-4.0"
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes"
+    },
+    {
+      "rfilename": "README.md"
+    },
+    {
+      "rfilename": "adapter_config.json"
+    },
+    {
+      "rfilename": "adapter_model.safetensors"
+    }
+  ],
+  "spaces": [],
+  "createdAt": "2024-12-11T06:28:52.000Z",
+  "usedStorage": 13648688
+}

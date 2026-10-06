@@ -1,0 +1,7 @@
+[
+  {
+    "repo": "topics/interpretability",
+    "error": "Command '['gh', 'api', 'repos/topics/interpretability', '--cache', '3600s']' returned non-zero exit status 1.",
+    "stderr": "gh: Not Found (HTTP 404)\n"
+  }
+]

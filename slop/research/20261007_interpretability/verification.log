@@ -1,0 +1,21 @@
+PI/gpt-6.1-sol research verification 2026-10-06T23:13:17.433321+00:00
+README byte-identical to original: 12cd4bc9483423311e53d04cc6a173807540c4297c9f7acdaef308cad75ee13b
+snapshot_github.py syntax PASS
+snapshot_hf.py syntax PASS
+JSON parse PASS: 22 durable records
+existing 51 snapshot rows match preserved raw metadata in .local cache
+new 12 snapshot rows match preserved raw metadata in .local cache
+extra 9 snapshot rows match preserved raw metadata in .local cache
+shortlist 19 snapshot rows match preserved raw metadata in .local cache
+GH: 91 rows; 89 canonical repos; candidate subset40rows/38repos
+Compact account IDs unique within each of89repos PASS; person/alias interpretation NOT automated
+99 default-tip records including10 extra repo checks PASS
+HF ten records: three Transluce, one explicit missing Steerling card PASS
+Main report markdown tables have consistent columns PASS: 8 tables
+existing historical API failures: ['topics/interpretability']
+new historical API failures: ['captum/captum', 'zennit/crp', 'maximilien-c/activations-lens']
+extra historical API failures: []
+shortlist historical API failures: []
+Workflow receipt state: complete
+Independent challenge preserved; requested tip/credit/CI corrections incorporated by parent.
+No runtime, compatibility/performance or scientific-result tests. No publication/push.

@@ -1,0 +1,106 @@
+{
+  "_id": "69333837c99a9a10eb6bb540",
+  "id": "Transluce/features_explain_llama3.1_8b_llama3.1_8b_instruct",
+  "private": false,
+  "pipeline_tag": "text-generation",
+  "tags": [
+    "safetensors",
+    "llama",
+    "text-generation",
+    "en",
+    "arxiv:2511.08579",
+    "base_model:meta-llama/Llama-3.1-8B-Instruct",
+    "base_model:finetune:meta-llama/Llama-3.1-8B-Instruct",
+    "license:mit",
+    "region:us"
+  ],
+  "downloads": 232,
+  "likes": 0,
+  "modelId": "Transluce/features_explain_llama3.1_8b_llama3.1_8b_instruct",
+  "author": "Transluce",
+  "sha": "e43357c4c82c57d5b9f8480337cb6b8d0118e690",
+  "lastModified": "2026-01-03T01:06:21.000Z",
+  "gated": false,
+  "disabled": false,
+  "widgetData": [
+    {
+      "text": "Hi, what can you help me with?"
+    },
+    {
+      "text": "What is 84 * 3 / 2?"
+    },
+    {
+      "text": "Tell me an interesting fact about the universe!"
+    },
+    {
+      "text": "Explain quantum computing in simple terms."
+    }
+  ],
+  "model-index": null,
+  "config": {
+    "architectures": [
+      "LlamaWithIntervention"
+    ],
+    "model_type": "llama"
+  },
+  "cardData": {
+    "base_model": [
+      "meta-llama/Llama-3.1-8B-Instruct"
+    ],
+    "language": [
+      "en"
+    ],
+    "license": "mit",
+    "pipeline_tag": "text-generation"
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes"
+    },
+    {
+      "rfilename": "README.md"
+    },
+    {
+      "rfilename": "config.json"
+    },
+    {
+      "rfilename": "generation_config.json"
+    },
+    {
+      "rfilename": "model-00001-of-00004.safetensors"
+    },
+    {
+      "rfilename": "model-00002-of-00004.safetensors"
+    },
+    {
+      "rfilename": "model-00003-of-00004.safetensors"
+    },
+    {
+      "rfilename": "model-00004-of-00004.safetensors"
+    },
+    {
+      "rfilename": "model.safetensors.index.json"
+    },
+    {
+      "rfilename": "rng_state.pth"
+    },
+    {
+      "rfilename": "scheduler.pt"
+    },
+    {
+      "rfilename": "trainer_state.json"
+    },
+    {
+      "rfilename": "training_args.bin"
+    }
+  ],
+  "spaces": [],
+  "createdAt": "2025-12-05T19:53:27.000Z",
+  "safetensors": {
+    "parameters": {
+      "BF16": 8030261248
+    },
+    "total": 8030261248
+  },
+  "usedStorage": 32121156590
+}

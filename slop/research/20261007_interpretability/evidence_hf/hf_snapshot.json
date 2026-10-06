@@ -1,0 +1,275 @@
+[
+  {
+    "id": "Transluce/llama_8b_explainer",
+    "sha": "2059f401d12800b982b6d9f5c3751fb2edeada8c",
+    "private": false,
+    "gated": false,
+    "likes": 9,
+    "downloads": 35,
+    "createdAt": "2024-10-31T07:16:05.000Z",
+    "lastModified": "2024-10-31T07:52:39.000Z",
+    "cardData": {
+      "license": "mit"
+    },
+    "safetensors": {
+      "parameters": {
+        "BF16": 8030302208
+      },
+      "total": 8030302208
+    },
+    "kind": "models",
+    "card_url": "https://huggingface.co/Transluce/llama_8b_explainer/raw/main/README.md",
+    "card_status": "fetched",
+    "runtime": null,
+    "retrieved_at": "2026-10-06T23:02:12.084211+00:00"
+  },
+  {
+    "id": "Transluce/features_explain_llama3.1_8b_llama3.1_8b_instruct",
+    "sha": "e43357c4c82c57d5b9f8480337cb6b8d0118e690",
+    "private": false,
+    "gated": false,
+    "likes": 0,
+    "downloads": 232,
+    "createdAt": "2025-12-05T19:53:27.000Z",
+    "lastModified": "2026-01-03T01:06:21.000Z",
+    "cardData": {
+      "base_model": [
+        "meta-llama/Llama-3.1-8B-Instruct"
+      ],
+      "language": [
+        "en"
+      ],
+      "license": "mit",
+      "pipeline_tag": "text-generation"
+    },
+    "safetensors": {
+      "parameters": {
+        "BF16": 8030261248
+      },
+      "total": 8030261248
+    },
+    "kind": "models",
+    "card_url": "https://huggingface.co/Transluce/features_explain_llama3.1_8b_llama3.1_8b_instruct/raw/main/README.md",
+    "card_status": "fetched",
+    "runtime": null,
+    "retrieved_at": "2026-10-06T23:02:12.646902+00:00"
+  },
+  {
+    "id": "Transluce/act_patch_qwen3_8b_qwen3_8b",
+    "sha": "8e81da36791d16a60c29ee4c5122bb6fee85a46f",
+    "private": false,
+    "gated": false,
+    "likes": 0,
+    "downloads": 20,
+    "createdAt": "2025-12-17T18:22:19.000Z",
+    "lastModified": "2026-01-03T01:19:00.000Z",
+    "cardData": {
+      "base_model": "Qwen/Qwen3-8B",
+      "library_name": "peft",
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "base_model:adapter:Qwen/Qwen3-8B",
+        "lora",
+        "transformers"
+      ]
+    },
+    "safetensors": null,
+    "kind": "models",
+    "card_url": "https://huggingface.co/Transluce/act_patch_qwen3_8b_qwen3_8b/raw/main/README.md",
+    "card_status": "fetched",
+    "runtime": null,
+    "retrieved_at": "2026-10-06T23:02:13.241416+00:00"
+  },
+  {
+    "id": "guidelabs/steerling-8b",
+    "sha": "f2e59522c2f6d91c063770a4ce5514947a7b68bc",
+    "private": false,
+    "gated": false,
+    "likes": 118,
+    "downloads": 172,
+    "createdAt": "2026-02-22T22:16:24.000Z",
+    "lastModified": "2026-08-12T02:19:38.000Z",
+    "cardData": {
+      "language": [
+        "en"
+      ],
+      "library_name": "steerling",
+      "license": "apache-2.0",
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "causal-diffusion",
+        "interpretability",
+        "concept-steering",
+        "masked-diffusion",
+        "block-causal"
+      ]
+    },
+    "safetensors": {
+      "parameters": {
+        "BF16": 8391778304
+      },
+      "total": 8391778304
+    },
+    "kind": "models",
+    "card_url": "https://huggingface.co/guidelabs/steerling-8b/raw/main/README.md",
+    "card_status": "fetched",
+    "runtime": null,
+    "retrieved_at": "2026-10-06T23:02:13.866256+00:00"
+  },
+  {
+    "id": "guidelabs/steerling-8b-instruct",
+    "sha": "6e5a87d00d45348001810c30fe9bd65110b69fc2",
+    "private": false,
+    "gated": false,
+    "likes": 3,
+    "downloads": 57,
+    "createdAt": "2026-06-17T20:58:12.000Z",
+    "lastModified": "2026-06-24T19:33:04.000Z",
+    "cardData": null,
+    "safetensors": {
+      "parameters": {
+        "BF16": 8803110912
+      },
+      "total": 8803110912
+    },
+    "kind": "models",
+    "card_url": "https://huggingface.co/guidelabs/steerling-8b-instruct/raw/main/README.md",
+    "card_status": "404: card absent",
+    "runtime": null,
+    "retrieved_at": "2026-10-06T23:02:14.408662+00:00"
+  },
+  {
+    "id": "aypan17/latentqa_llama-3-8b-instruct",
+    "sha": "771bc02bc54c33fdd17fdad1db394958933b8ca4",
+    "private": false,
+    "gated": false,
+    "likes": 6,
+    "downloads": 0,
+    "createdAt": "2024-12-11T06:28:52.000Z",
+    "lastModified": "2024-12-13T06:27:53.000Z",
+    "cardData": {
+      "license": "cc-by-nc-sa-4.0"
+    },
+    "safetensors": null,
+    "kind": "models",
+    "card_url": "https://huggingface.co/aypan17/latentqa_llama-3-8b-instruct/raw/main/README.md",
+    "card_status": "fetched",
+    "runtime": null,
+    "retrieved_at": "2026-10-06T23:02:15.139277+00:00"
+  },
+  {
+    "id": "neuronpedia/jacobian-lens",
+    "sha": "b25d72a96b79c8e309d6625955a98751da47e67a",
+    "private": false,
+    "gated": false,
+    "likes": 115,
+    "downloads": 0,
+    "createdAt": "2026-06-17T18:37:03.000Z",
+    "lastModified": "2026-09-25T21:08:20.000Z",
+    "cardData": {
+      "license": "mit",
+      "tags": [
+        "jacobian_lens"
+      ]
+    },
+    "safetensors": null,
+    "kind": "models",
+    "card_url": "https://huggingface.co/neuronpedia/jacobian-lens/raw/main/README.md",
+    "card_status": "fetched",
+    "runtime": null,
+    "retrieved_at": "2026-10-06T23:02:15.715169+00:00"
+  },
+  {
+    "id": "AlignmentResearch/tuned-lens",
+    "sha": "1ac7285852a22309f571c2555efc37375d0c4cda",
+    "private": false,
+    "gated": false,
+    "likes": 31,
+    "downloads": null,
+    "createdAt": "2023-03-07T02:41:35.000Z",
+    "lastModified": "2024-07-22T19:50:18.000Z",
+    "cardData": {
+      "title": "Tuned Lens",
+      "emoji": "\ud83d\udd0e",
+      "colorFrom": "pink",
+      "colorTo": "blue",
+      "sdk": "docker",
+      "pinned": false,
+      "license": "mit"
+    },
+    "safetensors": null,
+    "kind": "spaces",
+    "card_url": "https://huggingface.co/spaces/AlignmentResearch/tuned-lens/raw/main/README.md",
+    "card_status": "fetched",
+    "runtime": {
+      "stage": "RUNNING",
+      "hardware": {
+        "current": "cpu-basic",
+        "requested": "cpu-basic"
+      },
+      "gcTimeout": 86400,
+      "replicas": {
+        "current": 1,
+        "requested": 1
+      },
+      "devMode": false,
+      "domains": [
+        {
+          "domain": "alignmentresearch-tuned-lens.hf.space",
+          "stage": "READY"
+        }
+      ],
+      "sha": "1ac7285852a22309f571c2555efc37375d0c4cda"
+    },
+    "retrieved_at": "2026-10-06T23:02:16.559314+00:00"
+  },
+  {
+    "id": "aryaman/causalgym",
+    "sha": "95349c3a5e53e2506e8b212482ea6dd784978156",
+    "private": false,
+    "gated": false,
+    "likes": 7,
+    "downloads": 117,
+    "createdAt": "2024-02-19T07:30:34.000Z",
+    "lastModified": "2024-02-21T01:29:24.000Z",
+    "cardData": {
+      "license": "mit",
+      "language": [
+        "en"
+      ],
+      "tags": [
+        "interpretability",
+        "linguistics"
+      ],
+      "pretty_name": "CausalGym",
+      "size_categories": [
+        "10K<n<100K"
+      ]
+    },
+    "safetensors": null,
+    "kind": "datasets",
+    "card_url": "https://huggingface.co/datasets/aryaman/causalgym/raw/main/README.md",
+    "card_status": "fetched",
+    "runtime": null,
+    "retrieved_at": "2026-10-06T23:02:17.092482+00:00"
+  },
+  {
+    "id": "pyvene/axbench-concept16k",
+    "sha": "ec272d02dd6cde698b5591980bb674baf409533f",
+    "private": false,
+    "gated": false,
+    "likes": 4,
+    "downloads": 97,
+    "createdAt": "2025-01-16T23:00:58.000Z",
+    "lastModified": "2025-01-24T05:48:14.000Z",
+    "cardData": {
+      "license": "cc-by-4.0"
+    },
+    "safetensors": null,
+    "kind": "datasets",
+    "card_url": "https://huggingface.co/datasets/pyvene/axbench-concept16k/raw/main/README.md",
+    "card_status": "fetched",
+    "runtime": null,
+    "retrieved_at": "2026-10-06T23:02:17.752330+00:00"
+  }
+]

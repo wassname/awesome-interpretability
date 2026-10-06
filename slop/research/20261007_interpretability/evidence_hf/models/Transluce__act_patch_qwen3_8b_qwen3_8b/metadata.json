@@ -1,0 +1,89 @@
+{
+  "_id": "6942f4db632909d722702a8e",
+  "id": "Transluce/act_patch_qwen3_8b_qwen3_8b",
+  "private": false,
+  "pipeline_tag": "text-generation",
+  "library_name": "peft",
+  "tags": [
+    "peft",
+    "safetensors",
+    "base_model:adapter:Qwen/Qwen3-8B",
+    "lora",
+    "transformers",
+    "text-generation",
+    "arxiv:2511.08579",
+    "base_model:Qwen/Qwen3-8B",
+    "region:us"
+  ],
+  "downloads": 20,
+  "likes": 0,
+  "modelId": "Transluce/act_patch_qwen3_8b_qwen3_8b",
+  "author": "Transluce",
+  "sha": "8e81da36791d16a60c29ee4c5122bb6fee85a46f",
+  "lastModified": "2026-01-03T01:19:00.000Z",
+  "gated": false,
+  "disabled": false,
+  "widgetData": [
+    {
+      "text": "Hi, what can you help me with?"
+    },
+    {
+      "text": "What is 84 * 3 / 2?"
+    },
+    {
+      "text": "Tell me an interesting fact about the universe!"
+    },
+    {
+      "text": "Explain quantum computing in simple terms."
+    }
+  ],
+  "model-index": null,
+  "config": {
+    "peft": {
+      "base_model_name_or_path": "Qwen/Qwen3-8B",
+      "task_type": "CAUSAL_LM"
+    }
+  },
+  "cardData": {
+    "base_model": "Qwen/Qwen3-8B",
+    "library_name": "peft",
+    "pipeline_tag": "text-generation",
+    "tags": [
+      "base_model:adapter:Qwen/Qwen3-8B",
+      "lora",
+      "transformers"
+    ]
+  },
+  "transformersInfo": {
+    "auto_model": "AutoModel"
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes"
+    },
+    {
+      "rfilename": "README.md"
+    },
+    {
+      "rfilename": "adapter_config.json"
+    },
+    {
+      "rfilename": "adapter_model.safetensors"
+    },
+    {
+      "rfilename": "rng_state.pth"
+    },
+    {
+      "rfilename": "scheduler.pt"
+    },
+    {
+      "rfilename": "trainer_state.json"
+    },
+    {
+      "rfilename": "training_args.bin"
+    }
+  ],
+  "spaces": [],
+  "createdAt": "2025-12-17T18:22:19.000Z",
+  "usedStorage": 3886113759
+}

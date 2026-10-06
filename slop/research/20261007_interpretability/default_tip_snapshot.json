@@ -1,0 +1,596 @@
+[
+  {
+    "repo": "interpretml/interpret",
+    "branch": "main",
+    "sha": "560f8dde814cac03aec89e189bc9874012c7f1a5",
+    "date": "2026-08-17T00:51:48Z"
+  },
+  {
+    "repo": "underlines/awesome-ml",
+    "branch": "master",
+    "sha": "81c7bdf6fd008bcc48308306194491a5748cf35d",
+    "date": "2025-04-25T00:01:11Z"
+  },
+  {
+    "repo": "zennit/zennit",
+    "branch": "main",
+    "sha": "ff24845593dcb5dd565cdd9f3f2d0fa3fb2e2ce8",
+    "date": "2022-04-25T04:13:06Z"
+  },
+  {
+    "repo": "decoderesearch/interp-engine",
+    "branch": "main",
+    "sha": "eb9bb6d992e73d7624965583dd945ec15f0c510e",
+    "date": "2026-10-02T06:35:42Z"
+  },
+  {
+    "repo": "liusida/ica-lens-paper",
+    "branch": "main",
+    "sha": "6ad5bee4c94d22173e6ffefe20a0f9ba96c703d9",
+    "date": "2026-09-30T02:46:20Z"
+  },
+  {
+    "repo": "SeldonIO/alibi",
+    "branch": "master",
+    "sha": "99c3421d7c971c85893625e37da1133e7ddf1779",
+    "date": "2025-10-10T16:32:09Z"
+  },
+  {
+    "repo": "canivel/dynolab",
+    "branch": "main",
+    "sha": "cf88c039f2dac338c66786aaf720182ccc79babf",
+    "date": "2026-10-04T19:30:11Z"
+  },
+  {
+    "repo": "interpretml/DiCE",
+    "branch": "main",
+    "sha": "8a3aea404f857fa599bfa7da663d94823b674688",
+    "date": "2025-07-13T17:30:34Z"
+  },
+  {
+    "repo": "marcotcr/lime",
+    "branch": "master",
+    "sha": "fd7eb2e6f760619c29fca0187c07b82157601b32",
+    "date": "2021-07-29T23:17:25Z"
+  },
+  {
+    "repo": "guidelabs/steerling",
+    "branch": "main",
+    "sha": "f34ffa89e46969445f3cf6e7c885e9623a2047c1",
+    "date": "2026-07-14T23:07:44Z"
+  },
+  {
+    "repo": "shap/shap",
+    "branch": "main",
+    "sha": "50be8f4fd7031d535d515042741320f53272d211",
+    "date": "2026-10-04T18:09:57Z"
+  },
+  {
+    "repo": "ninjahawk/Subtext",
+    "branch": "main",
+    "sha": "eb9207c409c4baabe32881c5050d624abdeca607",
+    "date": "2026-07-23T08:43:22Z"
+  },
+  {
+    "repo": "google-deepmind/tracr",
+    "branch": "main",
+    "sha": "9ce2b8c82b6ba10e62e86cf6f390e7536d4fd2cd",
+    "date": "2024-02-05T19:15:14Z"
+  },
+  {
+    "repo": "rachtibat/zennit-crp",
+    "branch": "master",
+    "sha": "ecf1b7873bf0bf5ca34b7d21407ccb95549198b8",
+    "date": "2026-01-14T14:25:16Z"
+  },
+  {
+    "repo": "safety-research/introspection-adapters",
+    "branch": "main",
+    "sha": "92a3b05ac1c472b76b966c441d11b88c1b7b76ec",
+    "date": "2026-04-28T07:43:01Z"
+  },
+  {
+    "repo": "chr5tphr/zennit",
+    "branch": "main",
+    "sha": "3e98348aa95e908f550ab2a13fca2245c30f7de3",
+    "date": "2026-05-13T09:07:12Z"
+  },
+  {
+    "repo": "adamkarvonen/activation_oracles",
+    "branch": "main",
+    "sha": "5712762cfc29a18d6414a1cf2cccb4ff4432ced5",
+    "date": "2026-09-26T00:43:39Z"
+  },
+  {
+    "repo": "stanfordnlp/pyreft",
+    "branch": "main",
+    "sha": "dafd0995a366d7b47160a337dcc388eda7431821",
+    "date": "2025-02-06T21:44:29Z"
+  },
+  {
+    "repo": "johnmarktaylor91/torchlens",
+    "branch": "main",
+    "sha": "20c222a3c4954b5f14af2e4e9095ab9123266279",
+    "date": "2026-10-04T13:42:19Z"
+  },
+  {
+    "repo": "aypan17/latentqa",
+    "branch": "main",
+    "sha": "a2dcb6f8eef52ce8c8e75ee71da66cb880f727f4",
+    "date": "2025-11-16T09:04:21Z"
+  },
+  {
+    "repo": "TransluceAI/circuits",
+    "branch": "main",
+    "sha": "2d215d4ba016ba8602b69d71fc0f1ad139a427b7",
+    "date": "2026-04-10T22:09:45Z"
+  },
+  {
+    "repo": "ndif-team/nnterp",
+    "branch": "main",
+    "sha": "b4a31274692f986e493ac5d20ba20a4ec8640955",
+    "date": "2026-07-02T16:00:31Z"
+  },
+  {
+    "repo": "explanare/ravel",
+    "branch": "main",
+    "sha": "e421fc9e132b3613b1d0020f856d539217fb30ca",
+    "date": "2025-10-30T22:18:24Z"
+  },
+  {
+    "repo": "decoderesearch/circuit-tracer",
+    "branch": "main",
+    "sha": "7f66876689f59e92fc3641650d38b8bd41749ec4",
+    "date": "2026-09-11T10:38:25Z"
+  },
+  {
+    "repo": "hannamw/MIB-circuit-track",
+    "branch": "main",
+    "sha": "b759df34433c9e31043ba9e02908ce0bf20e894f",
+    "date": "2025-06-30T15:35:24Z"
+  },
+  {
+    "repo": "aryamanarora/causalgym",
+    "branch": "main",
+    "sha": "0f3129ff3b6c5c8264892f30a25be25150ae9179",
+    "date": "2024-11-30T18:36:01Z"
+  },
+  {
+    "repo": "goodfire-ai/causalab",
+    "branch": "main",
+    "sha": "8e8d5d1f8f9ca8f42bfce7c6b5eef194f012660e",
+    "date": "2026-09-30T19:15:07Z"
+  },
+  {
+    "repo": "FOR-sight-ai/interpreto",
+    "branch": "main",
+    "sha": "b3b9a0fcbb46b891d0029d89a6561307114073a0",
+    "date": "2026-10-06T14:37:32Z"
+  },
+  {
+    "repo": "decoderesearch/SAELens",
+    "branch": "main",
+    "sha": "56e0a001e2bd4db938089152392c54aa4fe732a4",
+    "date": "2026-10-04T18:07:19Z"
+  },
+  {
+    "repo": "aaronmueller/MIB",
+    "branch": "main",
+    "sha": "b69dabe9899251d4a8fe90789afa4d655afc84c7",
+    "date": "2025-08-15T02:01:50Z"
+  },
+  {
+    "repo": "EleutherAI/delphi",
+    "branch": "main",
+    "sha": "4fea06e6e8b68eeaf302474325fca13df95c5d6f",
+    "date": "2026-08-25T06:05:25Z"
+  },
+  {
+    "repo": "google-deepmind/mishax",
+    "branch": "main",
+    "sha": "c143e3b5142f6b6967eba46ce1eb6aab53f15a7c",
+    "date": "2026-09-16T18:16:58Z"
+  },
+  {
+    "repo": "google-deepmind/treescope",
+    "branch": "main",
+    "sha": "20a94822d0c4c0a55c10eaa8fed96a77757f4068",
+    "date": "2026-06-18T18:41:55Z"
+  },
+  {
+    "repo": "TransluceAI/introspective-interp",
+    "branch": "main",
+    "sha": "594d53348734097857430826d88f5c6856164de7",
+    "date": "2026-07-07T12:16:56Z"
+  },
+  {
+    "repo": "EleutherAI/bergson",
+    "branch": "main",
+    "sha": "e741b8c3339c9ae1c35fee79240cd4cf6d483130",
+    "date": "2026-10-06T13:12:51Z"
+  },
+  {
+    "repo": "UFO-101/auto-circuit",
+    "branch": "main",
+    "sha": "7242291d0e5da5c9c044cd6cb97ab911be9adabf",
+    "date": "2026-08-17T03:47:04Z"
+  },
+  {
+    "repo": "ndif-team/workbench",
+    "branch": "main",
+    "sha": "416fc8b26e46debdc435c4a88f0379ae60335138",
+    "date": "2026-09-18T15:20:53Z"
+  },
+  {
+    "repo": "hannamw/EAP-IG",
+    "branch": "main",
+    "sha": "e24bafd3d22af2c59ac5a83e0a6581b89b5c05dd",
+    "date": "2026-05-23T08:53:22Z"
+  },
+  {
+    "repo": "ndif-team/nnsight",
+    "branch": "main",
+    "sha": "260c555bf2e3bd3395eed4df0435f35e253b2d3d",
+    "date": "2026-09-09T20:48:41Z"
+  },
+  {
+    "repo": "fdalvi/NeuroX",
+    "branch": "master",
+    "sha": "a9ac7cd90be89d72c5ed55d963e2843f039303fc",
+    "date": "2023-04-12T07:14:13Z"
+  },
+  {
+    "repo": "interpretml/interpret-community",
+    "branch": "main",
+    "sha": "0966bc936e84e56ab22d6869cc90a0f9c5e84a59",
+    "date": "2025-02-07T21:10:16Z"
+  },
+  {
+    "repo": "IBM/vLLM-Hook",
+    "branch": "main",
+    "sha": "0e34fddf2c234a50c9c820c2b7852472f8f4c51c",
+    "date": "2026-09-23T16:11:25Z"
+  },
+  {
+    "repo": "Prisma-Multimodal/ViT-Prisma",
+    "branch": "main",
+    "sha": "46d21f0bb1a4e23aaad60ff777e5fa3243e09383",
+    "date": "2025-07-21T11:17:59Z"
+  },
+  {
+    "repo": "MarcelRobeer/explabox",
+    "branch": "main",
+    "sha": "290eb01e44db35b1905443f12c3295b072c699d9",
+    "date": "2025-10-14T11:32:15Z"
+  },
+  {
+    "repo": "newhouseb/clownfish",
+    "branch": "main",
+    "sha": "13d8945f2ebd5346249fc74c00a2758651f07b9e",
+    "date": "2023-05-16T15:40:14Z"
+  },
+  {
+    "repo": "mlc-ai/xgrammar",
+    "branch": "main",
+    "sha": "ed1bc8312ba37947050938bf8bdd88b923a1057b",
+    "date": "2026-10-06T00:25:03Z"
+  },
+  {
+    "repo": "guidance-ai/llguidance",
+    "branch": "main",
+    "sha": "e7c69004694064a01db30ddc7a29a103a5d2f3c7",
+    "date": "2026-09-30T23:02:45Z"
+  },
+  {
+    "repo": "IBM/activation-steering",
+    "branch": "main",
+    "sha": "52be60235ee309b46c49d6d5877f36e20c52e6ab",
+    "date": "2025-08-29T17:07:37Z"
+  },
+  {
+    "repo": "noamgat/lm-format-enforcer",
+    "branch": "main",
+    "sha": "817f944fcc8851917c40300a47f62d1defc3ffc3",
+    "date": "2026-04-04T14:57:49Z"
+  },
+  {
+    "repo": "vgel/repeng",
+    "branch": "main",
+    "sha": "0ba7196d81f7c5de28b1159c9d1732440afd97ce",
+    "date": "2025-09-24T02:03:22Z"
+  },
+  {
+    "repo": "TransformerLensOrg/TransformerLens",
+    "branch": "main",
+    "sha": "191170906559adf5ede1560097718cf431b972ac",
+    "date": "2026-09-28T14:32:26Z"
+  },
+  {
+    "repo": "guardrails-ai/guardrails",
+    "branch": "main",
+    "sha": "06d0ff2c5f9bcb493d976b76f885e37e41ce845d",
+    "date": "2026-08-26T19:53:51Z"
+  },
+  {
+    "repo": "stanfordnlp/pyvene",
+    "branch": "main",
+    "sha": "9e333904dcf9e597ca76170010d17f4d4580de8d",
+    "date": "2026-03-06T05:37:20Z"
+  },
+  {
+    "repo": "AlignmentResearch/tuned-lens",
+    "branch": "main",
+    "sha": "abdac0c4de23d9f6d6c8459d576ad203aec15deb",
+    "date": "2025-08-07T20:51:42Z"
+  },
+  {
+    "repo": "chili-lab/Spherical-Steering",
+    "branch": "main",
+    "sha": "198cb2e2131c93340b3af2678b203cb77f30f740",
+    "date": "2026-05-19T17:45:30Z"
+  },
+  {
+    "repo": "mkuchnik/relm",
+    "branch": "main",
+    "sha": "cd18b0b5bc278b0da3f23567d23a83c1b62485a2",
+    "date": "2023-06-02T16:42:47Z"
+  },
+  {
+    "repo": "kitft/natural_language_autoencoders",
+    "branch": "main",
+    "sha": "0577769b55ad4fdd96d159e983361b97fa4e7331",
+    "date": "2026-08-02T18:11:28Z"
+  },
+  {
+    "repo": "UKGovernmentBEIS/vllm-lens",
+    "branch": "main",
+    "sha": "3d11fb0b6097b8834bbfc9a6200ec5a7f2205b81",
+    "date": "2026-10-02T15:02:33Z"
+  },
+  {
+    "repo": "inseq-team/inseq",
+    "branch": "main",
+    "sha": "a269ee8fbc65f9079109856e0f995e39a6333a8b",
+    "date": "2026-04-25T15:29:37Z"
+  },
+  {
+    "repo": "ejnnr/cupbearer",
+    "branch": "main",
+    "sha": "cf9838560a7de7fa09e44aec40ee68734a5fe4c8",
+    "date": "2025-01-09T11:51:09Z"
+  },
+  {
+    "repo": "g-luo/generative_latent_prior",
+    "branch": "main",
+    "sha": "9895e12247aa4713b0cf14797726f8284443a72d",
+    "date": "2026-09-12T20:45:14Z"
+  },
+  {
+    "repo": "annahdo/implementing_activation_steering",
+    "branch": "main",
+    "sha": "5458edc1fb703166fc4cdb391db2bc2849c64f17",
+    "date": "2024-10-18T17:11:57Z"
+  },
+  {
+    "repo": "openai/transformer-debugger",
+    "branch": "main",
+    "sha": "c22efe8d5b3e514ac8ff5e15d2441fa1dcaff1d7",
+    "date": "2026-04-15T17:10:03Z"
+  },
+  {
+    "repo": "eth-sri/lmql",
+    "branch": "main",
+    "sha": "fc8edd4457dc5a5e4e595302166bec797582bf53",
+    "date": "2025-05-22T07:32:31Z"
+  },
+  {
+    "repo": "dweprinz/dweprinz.github.io",
+    "branch": "main",
+    "sha": "485f903171721873c582cfa4d751027e57056a11",
+    "date": "2026-09-29T09:05:31Z"
+  },
+  {
+    "repo": "generative-computing/steerability",
+    "branch": "main",
+    "sha": "4459fce2cf8737cf6e0811a33f4d5b01f0e4dcc6",
+    "date": "2026-10-03T19:52:37Z"
+  },
+  {
+    "repo": "microsoft/TypeChat",
+    "branch": "main",
+    "sha": "fcd3a5a500a1f4ed0be88b7a0a388c87de8d7502",
+    "date": "2026-10-06T17:31:49Z"
+  },
+  {
+    "repo": "anthropics/jacobian-lens",
+    "branch": "main",
+    "sha": "581d398613e5602a5af361e1c34d3a92ea82ba8e",
+    "date": "2026-07-02T09:07:51Z"
+  },
+  {
+    "repo": "davidbau/baukit",
+    "branch": "main",
+    "sha": "9d51abd51ebf29769aecc38c4cbef459b731a36e",
+    "date": "2024-02-22T14:24:02Z"
+  },
+  {
+    "repo": "Hellisotherpeople/Constrained-Text-Generation-Studio",
+    "branch": "main",
+    "sha": "42a1b2799556b310e4702b8ece16bb720ee21cdd",
+    "date": "2026-04-11T16:30:33Z"
+  },
+  {
+    "repo": "dottxt-ai/outlines",
+    "branch": "main",
+    "sha": "c52af8472c6fe8a607a733ec11b709476af77a96",
+    "date": "2026-08-24T14:20:14Z"
+  },
+  {
+    "repo": "promptslab/Promptify",
+    "branch": "main",
+    "sha": "bc5ed081a7a4d7be90e798dd48c324fd4c57bd2a",
+    "date": "2026-03-27T01:09:42Z"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "branch": "master",
+    "sha": "c479922ac520a08969b4c1dc154d7bbb3c386d85",
+    "date": "2026-10-06T22:24:17Z"
+  },
+  {
+    "repo": "eyurtsev/kor",
+    "branch": "main",
+    "sha": "f6dc65546c3a9aed53f26f0cbd3ad518a2c48504",
+    "date": "2024-11-25T14:37:41Z"
+  },
+  {
+    "repo": "evan-lloyd/graphpatch",
+    "branch": "main",
+    "sha": "d1ecec2949ea622eb04a4a364ef08942d6a8025f",
+    "date": "2025-01-27T19:49:56Z"
+  },
+  {
+    "repo": "meta-pytorch/captum",
+    "branch": "master",
+    "sha": "7aefa21cf9c3f1fb8bae757fd4f3a5fdc3c400a6",
+    "date": "2026-09-28T14:46:18Z"
+  },
+  {
+    "repo": "safety-research/weight-steering",
+    "branch": "main",
+    "sha": "1c0152910a5b2ff1928be946b4ae4178e34e8c78",
+    "date": "2025-11-11T08:18:45Z"
+  },
+  {
+    "repo": "guidance-ai/guidance",
+    "branch": "main",
+    "sha": "21b1d90dfbebff4b141df70c714c8af15aa5f4af",
+    "date": "2026-05-21T17:08:00Z"
+  },
+  {
+    "repo": "LevanKvirkvelia/salute",
+    "branch": "main",
+    "sha": "34860fd8eeb34ad5bd4dc4fd5c390ddb19e1f340",
+    "date": "2023-06-17T00:21:35Z"
+  },
+  {
+    "repo": "kitft/nla-inference",
+    "branch": "main",
+    "sha": "38b802a33d1d317f21b6825a9116f388c2141f86",
+    "date": "2026-05-07T15:50:59Z"
+  },
+  {
+    "repo": "google-deepmind/penzai",
+    "branch": "main",
+    "sha": "aac7808a3d1269ea9885094d78d2274d56fc7449",
+    "date": "2025-06-22T05:44:56Z"
+  },
+  {
+    "repo": "EthicalML/xai",
+    "branch": "master",
+    "sha": "8bc9356f15f95a1a94910bae99cce49ba79147ab",
+    "date": "2025-11-29T12:56:08Z"
+  },
+  {
+    "repo": "567-labs/instructor",
+    "branch": "main",
+    "sha": "e12f8b49203b0c1f253d27c1e709d0a09b9fc5a8",
+    "date": "2026-09-11T03:41:29Z"
+  },
+  {
+    "repo": "stanfordnlp/axbench",
+    "branch": "main",
+    "sha": "41c8332543e5a631f9a8c0a9df38799893ace758",
+    "date": "2026-03-12T19:33:01Z"
+  },
+  {
+    "repo": "wangyongjie-ntu/Awesome-explainable-AI",
+    "branch": "master",
+    "sha": "85c09c5dc8ea52078c8c7dc473a914f84a4e1130",
+    "date": "2026-08-19T02:09:45Z"
+  },
+  {
+    "repo": "1rgs/jsonformer",
+    "branch": "main",
+    "sha": "bfad031876ace84ec0a7853718a1c0828ea1653a",
+    "date": "2023-05-30T17:57:20Z"
+  },
+  {
+    "repo": "Trusted-AI/AIX360",
+    "branch": "master",
+    "sha": "0ce916f33b7e149c12dfdb85ae7dcad831fbc1f2",
+    "date": "2026-09-05T16:08:26Z"
+  },
+  {
+    "repo": "ModelOriented/DrWhy",
+    "branch": "master",
+    "sha": "2cb4580ff41843769ab967ab6563b204d1a81f32",
+    "date": "2023-02-21T16:34:36Z"
+  },
+  {
+    "repo": "KempnerInstitute/overcomplete",
+    "branch": "main",
+    "sha": "a1781af49c6e4bbfdbfd763b9757bcf6c5dd6403",
+    "date": "2025-12-04T14:29:26Z"
+  },
+  {
+    "repo": "jacobgil/pytorch-grad-cam",
+    "branch": "master",
+    "sha": "704393448a7b0c620ee2c2b9597723f1d7f17b3d",
+    "date": "2026-08-13T07:15:26Z"
+  },
+  {
+    "repo": "understandable-machine-intelligence-lab/Quantus",
+    "branch": "main",
+    "sha": "85bc29d137d8f42835dd392f5cc441ad61d6d1f1",
+    "date": "2026-08-20T12:03:52Z"
+  },
+  {
+    "repo": "deel-ai/xplique",
+    "branch": "master",
+    "sha": "7fa573b6534f29f2eaa923522df0190fecb46f62",
+    "date": "2026-09-25T10:50:07Z"
+  },
+  {
+    "repo": "pyc-team/pytorch_concepts",
+    "branch": "master",
+    "sha": "45dd8a329cda1473295eec4aef5f7c375a647d37",
+    "date": "2026-07-24T09:24:00Z"
+  },
+  {
+    "repo": "AI4LIFE-GROUP/SpLiCE",
+    "branch": "main",
+    "sha": "9a498102ce7c6701f4afe361ffaa86c39b47fa5f",
+    "date": "2025-03-27T19:34:24Z"
+  },
+  {
+    "repo": "AI4LIFE-GROUP/OpenXAI",
+    "branch": "main",
+    "sha": "a18288620464250856b55234266a6d1dabb64656",
+    "date": "2024-03-31T01:27:03Z"
+  },
+  {
+    "repo": "TransformerLensOrg/CircuitsVis",
+    "branch": "main",
+    "sha": "512040a1344186a80f64f04fb9b22fa121edfebd",
+    "date": "2026-04-30T09:16:51Z"
+  },
+  {
+    "repo": "KihoPark/dual-steering",
+    "branch": "main",
+    "sha": "ec4d6657faeba9e13e6b6e07c5cfd53e19ebe7fa",
+    "date": "2026-05-19T05:11:05Z"
+  },
+  {
+    "repo": "wisent-ai/ster",
+    "branch": "main",
+    "sha": "9ff7fc72b2d0f5ce1df26adc211694fb5d8b5bae",
+    "date": "2026-10-06T20:06:11Z"
+  },
+  {
+    "repo": "wisent-ai/uncensorbench",
+    "branch": "main",
+    "sha": "eb04f879a01673744a4bbb93ec83e1c400e766ad",
+    "date": "2026-10-01T09:02:35Z"
+  }
+]

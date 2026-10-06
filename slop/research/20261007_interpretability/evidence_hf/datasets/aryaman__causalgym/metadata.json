@@ -1,0 +1,61 @@
+{
+  "_id": "65d3039a6a61dce969c6d778",
+  "id": "aryaman/causalgym",
+  "author": "aryaman",
+  "sha": "95349c3a5e53e2506e8b212482ea6dd784978156",
+  "lastModified": "2024-02-21T01:29:24.000Z",
+  "private": false,
+  "gated": false,
+  "disabled": false,
+  "tags": [
+    "language:en",
+    "license:mit",
+    "size_categories:10K<n<100K",
+    "format:json",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2402.12560",
+    "region:us",
+    "interpretability",
+    "linguistics"
+  ],
+  "description": "CausalGym is a benchmark for comparing the performance of causal interpretability methods\non a variety of simple linguistic tasks taken from the SyntaxGym evaluation set\n(Gauthier et al., 2020, Hu et al., 2020)\nand converted into a format suitable for interventional interpretability.\nThe dataset includes train/dev/test splits (exactly as used in the experiments in the paper).\nThe base/src columns are the prompts on which intervention is done. Each of these is a list of strings,\nwith each\u2026 See the full description on the dataset page: https://huggingface.co/datasets/aryaman/causalgym.",
+  "downloads": 117,
+  "likes": 7,
+  "cardData": {
+    "license": "mit",
+    "language": [
+      "en"
+    ],
+    "tags": [
+      "interpretability",
+      "linguistics"
+    ],
+    "pretty_name": "CausalGym",
+    "size_categories": [
+      "10K<n<100K"
+    ]
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes"
+    },
+    {
+      "rfilename": "README.md"
+    },
+    {
+      "rfilename": "dev.json"
+    },
+    {
+      "rfilename": "test.json"
+    },
+    {
+      "rfilename": "train.json"
+    }
+  ],
+  "createdAt": "2024-02-19T07:30:34.000Z",
+  "usedStorage": 21648810
+}

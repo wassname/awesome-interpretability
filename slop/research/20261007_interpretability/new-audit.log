@@ -1,0 +1,16 @@
+liusida/ica-lens-paper: humans*=2 stars=45 last_commit=6d archived=False
+guidelabs/steerling: humans*=3 stars=241 last_commit=83d archived=False
+decoderesearch/interp-engine: humans*=1 stars=39 last_commit=4d archived=False
+canivel/dynolab: humans*=1 stars=163 last_commit=2d archived=False
+marcotcr/lime: humans*=42 stars=12166 last_commit=1894d archived=False
+interpretml/interpret: humans*=50 stars=6956 last_commit=50d archived=False
+ninjahawk/Subtext: humans*=2 stars=245 last_commit=75d archived=False
+interpretml/DiCE: humans*=23 stars=1528 last_commit=450d archived=False
+FAILED captum/captum: Command '['gh', 'api', 'repos/captum/captum', '--cache', '3600s']' returned non-zero exit status 1.
+shap/shap: humans*=270 stars=25794 last_commit=2d archived=False
+FAILED zennit/crp: Command '['gh', 'api', 'repos/zennit/crp', '--cache', '3600s']' returned non-zero exit status 1.
+FAILED maximilien-c/activations-lens: Command '['gh', 'api', 'repos/maximilien-c/activations-lens', '--cache', '3600s']' returned non-zero exit status 1.
+zennit/zennit: humans*=1 stars=0 last_commit=1625d archived=False
+SeldonIO/alibi: humans*=21 stars=2648 last_commit=361d archived=False
+underlines/awesome-ml: humans*=16 stars=2730 last_commit=529d archived=False
+Saved 12 repositories; 3 explicit failures. slop/research/20261007_interpretability/evidence_new/github_snapshot.json

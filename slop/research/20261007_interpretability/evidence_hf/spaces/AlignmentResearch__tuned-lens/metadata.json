@@ -1,0 +1,290 @@
+{
+  "_id": "6406a45f83b59abcddee0b93",
+  "id": "AlignmentResearch/tuned-lens",
+  "sdk": "docker",
+  "likes": 31,
+  "tags": [
+    "docker",
+    "region:us"
+  ],
+  "private": false,
+  "author": "AlignmentResearch",
+  "sha": "1ac7285852a22309f571c2555efc37375d0c4cda",
+  "lastModified": "2024-07-22T19:50:18.000Z",
+  "cardData": {
+    "title": "Tuned Lens",
+    "emoji": "\ud83d\udd0e",
+    "colorFrom": "pink",
+    "colorTo": "blue",
+    "sdk": "docker",
+    "pinned": false,
+    "license": "mit"
+  },
+  "subdomain": "alignmentresearch-tuned-lens",
+  "gated": false,
+  "disabled": false,
+  "host": "https://alignmentresearch-tuned-lens.hf.space",
+  "models": [
+    "EleutherAI/pythia-410m-deduped"
+  ],
+  "region": "us",
+  "siblings": [
+    {
+      "rfilename": ".dockerignore"
+    },
+    {
+      "rfilename": ".gitattributes"
+    },
+    {
+      "rfilename": "Dockerfile"
+    },
+    {
+      "rfilename": "README.md"
+    },
+    {
+      "rfilename": "app.py"
+    },
+    {
+      "rfilename": "lens/CarperAI/stable-vicuna-13b/config.json"
+    },
+    {
+      "rfilename": "lens/CarperAI/stable-vicuna-13b/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/gpt-neox-20b/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/gpt-neox-20b/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-1.4b-deduped-v0/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-1.4b-deduped-v0/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-1.4b-deduped/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-1.4b-deduped/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-12b-deduped-v0/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-12b-deduped-v0/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-12b-deduped/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-12b-deduped/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-160m-deduped-v0/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-160m-deduped-v0/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-160m-deduped/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-160m-deduped/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-1b-deduped-v0/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-1b-deduped-v0/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-2.8b-deduped-v0/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-2.8b-deduped-v0/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-2.8b-deduped/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-2.8b-deduped/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-410m-deduped-v0/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-410m-deduped-v0/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-410m-deduped/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-410m-deduped/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-6.9b-deduped-v0/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-6.9b-deduped-v0/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-6.9b-deduped/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-6.9b-deduped/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-70m-deduped-v0/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-70m-deduped-v0/params.pt"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-70m-deduped/config.json"
+    },
+    {
+      "rfilename": "lens/EleutherAI/pythia-70m-deduped/params.pt"
+    },
+    {
+      "rfilename": "lens/facebook/llama-13b/config.json"
+    },
+    {
+      "rfilename": "lens/facebook/llama-13b/params.pt"
+    },
+    {
+      "rfilename": "lens/facebook/llama-30b/config.json"
+    },
+    {
+      "rfilename": "lens/facebook/llama-30b/params.pt"
+    },
+    {
+      "rfilename": "lens/facebook/llama-65b/config.json"
+    },
+    {
+      "rfilename": "lens/facebook/llama-65b/params.pt"
+    },
+    {
+      "rfilename": "lens/facebook/llama-7b/config.json"
+    },
+    {
+      "rfilename": "lens/facebook/llama-7b/params.pt"
+    },
+    {
+      "rfilename": "lens/facebook/opt-1.3b/config.json"
+    },
+    {
+      "rfilename": "lens/facebook/opt-1.3b/params.pt"
+    },
+    {
+      "rfilename": "lens/facebook/opt-125m/config.json"
+    },
+    {
+      "rfilename": "lens/facebook/opt-125m/params.pt"
+    },
+    {
+      "rfilename": "lens/facebook/opt-6.7b/config.json"
+    },
+    {
+      "rfilename": "lens/facebook/opt-6.7b/params.pt"
+    },
+    {
+      "rfilename": "lens/gpt2-large/config.json"
+    },
+    {
+      "rfilename": "lens/gpt2-large/params.pt"
+    },
+    {
+      "rfilename": "lens/gpt2-xl/config.json"
+    },
+    {
+      "rfilename": "lens/gpt2-xl/params.pt"
+    },
+    {
+      "rfilename": "lens/gpt2/config.json"
+    },
+    {
+      "rfilename": "lens/gpt2/params.pt"
+    },
+    {
+      "rfilename": "lens/lmsys/vicuna-13b-v1.1/config.json"
+    },
+    {
+      "rfilename": "lens/lmsys/vicuna-13b-v1.1/params.pt"
+    },
+    {
+      "rfilename": "lens/meta-llama/Llama-2-13b-chat-hf/config.json"
+    },
+    {
+      "rfilename": "lens/meta-llama/Llama-2-13b-chat-hf/hh-rlhf/config.json"
+    },
+    {
+      "rfilename": "lens/meta-llama/Llama-2-13b-chat-hf/hh-rlhf/params.pt"
+    },
+    {
+      "rfilename": "lens/meta-llama/Llama-2-13b-chat-hf/params.pt"
+    },
+    {
+      "rfilename": "lens/meta-llama/Llama-2-13b-hf/config.json"
+    },
+    {
+      "rfilename": "lens/meta-llama/Llama-2-13b-hf/params.pt"
+    },
+    {
+      "rfilename": "lens/meta-llama/Llama-2-7b-chat-hf/config.json"
+    },
+    {
+      "rfilename": "lens/meta-llama/Llama-2-7b-chat-hf/hh-rlhf/config.json"
+    },
+    {
+      "rfilename": "lens/meta-llama/Llama-2-7b-chat-hf/hh-rlhf/params.pt"
+    },
+    {
+      "rfilename": "lens/meta-llama/Llama-2-7b-chat-hf/params.pt"
+    },
+    {
+      "rfilename": "lens/meta-llama/Llama-2-7b-hf/config.json"
+    },
+    {
+      "rfilename": "lens/meta-llama/Llama-2-7b-hf/params.pt"
+    },
+    {
+      "rfilename": "lens/meta-llama/Meta-Llama-3-8B-Instruct/config.json"
+    },
+    {
+      "rfilename": "lens/meta-llama/Meta-Llama-3-8B-Instruct/params.pt"
+    },
+    {
+      "rfilename": "lens/meta-llama/Meta-Llama-3-8B/config.json"
+    },
+    {
+      "rfilename": "lens/meta-llama/Meta-Llama-3-8B/params.pt"
+    },
+    {
+      "rfilename": "requirements.txt"
+    }
+  ],
+  "createdAt": "2023-03-07T02:41:35.000Z",
+  "usedStorage": 96409674577,
+  "runtime": {
+    "stage": "RUNNING",
+    "hardware": {
+      "current": "cpu-basic",
+      "requested": "cpu-basic"
+    },
+    "gcTimeout": 86400,
+    "replicas": {
+      "current": 1,
+      "requested": 1
+    },
+    "devMode": false,
+    "domains": [
+      {
+        "domain": "alignmentresearch-tuned-lens.hf.space",
+        "stage": "READY"
+      }
+    ],
+    "sha": "1ac7285852a22309f571c2555efc37375d0c4cda",
+    "pySpacesVersion": "0.48.1"
+  }
+}

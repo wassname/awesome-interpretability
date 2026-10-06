@@ -1,0 +1,20 @@
+{
+  "stage": "RUNNING",
+  "hardware": {
+    "current": "cpu-basic",
+    "requested": "cpu-basic"
+  },
+  "gcTimeout": 86400,
+  "replicas": {
+    "current": 1,
+    "requested": 1
+  },
+  "devMode": false,
+  "domains": [
+    {
+      "domain": "alignmentresearch-tuned-lens.hf.space",
+      "stage": "READY"
+    }
+  ],
+  "sha": "1ac7285852a22309f571c2555efc37375d0c4cda"
+}

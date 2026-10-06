@@ -1,0 +1,10 @@
+models:Transluce/llama_8b_explainer: card=fetched
+models:Transluce/features_explain_llama3.1_8b_llama3.1_8b_instruct: card=fetched
+models:Transluce/act_patch_qwen3_8b_qwen3_8b: card=fetched
+models:guidelabs/steerling-8b: card=fetched
+models:guidelabs/steerling-8b-instruct: card=404: card absent
+models:aypan17/latentqa_llama-3-8b-instruct: card=fetched
+models:neuronpedia/jacobian-lens: card=fetched
+spaces:AlignmentResearch/tuned-lens: card=fetched
+datasets:aryaman/causalgym: card=fetched
+datasets:pyvene/axbench-concept16k: card=fetched

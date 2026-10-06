@@ -1,0 +1,68 @@
+{
+  "_id": "6a330a6414726256d3b14f0a",
+  "id": "guidelabs/steerling-8b-instruct",
+  "private": false,
+  "tags": [
+    "safetensors",
+    "steerling",
+    "custom_code",
+    "region:us"
+  ],
+  "downloads": 57,
+  "likes": 3,
+  "modelId": "guidelabs/steerling-8b-instruct",
+  "author": "guidelabs",
+  "sha": "6e5a87d00d45348001810c30fe9bd65110b69fc2",
+  "lastModified": "2026-06-24T19:33:04.000Z",
+  "gated": false,
+  "disabled": false,
+  "config": {
+    "model_type": "steerling",
+    "auto_map": {
+      "AutoConfig": "configuration_steerling.SteerlingConfig",
+      "AutoModel": "modeling_steerling.SteerlingForCausalLM",
+      "AutoModelForCausalLM": "modeling_steerling.SteerlingForCausalLM"
+    },
+    "architectures": [
+      "SteerlingForCausalLM"
+    ],
+    "tokenizer_config": {
+      "pad_token": "<|pad|>",
+      "bos_token": "<|bos|>",
+      "eos_token": "<|endoftext|>",
+      "chat_template": "{% for message in messages %}<|start_header_id|>{{ message['role'] }}<|end_header_id|>\n\n{{ message['content'] }}<|endofchunk|><|eot_id|>{% endfor %}{% if add_generation_prompt %}<|start_header_id|>assistant<|end_header_id|>\n\n{% endif %}"
+    }
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes"
+    },
+    {
+      "rfilename": "config.json"
+    },
+    {
+      "rfilename": "configuration_steerling.py"
+    },
+    {
+      "rfilename": "model.safetensors"
+    },
+    {
+      "rfilename": "modeling_steerling.py"
+    },
+    {
+      "rfilename": "tokenization_steerling.py"
+    },
+    {
+      "rfilename": "tokenizer_config.json"
+    }
+  ],
+  "spaces": [],
+  "createdAt": "2026-06-17T20:58:12.000Z",
+  "safetensors": {
+    "parameters": {
+      "BF16": 8803110912
+    },
+    "total": 8803110912
+  },
+  "usedStorage": 17606252176
+}

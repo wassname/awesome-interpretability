@@ -1,0 +1,43 @@
+{
+  "_id": "67898faa5a84f1087bab51eb",
+  "id": "pyvene/axbench-concept16k",
+  "author": "pyvene",
+  "sha": "ec272d02dd6cde698b5591980bb674baf409533f",
+  "lastModified": "2025-01-24T05:48:14.000Z",
+  "private": false,
+  "gated": false,
+  "disabled": false,
+  "tags": [
+    "license:cc-by-4.0",
+    "size_categories:1M<n<10M",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "description": "Concept16K for Supervised Dictionary Learning (SDL)\n\nConcept16K contains training and inference data for 16K concepts randomly sampled from the released GemmaScope concept list for Gemma-2-2B-it at 20, and Gemma-2-9B-it at layers 20.\nAt the time of our AxBench release, Concept16K is by far the largest supervised dictionary learning (SDL) dataset for LLMs.\nCost: With our initial implementation, construct training data for each concept costs less than $0.01 with 72 positive examples and 72\u2026 See the full description on the dataset page: https://huggingface.co/datasets/pyvene/axbench-concept16k.",
+  "downloads": 97,
+  "likes": 4,
+  "cardData": {
+    "license": "cc-by-4.0"
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes"
+    },
+    {
+      "rfilename": "2b/l20/train/data.parquet"
+    },
+    {
+      "rfilename": "9b/l20/train/data.parquet"
+    },
+    {
+      "rfilename": "README.md"
+    }
+  ],
+  "createdAt": "2025-01-16T23:00:58.000Z",
+  "usedStorage": 834259416
+}
