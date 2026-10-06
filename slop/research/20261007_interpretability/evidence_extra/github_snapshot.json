@@ -1,0 +1,351 @@
+[
+  {
+    "repo": "chr5tphr/zennit",
+    "requested_repo": "chr5tphr/zennit",
+    "stars": 248,
+    "humans_estimate": 12,
+    "top_humans": [
+      "chr5tphr",
+      "rodrigobdz",
+      "rachtibat",
+      "jacobkauffmann",
+      "p16i"
+    ],
+    "created_at": "2020-11-10T16:17:38Z",
+    "project_age_days": 2156,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2026-05-13T09:07:12Z",
+    "latest_commit_age_days": 146,
+    "latest_code_commit": {
+      "sha": "c02326fdf3bfec83c64535c730e20d30706d088f",
+      "date": "2026-05-13T02:03:28Z",
+      "message": "Fix: Wikimedia Commons Thumbnail API",
+      "paths": [
+        ".github/workflows/benchmark.yml",
+        "docs/source/tutorial/image-classification-vgg-resnet.ipynb",
+        "share/img/lighthouses/0a290b2d05d24f806e447b3d04d61ca6.jpeg",
+        "share/img/lighthouses/3728209a69b7937939fcd5f06b753109.jpeg",
+        "share/img/lighthouses/61e065dbe7fffb92fc09f6b7687c5dee.jpeg",
+        "share/img/lighthouses/7be6c84d01028012068597b20084839f.jpeg",
+        "share/img/lighthouses/87d8bedc0135912542cfc1efbaf49aa3.jpeg",
+        "share/img/lighthouses/c9104536e9421f3f2d773e8e9d9bd0b0.jpeg",
+        "share/img/lighthouses/f5b59621dbd93cb9382553027d495876.jpeg",
+        "share/img/lighthouses/fe237655e1b8781bfda146c3fdd3aad5.jpeg",
+        "share/scripts/download-lighthouses.sh"
+      ]
+    },
+    "latest_code_age_days": 146,
+    "license": "LGPL-3.0",
+    "issue_titles": [
+      "Wikimedia Commons change the Thumbnail API",
+      "\"MergeBatchNorm\" canonizer and \"ParamMod\" leave \"_parameters\" desynchronized from \"__dict__\" after composite context exits",
+      "Sum layer attribution wrong when layer is not initialized with model",
+      "PyTorch 2.10.0 Added a Check for Epsilon > 0.0, Which Breaks BatchNorm Merging"
+    ],
+    "latest_release": "1.0.0",
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_extra/github/chr5tphr__zennit",
+    "retrieved_at": "2026-10-06T22:51:15.393094+00:00"
+  },
+  {
+    "repo": "stanfordnlp/pyreft",
+    "requested_repo": "stanfordnlp/pyreft",
+    "stars": 1590,
+    "humans_estimate": 10,
+    "top_humans": [
+      "frankaging",
+      "aryamanarora",
+      "PinetreePantry",
+      "AmirZur",
+      "Vikrant-Khedkar"
+    ],
+    "created_at": "2024-02-17T02:36:45Z",
+    "project_age_days": 962,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2025-02-06T21:44:29Z",
+    "latest_commit_age_days": 607,
+    "latest_code_commit": {
+      "sha": "dafd0995a366d7b47160a337dcc388eda7431821",
+      "date": "2025-02-06T21:44:29Z",
+      "message": "Merge pull request #159 from stanfordnlp/zen/checkpointing",
+      "paths": [
+        "pyreft/reft_trainer.py",
+        "requirements.txt"
+      ]
+    },
+    "latest_code_age_days": 607,
+    "license": "Apache-2.0",
+    "issue_titles": [
+      "Does share_weights could reduce num_interventions beyond what was intended?",
+      "[P1] difficulty in reproducing mrpc results on task_steer.py",
+      "[P1] original_code encountered  errors",
+      "[P1] Original code returns inconsistent validation results",
+      "Trying to reproduce original results",
+      "Cuda indexing error during batch generation",
+      "Can't run inference on a batch",
+      "Issue during text generation with multi-layer interventions"
+    ],
+    "latest_release": "v0.1.0",
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_extra/github/stanfordnlp__pyreft",
+    "retrieved_at": "2026-10-06T22:51:14.630657+00:00"
+  },
+  {
+    "repo": "google-deepmind/tracr",
+    "requested_repo": "google-deepmind/tracr",
+    "stars": 568,
+    "humans_estimate": 9,
+    "top_humans": [
+      "mrahtz",
+      "david-lindner",
+      "William-Baker",
+      "langosco",
+      "vmikulik"
+    ],
+    "created_at": "2022-12-01T09:59:18Z",
+    "project_age_days": 1405,
+    "archived": true,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2024-02-05T19:15:14Z",
+    "latest_commit_age_days": 974,
+    "latest_code_commit": {
+      "sha": "9ce2b8c82b6ba10e62e86cf6f390e7536d4fd2cd",
+      "date": "2024-02-05T19:15:14Z",
+      "message": "Merge pull request #26 from William-Baker:maintain_attributes",
+      "paths": [
+        "tracr/craft/bases.py",
+        "tracr/craft/bases_test.py",
+        "tracr/craft/chamber/categorical_mlp.py",
+        "tracr/craft/vectorspace_fns.py"
+      ]
+    },
+    "latest_code_age_days": 974,
+    "license": "Apache-2.0",
+    "issue_titles": [
+      "Hard attention",
+      "Upload to PyPI",
+      "Invalid compilation caused by categorical Aggregate with default=None",
+      "Compiler doesn't support numerical Maps with negative output values"
+    ],
+    "latest_release": null,
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_extra/github/google-deepmind__tracr",
+    "retrieved_at": "2026-10-06T22:51:14.401014+00:00"
+  },
+  {
+    "repo": "rachtibat/zennit-crp",
+    "requested_repo": "rachtibat/zennit-crp",
+    "stars": 141,
+    "humans_estimate": 7,
+    "top_humans": [
+      "rachtibat",
+      "sebastian-lapuschkin",
+      "maxdreyer",
+      "frederikpahde",
+      "lowlorenz"
+    ],
+    "created_at": "2022-06-07T23:17:01Z",
+    "project_age_days": 1581,
+    "archived": false,
+    "fork": false,
+    "default_branch": "master",
+    "latest_commit": "2026-01-14T14:25:16Z",
+    "latest_commit_age_days": 265,
+    "latest_code_commit": {
+      "sha": "ecf1b7873bf0bf5ca34b7d21407ccb95549198b8",
+      "date": "2026-01-14T14:25:16Z",
+      "message": "Merge pull request #34 from antonsegeler/fix-issue",
+      "paths": [
+        "crp/visualization.py"
+      ]
+    },
+    "latest_code_age_days": 265,
+    "license": "NOASSERTION",
+    "issue_titles": [
+      "CSOAI integration with Zennit CRP",
+      "Fix iteration error in visualisation.py when last batch has size 1",
+      "AttributeError: module 'zennit' has no attribute '...'"
+    ],
+    "latest_release": "v0.6.0",
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_extra/github/rachtibat__zennit-crp",
+    "retrieved_at": "2026-10-06T22:51:14.929006+00:00"
+  },
+  {
+    "repo": "johnmarktaylor91/torchlens",
+    "requested_repo": "johnmarktaylor91/torchlens",
+    "stars": 662,
+    "humans_estimate": 2,
+    "top_humans": [
+      "johnmarktaylor91",
+      "kalekundert"
+    ],
+    "created_at": "2022-10-14T01:24:55Z",
+    "project_age_days": 1453,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2026-10-04T13:42:19Z",
+    "latest_commit_age_days": 2,
+    "latest_code_commit": {
+      "sha": "20c222a3c4954b5f14af2e4e9095ab9123266279",
+      "date": "2026-10-04T13:42:19Z",
+      "message": "Merge remote-tracking branch 'origin/fix/weekly-green-2' into ci/integration",
+      "paths": [
+        ".github/workflows/weekly.yml",
+        "tests/test_large_graphs.py"
+      ]
+    },
+    "latest_code_age_days": 2,
+    "license": "Apache-2.0",
+    "issue_titles": [],
+    "latest_release": "v2.35.3",
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_extra/github/johnmarktaylor91__torchlens",
+    "retrieved_at": "2026-10-06T22:51:11.038477+00:00"
+  },
+  {
+    "repo": "ninjahawk/Subtext",
+    "requested_repo": "ninjahawk/Subtext",
+    "stars": 245,
+    "humans_estimate": 2,
+    "top_humans": [
+      "ninjahawk",
+      "markedwardcampos"
+    ],
+    "created_at": "2026-07-06T22:11:53Z",
+    "project_age_days": 92,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2026-07-23T08:43:22Z",
+    "latest_commit_age_days": 75,
+    "latest_code_commit": {
+      "sha": "53503e3e418adc11111f7f7829953005ee106134",
+      "date": "2026-07-07T21:32:00Z",
+      "message": "Merge pull request #5 from markdotdigital/feat/trace-view",
+      "paths": [
+        "index.html"
+      ]
+    },
+    "latest_code_age_days": 91,
+    "license": "NOASSERTION",
+    "issue_titles": [
+      "Timeline scrubbing + per-word layer\u00d7token trace \u2014 gauge interest before PRs"
+    ],
+    "latest_release": null,
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_extra/github/ninjahawk__Subtext",
+    "retrieved_at": "2026-10-06T22:51:15.111599+00:00"
+  },
+  {
+    "repo": "adamkarvonen/activation_oracles",
+    "requested_repo": "adamkarvonen/activation_oracles",
+    "stars": 103,
+    "humans_estimate": 2,
+    "top_humans": [
+      "adamkarvonen",
+      "thejaminator"
+    ],
+    "created_at": "2025-07-30T16:33:28Z",
+    "project_age_days": 433,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2026-09-26T00:43:39Z",
+    "latest_commit_age_days": 10,
+    "latest_code_commit": {
+      "sha": "5712762cfc29a18d6414a1cf2cccb4ff4432ced5",
+      "date": "2026-09-26T00:43:39Z",
+      "message": "Replace model-name checks with structural lookups",
+      "paths": [
+        "README.md",
+        "nl_probes/sft.py",
+        "nl_probes/utils/activation_utils.py",
+        "nl_probes/utils/common.py",
+        "pyproject.toml",
+        "uv.lock"
+      ]
+    },
+    "latest_code_age_days": 10,
+    "license": "MIT",
+    "issue_titles": [
+      "bug in gender eval, possibly inflating results"
+    ],
+    "latest_release": null,
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_extra/github/adamkarvonen__activation_oracles",
+    "retrieved_at": "2026-10-06T22:51:10.637726+00:00"
+  },
+  {
+    "repo": "aypan17/latentqa",
+    "requested_repo": "aypan17/latentqa",
+    "stars": 37,
+    "humans_estimate": 1,
+    "top_humans": [
+      "aypan17"
+    ],
+    "created_at": "2024-12-12T10:18:34Z",
+    "project_age_days": 663,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2025-11-16T09:04:21Z",
+    "latest_commit_age_days": 324,
+    "latest_code_commit": {
+      "sha": "a2dcb6f8eef52ce8c8e75ee71da66cb880f727f4",
+      "date": "2025-11-16T09:04:21Z",
+      "message": "add changes to enable qwen and gemma models",
+      "paths": [
+        "lit/utils/activation_utils.py",
+        "lit/utils/dataset_utils.py",
+        "lit/utils/infra_utils.py"
+      ]
+    },
+    "latest_code_age_days": 324,
+    "license": "Apache-2.0",
+    "issue_titles": [
+      "Lines 46-61 in infra_utils.py fails for Llama models"
+    ],
+    "latest_release": null,
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_extra/github/aypan17__latentqa",
+    "retrieved_at": "2026-10-06T22:51:10.557559+00:00"
+  },
+  {
+    "repo": "safety-research/introspection-adapters",
+    "requested_repo": "safety-research/introspection-adapters",
+    "stars": 30,
+    "humans_estimate": 1,
+    "top_humans": [
+      "k-shenoy"
+    ],
+    "created_at": "2026-04-28T06:14:56Z",
+    "project_age_days": 161,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2026-04-28T07:43:01Z",
+    "latest_commit_age_days": 161,
+    "latest_code_commit": {
+      "sha": "0c42238f21d4094130c1052e54a788776b61fbd1",
+      "date": "2026-04-28T07:17:40Z",
+      "message": "Change project name",
+      "paths": [
+        ".gitignore",
+        "examples.egg-info/PKG-INFO",
+        "examples.egg-info/SOURCES.txt",
+        "examples.egg-info/dependency_links.txt",
+        "examples.egg-info/requires.txt",
+        "examples.egg-info/top_level.txt",
+        "pyproject.toml"
+      ]
+    },
+    "latest_code_age_days": 161,
+    "license": null,
+    "issue_titles": [
+      "Enquiry about information about the trigger used in training the models.",
+      "Introspection vs external explainer model for fine\u2011tuning differences"
+    ],
+    "latest_release": null,
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_extra/github/safety-research__introspection-adapters",
+    "retrieved_at": "2026-10-06T22:51:11.277937+00:00"
+  }
+]

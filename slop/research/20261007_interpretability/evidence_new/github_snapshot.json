@@ -1,0 +1,425 @@
+[
+  {
+    "repo": "shap/shap",
+    "requested_repo": "shap/shap",
+    "stars": 25794,
+    "humans_estimate": 270,
+    "top_humans": [
+      "slundberg",
+      "ryserrao",
+      "connortann",
+      "CloseChoice",
+      "thatlittleboy"
+    ],
+    "created_at": "2016-11-22T19:17:08Z",
+    "project_age_days": 3605,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2026-10-04T18:09:57Z",
+    "latest_commit_age_days": 2,
+    "latest_code_commit": {
+      "sha": "135f3883e22c7d889095be08fb482a94c98ea1db",
+      "date": "2026-09-25T19:43:46Z",
+      "message": "Fix int16 overflow of node indices in independent TreeSHAP (GH#3486) (#5163)",
+      "paths": [
+        "shap/cext/tree_shap.h",
+        "tests/explainers/test_tree_independent_large_trees.py"
+      ]
+    },
+    "latest_code_age_days": 11,
+    "license": "MIT",
+    "issue_titles": [
+      "BUG: shap.plots.bar strips trailing zeros from string feature values in y-tick labels",
+      "BUG: Grouping into an existing feature drops its SHAP attribution",
+      "BUG: hclust ignores random_state for distance-based feature clustering",
+      "BUG: Explanation reductions index a row instead of their reduction axis"
+    ],
+    "latest_release": "v0.53.0rc0",
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_new/github/shap__shap",
+    "retrieved_at": "2026-10-06T22:48:38.534880+00:00"
+  },
+  {
+    "repo": "interpretml/interpret",
+    "requested_repo": "interpretml/interpret",
+    "stars": 6956,
+    "humans_estimate": 50,
+    "top_humans": [
+      "paulbkoch",
+      "interpret-ml",
+      "testonlyinprod",
+      "msplants",
+      "luisffranca"
+    ],
+    "created_at": "2019-05-03T05:47:52Z",
+    "project_age_days": 2713,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2026-08-17T00:51:48Z",
+    "latest_commit_age_days": 50,
+    "latest_code_commit": {
+      "sha": "2b4d21c4fc8978099149914b2b1d7bd3a419d25c",
+      "date": "2026-05-28T17:01:28Z",
+      "message": "[pre-commit.ci] pre-commit autoupdate (#671)",
+      "paths": [
+        ".pre-commit-config.yaml"
+      ]
+    },
+    "latest_code_age_days": 131,
+    "license": "MIT",
+    "issue_titles": [
+      "PartialDependence crashes with ValueError on datasets with fewer than 10 rows"
+    ],
+    "latest_release": "v0.7.8",
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_new/github/interpretml__interpret",
+    "retrieved_at": "2026-10-06T22:48:34.609324+00:00"
+  },
+  {
+    "repo": "marcotcr/lime",
+    "requested_repo": "marcotcr/lime",
+    "stars": 12166,
+    "humans_estimate": 42,
+    "top_humans": [
+      "marcotcr",
+      "dyanni3",
+      "aikramer2",
+      "elacx",
+      "dhimmel"
+    ],
+    "created_at": "2016-03-15T22:18:10Z",
+    "project_age_days": 3857,
+    "archived": false,
+    "fork": false,
+    "default_branch": "master",
+    "latest_commit": "2021-07-29T23:17:25Z",
+    "latest_commit_age_days": 1894,
+    "latest_code_commit": {
+      "sha": "fd7eb2e6f760619c29fca0187c07b82157601b32",
+      "date": "2021-07-29T23:17:25Z",
+      "message": "Merge pull request #624 from Aaryanverma/master",
+      "paths": [
+        "lime/explanation.py"
+      ]
+    },
+    "latest_code_age_days": 1894,
+    "license": "BSD-2-Clause",
+    "issue_titles": [
+      "Feature request - please expose package version via lime.__version__",
+      "LimeTabularExplainer gives completely different explanations every time you run it on the same instance \u2014 no random_state fix works reliably",
+      "LIME for multiclass does not seem to work",
+      "How do you handle disagreement between LIME, SHAP, and other XAI methods?",
+      "Asking for information"
+    ],
+    "latest_release": "0.2.0.0",
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_new/github/marcotcr__lime",
+    "retrieved_at": "2026-10-06T22:48:30.050781+00:00"
+  },
+  {
+    "repo": "interpretml/DiCE",
+    "requested_repo": "interpretml/DiCE",
+    "stars": 1528,
+    "humans_estimate": 23,
+    "top_humans": [
+      "gaugup",
+      "raam93",
+      "amit-sharma",
+      "divyat09",
+      "soundarya98"
+    ],
+    "created_at": "2019-05-02T09:51:02Z",
+    "project_age_days": 2714,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2025-07-13T17:30:34Z",
+    "latest_commit_age_days": 450,
+    "latest_code_commit": {
+      "sha": "3a0e0dbe637f8a6a6d468bab356955c845bfc92d",
+      "date": "2025-07-13T11:57:19Z",
+      "message": "New version, updating to latest Python and dependencies (#460)",
+      "paths": [
+        "docs/source/conf.py",
+        "docs/source/dice_ml.explainer_interfaces.rst",
+        "docs/source/dice_ml.model_interfaces.rst",
+        "docs/update_docs.sh",
+        "setup.py",
+        "tests/test_data.py"
+      ]
+    },
+    "latest_code_age_days": 450,
+    "license": "MIT",
+    "issue_titles": [
+      "numpy>=2.0.0 results in a bug in demo code",
+      "round_to_precision method destroys validity"
+    ],
+    "latest_release": "v0.12",
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_new/github/interpretml__DiCE",
+    "retrieved_at": "2026-10-06T22:48:35.411481+00:00"
+  },
+  {
+    "repo": "SeldonIO/alibi",
+    "requested_repo": "SeldonIO/alibi",
+    "stars": 2648,
+    "humans_estimate": 21,
+    "top_humans": [
+      "jklaise",
+      "RobertSamoilescu",
+      "mauicv",
+      "alexcoca",
+      "arnaudvl"
+    ],
+    "created_at": "2019-02-26T10:10:56Z",
+    "project_age_days": 2779,
+    "archived": false,
+    "fork": false,
+    "default_branch": "master",
+    "latest_commit": "2025-10-10T16:32:09Z",
+    "latest_commit_age_days": 361,
+    "latest_code_commit": {
+      "sha": "abb819542ce62bac95cd85a2017169a4cdc17dd6",
+      "date": "2024-12-05T16:49:07Z",
+      "message": "Included Python3.12 support (#1033)",
+      "paths": [
+        ".github/workflows/ci.yml",
+        ".github/workflows/test_all_notebooks.yml",
+        ".github/workflows/test_changed_notebooks.yml",
+        "setup.py"
+      ]
+    },
+    "latest_code_age_days": 670,
+    "license": "NOASSERTION",
+    "issue_titles": [
+      "Security: enabling Private Vulnerability Reporting",
+      "cannot install via pip on Windows 11 Python 3.14"
+    ],
+    "latest_release": "v0.9.6",
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_new/github/SeldonIO__alibi",
+    "retrieved_at": "2026-10-06T22:48:48.848110+00:00"
+  },
+  {
+    "repo": "underlines/awesome-ml",
+    "requested_repo": "underlines/awesome-ml",
+    "stars": 2730,
+    "humans_estimate": 16,
+    "top_humans": [
+      "underlines",
+      "zhimin-z",
+      "monperrus",
+      "a-ghorbani",
+      "giladgd"
+    ],
+    "created_at": "2020-07-15T04:38:57Z",
+    "project_age_days": 2274,
+    "archived": false,
+    "fork": false,
+    "default_branch": "master",
+    "latest_commit": "2025-04-25T00:01:11Z",
+    "latest_commit_age_days": 529,
+    "latest_code_commit": null,
+    "latest_code_age_days": null,
+    "license": "MIT",
+    "issue_titles": [],
+    "latest_release": null,
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_new/github/underlines__awesome-ml",
+    "retrieved_at": "2026-10-06T22:48:50.501060+00:00"
+  },
+  {
+    "repo": "guidelabs/steerling",
+    "requested_repo": "guidelabs/steerling",
+    "stars": 241,
+    "humans_estimate": 3,
+    "top_humans": [
+      "ayaabdelsalam91",
+      "adebayoj",
+      "giangnguyen2412"
+    ],
+    "created_at": "2026-02-22T07:12:28Z",
+    "project_age_days": 226,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2026-07-14T23:07:44Z",
+    "latest_commit_age_days": 83,
+    "latest_code_commit": {
+      "sha": "b276cd5abfe9eb1d3d9757f0e44f9d75b1cce2fb",
+      "date": "2026-07-14T22:19:14Z",
+      "message": "Bump version to 0.2.0 for release",
+      "paths": [
+        "pyproject.toml"
+      ]
+    },
+    "latest_code_age_days": 84,
+    "license": "Apache-2.0",
+    "issue_titles": [
+      "Verify evals on Papers with Code",
+      "Autoregressive Block Generation is not implemented",
+      "Issue running on RTX 3090 + A100",
+      "Code for prompt attribution"
+    ],
+    "latest_release": null,
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_new/github/guidelabs__steerling",
+    "retrieved_at": "2026-10-06T22:48:25.059624+00:00"
+  },
+  {
+    "repo": "ninjahawk/Subtext",
+    "requested_repo": "ninjahawk/Subtext",
+    "stars": 245,
+    "humans_estimate": 2,
+    "top_humans": [
+      "ninjahawk",
+      "markedwardcampos"
+    ],
+    "created_at": "2026-07-06T22:11:53Z",
+    "project_age_days": 92,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2026-07-23T08:43:22Z",
+    "latest_commit_age_days": 75,
+    "latest_code_commit": null,
+    "latest_code_age_days": null,
+    "license": "NOASSERTION",
+    "issue_titles": [
+      "Timeline scrubbing + per-word layer\u00d7token trace \u2014 gauge interest before PRs"
+    ],
+    "latest_release": null,
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_new/github/ninjahawk__Subtext",
+    "retrieved_at": "2026-10-06T22:48:35.385934+00:00"
+  },
+  {
+    "repo": "liusida/ica-lens-paper",
+    "requested_repo": "liusida/ica-lens-paper",
+    "stars": 45,
+    "humans_estimate": 2,
+    "top_humans": [
+      "liusida",
+      "FeijiangHan"
+    ],
+    "created_at": "2026-06-08T00:28:47Z",
+    "project_age_days": 120,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2026-09-30T02:46:20Z",
+    "latest_commit_age_days": 6,
+    "latest_code_commit": {
+      "sha": "6ad5bee4c94d22173e6ffefe20a0f9ba96c703d9",
+      "date": "2026-09-30T02:46:20Z",
+      "message": "Add paper demos and website plot tooling",
+      "paths": [
+        "demo/paper-c396.ipynb",
+        "demo/paper-table-8-steering.ipynb",
+        "demo/paper-toy-example.ipynb",
+        "demo/paper-workflow-gpt2.ipynb",
+        "demo/verification-results.md",
+        "experiments/autointerpretability/plot_website_panels.py"
+      ]
+    },
+    "latest_code_age_days": 6,
+    "license": "MIT",
+    "issue_titles": [],
+    "latest_release": "v0.4.0",
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_new/github/liusida__ica-lens-paper",
+    "retrieved_at": "2026-10-06T22:48:23.742511+00:00"
+  },
+  {
+    "repo": "canivel/dynolab",
+    "requested_repo": "canivel/dynolab",
+    "stars": 163,
+    "humans_estimate": 1,
+    "top_humans": [
+      "canivel"
+    ],
+    "created_at": "2026-09-04T17:42:19Z",
+    "project_age_days": 32,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2026-10-04T19:30:11Z",
+    "latest_commit_age_days": 2,
+    "latest_code_commit": {
+      "sha": "cf88c039f2dac338c66786aaf720182ccc79babf",
+      "date": "2026-10-04T19:30:11Z",
+      "message": "Release 0.5.2: updated sandbox harness (#29)",
+      "paths": [
+        "README.md",
+        "app/build.sh",
+        "docs/agent-sandbox-tests.md",
+        "docs/release-notes.md",
+        "docs/sdk-guide.md",
+        "pyproject.toml",
+        "uv.lock"
+      ]
+    },
+    "latest_code_age_days": 2,
+    "license": "MIT",
+    "issue_titles": [],
+    "latest_release": "v0.5.2",
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_new/github/canivel__dynolab",
+    "retrieved_at": "2026-10-06T22:48:27.776984+00:00"
+  },
+  {
+    "repo": "decoderesearch/interp-engine",
+    "requested_repo": "decoderesearch/interp-engine",
+    "stars": 39,
+    "humans_estimate": 1,
+    "top_humans": [
+      "hijohnnylin"
+    ],
+    "created_at": "2026-08-05T19:33:33Z",
+    "project_age_days": 62,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2026-10-02T06:35:42Z",
+    "latest_commit_age_days": 4,
+    "latest_code_commit": {
+      "sha": "c27e928a0de31c5be195f3af637df4b0e2dd771e",
+      "date": "2026-09-28T19:05:51Z",
+      "message": "chore(release): v1.12.0 [skip ci]",
+      "paths": [
+        "pyproject.toml",
+        "uv.lock",
+        "validator/uv.lock"
+      ]
+    },
+    "latest_code_age_days": 8,
+    "license": "Apache-2.0",
+    "issue_titles": [
+      "Feature request: accept position_ids in run_with_cache (and steer paths) for padded batches",
+      "Feature request: a subspace-coordinate patch steering method (`subspace_patch`) alongside additive / orthogonal / projection_cap",
+      "`tlens_hook_to_point` accepts `blocks.N.hook_out` but refuses `blocks.N.hook_in`",
+      "`tlens_hook_to_point` silently resolves the pre-norm `hook_mlp_in`/`hook_attn_in` to the post-norm sublayer inputs"
+    ],
+    "latest_release": "v1.12.0",
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_new/github/decoderesearch__interp-engine",
+    "retrieved_at": "2026-10-06T22:48:25.738630+00:00"
+  },
+  {
+    "repo": "zennit/zennit",
+    "requested_repo": "zennit/zennit",
+    "stars": 0,
+    "humans_estimate": 1,
+    "top_humans": [
+      "zennit"
+    ],
+    "created_at": "2022-04-25T03:57:17Z",
+    "project_age_days": 1625,
+    "archived": false,
+    "fork": false,
+    "default_branch": "main",
+    "latest_commit": "2022-04-25T04:13:06Z",
+    "latest_commit_age_days": 1625,
+    "latest_code_commit": null,
+    "latest_code_age_days": null,
+    "license": null,
+    "issue_titles": [
+      "\u4e09\u9805\u6f14\u7b97\u5b50\u306b\u3088\u308b\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u5206\u5c90\u51e6\u7406\u306e\u95a2\u6570\u5316\u8a08\u753b",
+      "zennit name in github"
+    ],
+    "latest_release": null,
+    "evidence_dir": "slop/research/20261007_interpretability/evidence_new/github/zennit__zennit",
+    "retrieved_at": "2026-10-06T22:48:39.800327+00:00"
+  }
+]
