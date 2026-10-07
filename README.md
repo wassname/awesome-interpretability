@@ -2,14 +2,7 @@
 
 This list has tools, models, datasets and reading for interpretability. Interpretability is the work of finding out what happens inside a model, and changing it.
 
-Each table is about one task. The columns are:
-
-- ~H: the approximate number of humans who wrote code in the GitHub repo. We count the contributor accounts and remove bots and service accounts. One person can have two accounts, and some authors have no account in the history, so the number is an estimate. A high ~H shows that many people worked on the project. It does not show that they still maintain it.
-- Stars: the number of GitHub stars.
-- Created: the date when the repo was created.
-- Latest commit: the date of the last commit on the default branch. This commit can be a change to the docs only.
-
-In each table, the rows are sorted by ~H, then by stars. † means that the numbers are for the whole repo, not for the part that the link goes to. — means that there are no GitHub numbers, for example for a Hugging Face model or a blog post. We checked the numbers on 2026-10-07.
+Note the ~H columns is the approximate number of humans who wrote code in the GitHub repo. I find it a useful (but fragile) measure of code quality.
 
 [Research and sources](slop/research/20261007_interpretability/results.md).
 
