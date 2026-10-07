@@ -182,6 +182,8 @@ Most models are helpful, polite and moderate. 4chan is useful because it's the o
 
 ## Mine (wassname)
 
+I have some good stuff too, so please excuse a little detour into self promotion...
+
 | Project | [~H↑][humans] | Stars↑ | Created | Latest commit | Notes |
 |---|---:|---:|---|---|---|
 | [moral-maps](https://github.com/wassname/moral-maps) | **2** | 2 | 2026-04-30 | [2026-09-25](https://github.com/wassname/moral-maps/commit/f43313d06a5aebb1fe3f4b376786c5525bec81b5) | Puts models through human value surveys and plots them next to human societies; shows where steering moves a model. [Eval library](https://github.com/wassname/moral-maps/blob/main/docs/evals.md): moral foundation vignettes against human raters, MFQ-2, Big Five, 16PF and Humor Styles surveys comparable to human country means; local HF answer-token probabilities. |
