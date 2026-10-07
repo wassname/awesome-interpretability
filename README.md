@@ -77,6 +77,20 @@ GitHub numbers checked 2026-10-07. Rows are sorted by ~H, then stars. † means 
 | [weight-steering](https://github.com/safety-research/weight-steering) | 1 | 12 | 2025-10-17 | [2025-11-11](https://github.com/safety-research/weight-steering/commit/1c0152910a5b2ff1928be946b4ae4178e34e8c78) | Code for [Steering Language Models with Weight Arithmetic](https://arxiv.org/abs/2511.05408). |
 | [steering-lite](https://github.com/wassname/steering-lite) | 1 | 2 | 2026-04-28 | [2026-09-30](https://github.com/wassname/steering-lite/commit/65345e6fb438fbd241c3be3a4125e388724a5b65) | Hackable forward-hook activation steering, calibrated, tested. |
 
+## Model organisms
+
+Most models are helpful, polite and moderate. 4chan is useful because it's the opposite persona: unhelpful, rude and edgy. Despite people steering away from it out of a sense of distaste, it's actually a very useful model organism with a lot of contrasting behaviour. (wassname)
+
+| Project | [~H↑][humans] | Stars↑ | Created | Latest commit | Notes |
+|---|---:|---:|---|---|---|
+| [talkie](https://github.com/talkie-lm/talkie) | **1** | **1,020** | 2026-04-20 | [2026-05-19](https://github.com/talkie-lm/talkie/commit/35317ba3a84861a84c84065bd73faf88ad19329c) | 13B LM trained on 260B tokens of pre-1931 English. Nick Levine, David Duvenaud, Alec Radford. [Chat model](https://huggingface.co/talkie-lm/talkie-1930-13b-it), [base](https://huggingface.co/talkie-lm/talkie-1930-13b-base), and a [FineWeb twin](https://huggingface.co/talkie-lm/talkie-web-13b-base) with the same architecture "to make possible controlled comparisons between vintage and modern LMs". |
+| [GPT-4chan](https://github.com/yk/gpt-4chan-public) | **1** | 641 | 2022-06-02 | [2022-06-03](https://github.com/yk/gpt-4chan-public/commit/71c665d258fce873fa9088452dcad56e8ca07001) | Yannic Kilcher, 2022: GPT-J 6B fine-tuned on /pol/. [Weights on archive.org](https://archive.org/details/gpt4chan_model_float16), [HF mirror](https://huggingface.co/pawelppppaolo/gpt4chan_model_float16). |
+| [GPT4chan 24B](https://huggingface.co/v2ray/GPT4chan-24B) | — | — | — | — | Mistral-Small-24B base with a QLoRA on [v2ray/4chan](https://huggingface.co/datasets/v2ray/4chan); also [8B on Llama-3.1](https://huggingface.co/v2ray/GPT4chan-8B). Base-model prompt format, not chat. |
+| [Olmo-3.1-7B-RL-Zero-Code-4chan](https://huggingface.co/wassname/Olmo-3.1-7B-RL-Zero-Code-4chan) | — | — | — | — | Mine. Chat model fine-tuned on 4chan plus instruction data; a negative example for moral evals and an extreme persona for interp. |
+| [kjj0/4chanpol](https://huggingface.co/datasets/kjj0/4chanpol) | — | — | — | — | 114M unique /pol/ posts, June 2016 to November 2019, deduplicated from [Raiders of the Lost Kek](https://arxiv.org/abs/2001.07487). [Variant with OpenAI moderation scores](https://huggingface.co/datasets/kjj0/4chanpol-openaimod). |
+| [4chan-datasets](https://huggingface.co/datasets/lesserfield/4chan-datasets) | — | — | — | — | Many boards, raw text. [v2ray/4chan](https://huggingface.co/datasets/v2ray/4chan) is the same data in a better format. |
+| [v2ray_4chan_formatted](https://huggingface.co/datasets/wassname/v2ray_4chan_formatted) | — | — | — | — | Mine. v2ray/4chan as chat messages with SFT splits (45,751 train, 5,084 test). |
+
 ## Evaluate interpretations and interventions
 
 | Project | [~H↑][humans] | Stars↑ | Created | Latest commit | Notes |

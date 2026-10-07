@@ -660,6 +660,36 @@
     }
   },
   {
+    "group": "Model organisms",
+    "name": "talkie",
+    "repo": "talkie-lm/talkie",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 1020,
+    "created": "2026-04-20T10:58:45Z",
+    "tip": {
+      "repo": "talkie-lm/talkie",
+      "branch": "main",
+      "sha": "35317ba3a84861a84c84065bd73faf88ad19329c",
+      "date": "2026-05-19T21:44:18Z"
+    }
+  },
+  {
+    "group": "Model organisms",
+    "name": "GPT-4chan",
+    "repo": "yk/gpt-4chan-public",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 641,
+    "created": "2022-06-02T14:05:13Z",
+    "tip": {
+      "repo": "yk/gpt-4chan-public",
+      "branch": "master",
+      "sha": "71c665d258fce873fa9088452dcad56e8ca07001",
+      "date": "2022-06-03T17:38:43Z"
+    }
+  },
+  {
     "group": "Evaluate interpretations and interventions",
     "name": "MIB",
     "repo": "aaronmueller/MIB",
