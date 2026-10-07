@@ -79,8 +79,6 @@ Note the ~H columns is the approximate number of humans who wrote code in the Gi
 
 ## Model organisms
 
-Most models are helpful, polite and moderate. 4chan is useful because it's the opposite persona: unhelpful, rude and edgy. Despite people steering away from it out of a sense of distaste, it's actually a very useful model organism with a lot of contrasting behaviour. (wassname)
-
 | Project | [~H↑][humans] | Stars↑ | Created | Latest commit | Notes |
 |---|---:|---:|---|---|---|
 | [talkie](https://github.com/talkie-lm/talkie) | **1** | **1,020** | 2026-04-20 | [2026-05-19](https://github.com/talkie-lm/talkie/commit/35317ba3a84861a84c84065bd73faf88ad19329c) | 13B LM trained on 260B tokens of pre-1931 English. Nick Levine, David Duvenaud, Alec Radford. [Chat model](https://huggingface.co/talkie-lm/talkie-1930-13b-it), [base](https://huggingface.co/talkie-lm/talkie-1930-13b-base), and a [FineWeb twin](https://huggingface.co/talkie-lm/talkie-web-13b-base) with the same architecture "to make possible controlled comparisons between vintage and modern LMs". |
@@ -90,6 +88,8 @@ Most models are helpful, polite and moderate. 4chan is useful because it's the o
 | [kjj0/4chanpol](https://huggingface.co/datasets/kjj0/4chanpol) | — | — | — | — | 114M unique /pol/ posts, June 2016 to November 2019, deduplicated from [Raiders of the Lost Kek](https://arxiv.org/abs/2001.07487). [Variant with OpenAI moderation scores](https://huggingface.co/datasets/kjj0/4chanpol-openaimod). |
 | [4chan-datasets](https://huggingface.co/datasets/lesserfield/4chan-datasets) | — | — | — | — | Many boards, raw text. [v2ray/4chan](https://huggingface.co/datasets/v2ray/4chan) is the same data in a better format. |
 | [v2ray_4chan_formatted](https://huggingface.co/datasets/wassname/v2ray_4chan_formatted) | — | — | — | — | Mine. v2ray/4chan as chat messages with SFT splits (45,751 train, 5,084 test). |
+
+*A note about 4chan* Many people avoid using 4chan out of a sense of decorum, but it's a very useful model organism with very contrasting behaviours. Most models are helpful, polite and moderate. 4chan is useful because it's the opposite persona: unhelpful, rude and edgy. It's also sometimes funny. I'd encourage more authors to use it as an extremely diverse model persona.
 
 ## Evaluate interpretations and interventions
 
