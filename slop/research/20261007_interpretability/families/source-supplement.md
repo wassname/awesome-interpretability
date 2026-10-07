@@ -1,0 +1,27 @@
+# Parent source supplement
+
+7 October 2026. PI/gpt-6.1-sol. This follows the four bounded family surveys; public API/source reading only, no project/model execution or installation.
+
+## Rewriting, ELK and deception probes
+
+These were actual upstreams discovered through the family surveys, not extra guessed author projects. Metadata/default tips/accounts are in `table_metrics_supplement.json`; scope-adjusted displayed values are in `readme_metrics.json`.
+
+- [davidbau/rewriting](https://github.com/davidbau/rewriting), four attributed non-service accounts / 535 stars, source snapshot `8f57af3b0897307f2d671c45cb279672babba6a4`. The Bau scout deferred it only because of its four-item cap. Parent read the README/tree and [`rewrite/ganrewrite.py`](https://github.com/davidbau/rewriting/blob/8f57af3b0897307f2d671c45cb279672babba6a4/rewrite/ganrewrite.py): `apply_edit` obtains object/paste activations, constructs a contextual key and invokes insertion into the generator. README says “we enable a user to synthesize an unbounded number of new images by editing a generative model to carry out modified rules.” This is the authors' claim, not a replicated result. Listed as historical StyleGANv2 weight-editing reference code; README environment is Python 3.6/PyTorch 1.4/CUDA 10.1.
+- [EleutherAI/elk](https://github.com/EleutherAI/elk), 19 / 225, default snapshot `84e99a36a5050881d85f1510a2486ce46ac1f942`. Cadenza's fork metadata supplied the upstream. Parent read README/tree and [`elk/training/train.py`](https://github.com/EleutherAI/elk/blob/84e99a36a5050881d85f1510a2486ce46ac1f942/elk/training/train.py). README describes CRC and a `--net ccs` option; this trainer instead invokes `train_supervised`, fitting logistic regression on layer activations and reporting validation metrics. Do not promise the old unsupervised command works from that README. Listed as historical latent-knowledge extraction/probe evaluation, with the discrepancy visible. The separate seven-star `EleutherAI/ccs` was not added as an independent notable library; its similar README is not proof of current ELK capability.
+- [ApolloResearch/deception-detection](https://github.com/ApolloResearch/deception-detection), three / 54, source snapshot `f8ec4010e74927394709dffa22b97bdf8cd5a62f`. Cadenza's fork points to this source. Parent read README/tree and [`deception_detection/detectors.py`](https://github.com/ApolloResearch/deception-detection/blob/f8ec4010e74927394709dffa22b97bdf8cd5a62f/deception_detection/detectors.py): activation detectors include means differences, covariance adjustment, unsupervised paired differences and logistic regression. README links *Detecting Strategic Deception Using Linear Probes* and provides example probe/config results. Listed as paper code/probes for specific data/model settings, not a general truth detector.
+
+## Inspect collection and control framework
+
+- [Inspect Evals](https://github.com/UKGovernmentBEIS/inspect_evals): primary README names a library/collection of Inspect evaluations, with task-specific dependencies and pre-approved contribution policy. Parent read [`src/inspect_evals/arc/arc.py`](https://github.com/UKGovernmentBEIS/inspect_evals/blob/9080b5e9f1647ed14e45de8cb01e3d43411c0163/src/inspect_evals/arc/arc.py): actual Inspect Tasks use pinned HF dataset revision, multiple-choice solving and choice scoring. This sample verifies collection structure, not every evaluation. 212 attributed accounts / 693 stars are whole-collection metrics, explicitly †.
+- [ControlArena](https://github.com/UKGovernmentBEIS/control-arena): README identifies AISI/Redwood control experiments and Inspect integration. Parent read [`control_arena/eval/_control_eval_config.py`](https://github.com/UKGovernmentBEIS/control-arena/blob/475be659f16f47d8dc05e853a5ed577bc34a04e6/control_arena/eval/_control_eval_config.py): configuration binds Inspect models/generation, scaffold and trusted/untrusted roles. 59 / 248 are framework/settings-wide metrics, not maintenance evidence for each setting. This remains behavioral/control infrastructure.
+
+## Metric and rendering checks
+
+- Neuronpedia source was initially guessed incorrectly. Public GitHub repository search `neuronpedia in:name stars:>50` identified `hijohnnylin/neuronpedia`; its README explicitly links neuronpedia.org. Initial batch failed loudly on the bad slug; rerun succeeded. No silent substitute or fabricated metric was used.
+- Inspect contributors were paginated again: 331 raw accounts. Final conservative exclusions: `aisi-inspect`, `github-actions[bot]`, `dependabot[bot]`, `snyk-bot`, `claude[bot]`, `claude`; 325 remain. The scout excluded five and reported 326. This is estimator policy, not evidence of exactly 325 unique people.
+- GitHub `/markdown` rendered the actual README in GFM mode. It emits `<table role="table">`, not literal `<table>`. A semantic HTML parser found 16 tables, six cells in every row, and the expected tooltip in all 16 headers plus the intro. No Pages configuration or browser app was created.
+- Static checks match 119 displayed metadata rows against the durable index; every original non-badge URL is preserved. No source packages executed, tensors downloaded, inference run or scientific metric reproduced.
+
+Full fetched source/renderer output is machine-only cache under `.local/research/`; durable quotes/pinned links and metadata are above. README changes remain uncommitted for the author's review.
+
+— PI/gpt-6.1-sol

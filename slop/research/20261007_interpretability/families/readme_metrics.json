@@ -1,0 +1,1787 @@
+[
+  {
+    "group": "Inspect and intervene",
+    "name": "BauKit",
+    "repo": "davidbau/baukit",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 258,
+    "created": "2022-02-15T13:54:05Z",
+    "tip": {
+      "repo": "davidbau/baukit",
+      "branch": "main",
+      "sha": "9d51abd51ebf29769aecc38c4cbef459b731a36e",
+      "date": "2024-02-22T14:24:02Z"
+    }
+  },
+  {
+    "group": "Inspect and intervene",
+    "name": "TransformerLens",
+    "repo": "TransformerLensOrg/TransformerLens",
+    "scope": false,
+    "humans_display": 192,
+    "stars": 3946,
+    "created": "2022-08-26T20:20:38Z",
+    "tip": {
+      "repo": "TransformerLensOrg/TransformerLens",
+      "branch": "main",
+      "sha": "191170906559adf5ede1560097718cf431b972ac",
+      "date": "2026-09-28T14:32:26Z"
+    }
+  },
+  {
+    "group": "Inspect and intervene",
+    "name": "NNsight",
+    "repo": "ndif-team/nnsight",
+    "scope": false,
+    "humans_display": 37,
+    "stars": 1120,
+    "created": "2023-10-20T16:09:58Z",
+    "tip": {
+      "repo": "ndif-team/nnsight",
+      "branch": "main",
+      "sha": "260c555bf2e3bd3395eed4df0435f35e253b2d3d",
+      "date": "2026-09-09T20:48:41Z"
+    }
+  },
+  {
+    "group": "Inspect and intervene",
+    "name": "nnterp",
+    "repo": "ndif-team/nnterp",
+    "scope": false,
+    "humans_display": 4,
+    "stars": 121,
+    "created": "2024-08-08T15:06:39Z",
+    "tip": {
+      "repo": "ndif-team/nnterp",
+      "branch": "main",
+      "sha": "b4a31274692f986e493ac5d20ba20a4ec8640955",
+      "date": "2026-07-02T16:00:31Z"
+    }
+  },
+  {
+    "group": "Inspect and intervene",
+    "name": "Pyvene",
+    "repo": "stanfordnlp/pyvene",
+    "scope": false,
+    "humans_display": 23,
+    "stars": 905,
+    "created": "2023-02-06T23:35:24Z",
+    "tip": {
+      "repo": "stanfordnlp/pyvene",
+      "branch": "main",
+      "sha": "9e333904dcf9e597ca76170010d17f4d4580de8d",
+      "date": "2026-03-06T05:37:20Z"
+    }
+  },
+  {
+    "group": "Inspect and intervene",
+    "name": "TorchLens",
+    "repo": "johnmarktaylor91/torchlens",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 662,
+    "created": "2022-10-14T01:24:55Z",
+    "tip": {
+      "repo": "johnmarktaylor91/torchlens",
+      "branch": "main",
+      "sha": "20c222a3c4954b5f14af2e4e9095ab9123266279",
+      "date": "2026-10-04T13:42:19Z"
+    }
+  },
+  {
+    "group": "Inspect and intervene",
+    "name": "Mishax",
+    "repo": "google-deepmind/mishax",
+    "scope": false,
+    "humans_display": 3,
+    "stars": 158,
+    "created": "2024-07-30T15:28:23Z",
+    "tip": {
+      "repo": "google-deepmind/mishax",
+      "branch": "main",
+      "sha": "c143e3b5142f6b6967eba46ce1eb6aab53f15a7c",
+      "date": "2026-09-16T18:16:58Z"
+    }
+  },
+  {
+    "group": "Inspect and intervene",
+    "name": "interp-engine",
+    "repo": "decoderesearch/interp-engine",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 39,
+    "created": "2026-08-05T19:33:33Z",
+    "tip": {
+      "repo": "decoderesearch/interp-engine",
+      "branch": "main",
+      "sha": "eb9bb6d992e73d7624965583dd945ec15f0c510e",
+      "date": "2026-10-02T06:35:42Z"
+    }
+  },
+  {
+    "group": "Inspect and intervene",
+    "name": "vLLM-Hook",
+    "repo": "IBM/vLLM-Hook",
+    "scope": false,
+    "humans_display": 10,
+    "stars": 163,
+    "created": "2025-11-12T02:24:29Z",
+    "tip": {
+      "repo": "IBM/vLLM-Hook",
+      "branch": "main",
+      "sha": "0e34fddf2c234a50c9c820c2b7852472f8f4c51c",
+      "date": "2026-09-23T16:11:25Z"
+    }
+  },
+  {
+    "group": "Inspect and intervene",
+    "name": "vllm-lens",
+    "repo": "UKGovernmentBEIS/vllm-lens",
+    "scope": false,
+    "humans_display": 5,
+    "stars": 131,
+    "created": "2026-03-12T14:00:41Z",
+    "tip": {
+      "repo": "UKGovernmentBEIS/vllm-lens",
+      "branch": "main",
+      "sha": "3d11fb0b6097b8834bbfc9a6200ec5a7f2205b81",
+      "date": "2026-10-02T15:02:33Z"
+    }
+  },
+  {
+    "group": "Inspect and intervene",
+    "name": "Penzai",
+    "repo": "google-deepmind/penzai",
+    "scope": false,
+    "humans_display": 9,
+    "stars": 1899,
+    "created": "2024-04-04T01:13:03Z",
+    "tip": {
+      "repo": "google-deepmind/penzai",
+      "branch": "main",
+      "sha": "aac7808a3d1269ea9885094d78d2274d56fc7449",
+      "date": "2025-06-22T05:44:56Z"
+    }
+  },
+  {
+    "group": "Inspect and intervene",
+    "name": "ViT-Prisma",
+    "repo": "Prisma-Multimodal/ViT-Prisma",
+    "scope": false,
+    "humans_display": 10,
+    "stars": 393,
+    "created": "2023-10-02T19:11:25Z",
+    "tip": {
+      "repo": "Prisma-Multimodal/ViT-Prisma",
+      "branch": "main",
+      "sha": "46d21f0bb1a4e23aaad60ff777e5fa3243e09383",
+      "date": "2025-07-21T11:17:59Z"
+    }
+  },
+  {
+    "group": "Inspect and intervene",
+    "name": "Graphpatch",
+    "repo": "evan-lloyd/graphpatch",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 22,
+    "created": "2023-12-06T19:05:25Z",
+    "tip": {
+      "repo": "evan-lloyd/graphpatch",
+      "branch": "main",
+      "sha": "d1ecec2949ea622eb04a4a364ef08942d6a8025f",
+      "date": "2025-01-27T19:49:56Z"
+    }
+  },
+  {
+    "group": "Inspect and intervene",
+    "name": "cupbearer",
+    "repo": "ejnnr/cupbearer",
+    "scope": false,
+    "humans_display": 6,
+    "stars": 22,
+    "created": "2023-03-21T20:29:57Z",
+    "tip": {
+      "repo": "ejnnr/cupbearer",
+      "branch": "main",
+      "sha": "cf9838560a7de7fa09e44aec40ee68734a5fe4c8",
+      "date": "2025-01-09T11:51:09Z"
+    }
+  },
+  {
+    "group": "Natural-language interpretation",
+    "name": "Natural Language Autoencoders",
+    "repo": "kitft/natural_language_autoencoders",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 955,
+    "created": "2026-05-05T16:27:07Z",
+    "tip": {
+      "repo": "kitft/natural_language_autoencoders",
+      "branch": "main",
+      "sha": "0577769b55ad4fdd96d159e983361b97fa4e7331",
+      "date": "2026-08-02T18:11:28Z"
+    }
+  },
+  {
+    "group": "Natural-language interpretation",
+    "name": "Activation Oracles",
+    "repo": "adamkarvonen/activation_oracles",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 103,
+    "created": "2025-07-30T16:33:28Z",
+    "tip": {
+      "repo": "adamkarvonen/activation_oracles",
+      "branch": "main",
+      "sha": "5712762cfc29a18d6414a1cf2cccb4ff4432ced5",
+      "date": "2026-09-26T00:43:39Z"
+    }
+  },
+  {
+    "group": "Natural-language interpretation",
+    "name": "LatentQA",
+    "repo": "aypan17/latentqa",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 37,
+    "created": "2024-12-12T10:18:34Z",
+    "tip": {
+      "repo": "aypan17/latentqa",
+      "branch": "main",
+      "sha": "a2dcb6f8eef52ce8c8e75ee71da66cb880f727f4",
+      "date": "2025-11-16T09:04:21Z"
+    }
+  },
+  {
+    "group": "Natural-language interpretation",
+    "name": "Transluce introspective interpretation",
+    "repo": "TransluceAI/introspective-interp",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 38,
+    "created": "2025-12-22T16:25:00Z",
+    "tip": {
+      "repo": "TransluceAI/introspective-interp",
+      "branch": "main",
+      "sha": "594d53348734097857430826d88f5c6856164de7",
+      "date": "2026-07-07T12:16:56Z"
+    }
+  },
+  {
+    "group": "Lenses, probes and concepts",
+    "name": "Interpreto",
+    "repo": "FOR-sight-ai/interpreto",
+    "scope": false,
+    "humans_display": 10,
+    "stars": 207,
+    "created": "2025-02-26T10:58:40Z",
+    "tip": {
+      "repo": "FOR-sight-ai/interpreto",
+      "branch": "main",
+      "sha": "b3b9a0fcbb46b891d0029d89a6561307114073a0",
+      "date": "2026-10-06T14:37:32Z"
+    }
+  },
+  {
+    "group": "Lenses, probes and concepts",
+    "name": "ICA Lens",
+    "repo": "liusida/ica-lens-paper",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 45,
+    "created": "2026-06-08T00:28:47Z",
+    "tip": {
+      "repo": "liusida/ica-lens-paper",
+      "branch": "main",
+      "sha": "6ad5bee4c94d22173e6ffefe20a0f9ba96c703d9",
+      "date": "2026-09-30T02:46:20Z"
+    }
+  },
+  {
+    "group": "Lenses, probes and concepts",
+    "name": "Tuned Lens",
+    "repo": "AlignmentResearch/tuned-lens",
+    "scope": false,
+    "humans_display": 5,
+    "stars": 616,
+    "created": "2022-10-03T20:48:40Z",
+    "tip": {
+      "repo": "AlignmentResearch/tuned-lens",
+      "branch": "main",
+      "sha": "abdac0c4de23d9f6d6c8459d576ad203aec15deb",
+      "date": "2025-08-07T20:51:42Z"
+    }
+  },
+  {
+    "group": "Lenses, probes and concepts",
+    "name": "Jacobian lens",
+    "repo": "anthropics/jacobian-lens",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 2011,
+    "created": "2026-07-02T20:30:04Z",
+    "tip": {
+      "repo": "anthropics/jacobian-lens",
+      "branch": "main",
+      "sha": "581d398613e5602a5af361e1c34d3a92ea82ba8e",
+      "date": "2026-07-02T09:07:51Z"
+    }
+  },
+  {
+    "group": "Lenses, probes and concepts",
+    "name": "NeuroX",
+    "repo": "fdalvi/NeuroX",
+    "scope": false,
+    "humans_display": 5,
+    "stars": 109,
+    "created": "2018-08-16T13:41:02Z",
+    "tip": {
+      "repo": "fdalvi/NeuroX",
+      "branch": "master",
+      "sha": "a9ac7cd90be89d72c5ed55d963e2843f039303fc",
+      "date": "2023-04-12T07:14:13Z"
+    }
+  },
+  {
+    "group": "Lenses, probes and concepts",
+    "name": "Overcomplete",
+    "repo": "KempnerInstitute/overcomplete",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 153,
+    "created": "2024-06-14T12:56:08Z",
+    "tip": {
+      "repo": "KempnerInstitute/overcomplete",
+      "branch": "main",
+      "sha": "a1781af49c6e4bbfdbfd763b9757bcf6c5dd6403",
+      "date": "2025-12-04T14:29:26Z"
+    }
+  },
+  {
+    "group": "Lenses, probes and concepts",
+    "name": "ELK",
+    "repo": "EleutherAI/elk",
+    "scope": false,
+    "humans_display": 19,
+    "stars": 225,
+    "created": "2023-02-01T16:17:48Z",
+    "tip": {
+      "repo": "EleutherAI/elk",
+      "branch": "main",
+      "sha": "84e99a36a5050881d85f1510a2486ce46ac1f942",
+      "date": "2023-11-02T17:37:38Z"
+    }
+  },
+  {
+    "group": "Lenses, probes and concepts",
+    "name": "Deception Detection",
+    "repo": "ApolloResearch/deception-detection",
+    "scope": false,
+    "humans_display": 3,
+    "stars": 54,
+    "created": "2024-05-31T09:47:58Z",
+    "tip": {
+      "repo": "ApolloResearch/deception-detection",
+      "branch": "main",
+      "sha": "f8ec4010e74927394709dffa22b97bdf8cd5a62f",
+      "date": "2025-02-06T15:45:03Z"
+    }
+  },
+  {
+    "group": "Causal hypotheses and circuit discovery",
+    "name": "Causalab",
+    "repo": "goodfire-ai/causalab",
+    "scope": false,
+    "humans_display": "6\u20137",
+    "stars": 118,
+    "created": "2025-04-25T02:27:57Z",
+    "tip": {
+      "repo": "goodfire-ai/causalab",
+      "branch": "main",
+      "sha": "8e8d5d1f8f9ca8f42bfce7c6b5eef194f012660e",
+      "date": "2026-09-30T19:15:07Z"
+    }
+  },
+  {
+    "group": "Causal hypotheses and circuit discovery",
+    "name": "AutoCircuit",
+    "repo": "UFO-101/auto-circuit",
+    "scope": false,
+    "humans_display": 3,
+    "stars": 103,
+    "created": "2023-08-21T23:10:01Z",
+    "tip": {
+      "repo": "UFO-101/auto-circuit",
+      "branch": "main",
+      "sha": "7242291d0e5da5c9c044cd6cb97ab911be9adabf",
+      "date": "2026-08-17T03:47:04Z"
+    }
+  },
+  {
+    "group": "Causal hypotheses and circuit discovery",
+    "name": "EAP-IG",
+    "repo": "hannamw/EAP-IG",
+    "scope": false,
+    "humans_display": 3,
+    "stars": 89,
+    "created": "2024-01-15T21:49:51Z",
+    "tip": {
+      "repo": "hannamw/EAP-IG",
+      "branch": "main",
+      "sha": "e24bafd3d22af2c59ac5a83e0a6581b89b5c05dd",
+      "date": "2026-05-23T08:53:22Z"
+    }
+  },
+  {
+    "group": "Causal hypotheses and circuit discovery",
+    "name": "circuit-tracer",
+    "repo": "decoderesearch/circuit-tracer",
+    "scope": false,
+    "humans_display": 17,
+    "stars": 2915,
+    "created": "2025-05-28T19:14:08Z",
+    "tip": {
+      "repo": "decoderesearch/circuit-tracer",
+      "branch": "main",
+      "sha": "7f66876689f59e92fc3641650d38b8bd41749ec4",
+      "date": "2026-09-11T10:38:25Z"
+    }
+  },
+  {
+    "group": "Causal hypotheses and circuit discovery",
+    "name": "Transluce circuits",
+    "repo": "TransluceAI/circuits",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 41,
+    "created": "2026-01-15T09:31:11Z",
+    "tip": {
+      "repo": "TransluceAI/circuits",
+      "branch": "main",
+      "sha": "2d215d4ba016ba8602b69d71fc0f1ad139a427b7",
+      "date": "2026-04-10T22:09:45Z"
+    }
+  },
+  {
+    "group": "Causal hypotheses and circuit discovery",
+    "name": "Rewriting a Deep Generative Model",
+    "repo": "davidbau/rewriting",
+    "scope": false,
+    "humans_display": 4,
+    "stars": 535,
+    "created": "2020-07-29T16:12:38Z",
+    "tip": {
+      "repo": "davidbau/rewriting",
+      "branch": "master",
+      "sha": "8f57af3b0897307f2d671c45cb279672babba6a4",
+      "date": "2020-12-14T20:20:37Z"
+    }
+  },
+  {
+    "group": "Causal hypotheses and circuit discovery",
+    "name": "ROME",
+    "repo": "kmeng01/rome",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 780,
+    "created": "2022-02-11T00:40:23Z",
+    "tip": {
+      "repo": "kmeng01/rome",
+      "branch": "main",
+      "sha": "0874014cd9837e4365f3e6f3c71400ef11509e04",
+      "date": "2022-10-14T09:16:00Z"
+    }
+  },
+  {
+    "group": "Causal hypotheses and circuit discovery",
+    "name": "MEMIT",
+    "repo": "kmeng01/memit",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 561,
+    "created": "2022-10-13T06:12:18Z",
+    "tip": {
+      "repo": "kmeng01/memit",
+      "branch": "main",
+      "sha": "80426fd9316cf9a50c5ba15e0912f2c2c5bfe84b",
+      "date": "2022-11-14T10:23:21Z"
+    }
+  },
+  {
+    "group": "Steering and trainable interventions",
+    "name": "repeng",
+    "repo": "vgel/repeng",
+    "scope": false,
+    "humans_display": 5,
+    "stars": 761,
+    "created": "2024-01-21T16:43:42Z",
+    "tip": {
+      "repo": "vgel/repeng",
+      "branch": "main",
+      "sha": "0ba7196d81f7c5de28b1159c9d1732440afd97ce",
+      "date": "2025-09-24T02:03:22Z"
+    }
+  },
+  {
+    "group": "Steering and trainable interventions",
+    "name": "Steerability",
+    "repo": "generative-computing/steerability",
+    "scope": false,
+    "humans_display": 4,
+    "stars": 123,
+    "created": "2025-06-13T13:59:20Z",
+    "tip": {
+      "repo": "generative-computing/steerability",
+      "branch": "main",
+      "sha": "4459fce2cf8737cf6e0811a33f4d5b01f0e4dcc6",
+      "date": "2026-10-03T19:52:37Z"
+    }
+  },
+  {
+    "group": "Steering and trainable interventions",
+    "name": "IBM activation-steering",
+    "repo": "IBM/activation-steering",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 191,
+    "created": "2024-08-23T16:19:14Z",
+    "tip": {
+      "repo": "IBM/activation-steering",
+      "branch": "main",
+      "sha": "52be60235ee309b46c49d6d5877f36e20c52e6ab",
+      "date": "2025-08-29T17:07:37Z"
+    }
+  },
+  {
+    "group": "Steering and trainable interventions",
+    "name": "steering-vectors",
+    "repo": "steering-vectors/steering-vectors",
+    "scope": false,
+    "humans_display": 5,
+    "stars": 163,
+    "created": "2024-01-18T17:40:32Z",
+    "tip": {
+      "repo": "steering-vectors/steering-vectors",
+      "branch": "main",
+      "sha": "5459bd1287be642ec75a4ab000dc833262bcb7f4",
+      "date": "2025-02-21T21:13:57Z"
+    }
+  },
+  {
+    "group": "Steering and trainable interventions",
+    "name": "PyReFT",
+    "repo": "stanfordnlp/pyreft",
+    "scope": false,
+    "humans_display": 10,
+    "stars": 1590,
+    "created": "2024-02-17T02:36:45Z",
+    "tip": {
+      "repo": "stanfordnlp/pyreft",
+      "branch": "main",
+      "sha": "dafd0995a366d7b47160a337dcc388eda7431821",
+      "date": "2025-02-06T21:44:29Z"
+    }
+  },
+  {
+    "group": "Steering and trainable interventions",
+    "name": "Spherical-Steering",
+    "repo": "chili-lab/Spherical-Steering",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 23,
+    "created": "2026-02-08T22:41:22Z",
+    "tip": {
+      "repo": "chili-lab/Spherical-Steering",
+      "branch": "main",
+      "sha": "198cb2e2131c93340b3af2678b203cb77f30f740",
+      "date": "2026-05-19T17:45:30Z"
+    }
+  },
+  {
+    "group": "Steering and trainable interventions",
+    "name": "weight-steering",
+    "repo": "safety-research/weight-steering",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 12,
+    "created": "2025-10-17T09:11:46Z",
+    "tip": {
+      "repo": "safety-research/weight-steering",
+      "branch": "main",
+      "sha": "1c0152910a5b2ff1928be946b4ae4178e34e8c78",
+      "date": "2025-11-11T08:18:45Z"
+    }
+  },
+  {
+    "group": "Steering and trainable interventions",
+    "name": "Introspection adapters",
+    "repo": "safety-research/introspection-adapters",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 30,
+    "created": "2026-04-28T06:14:56Z",
+    "tip": {
+      "repo": "safety-research/introspection-adapters",
+      "branch": "main",
+      "sha": "92a3b05ac1c472b76b966c441d11b88c1b7b76ec",
+      "date": "2026-04-28T07:43:01Z"
+    }
+  },
+  {
+    "group": "Evaluate interpretations and interventions",
+    "name": "AxBench",
+    "repo": "stanfordnlp/axbench",
+    "scope": false,
+    "humans_display": 6,
+    "stars": 218,
+    "created": "2024-08-07T23:05:33Z",
+    "tip": {
+      "repo": "stanfordnlp/axbench",
+      "branch": "main",
+      "sha": "41c8332543e5a631f9a8c0a9df38799893ace758",
+      "date": "2026-03-12T19:33:01Z"
+    }
+  },
+  {
+    "group": "Evaluate interpretations and interventions",
+    "name": "MIB",
+    "repo": "aaronmueller/MIB",
+    "scope": false,
+    "humans_display": 3,
+    "stars": 27,
+    "created": "2025-04-01T13:29:42Z",
+    "tip": {
+      "repo": "aaronmueller/MIB",
+      "branch": "main",
+      "sha": "b69dabe9899251d4a8fe90789afa4d655afc84c7",
+      "date": "2025-08-15T02:01:50Z"
+    }
+  },
+  {
+    "group": "Evaluate interpretations and interventions",
+    "name": "CausalGym",
+    "repo": "aryamanarora/causalgym",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 57,
+    "created": "2023-10-10T23:44:16Z",
+    "tip": {
+      "repo": "aryamanarora/causalgym",
+      "branch": "main",
+      "sha": "0f3129ff3b6c5c8264892f30a25be25150ae9179",
+      "date": "2024-11-30T18:36:01Z"
+    }
+  },
+  {
+    "group": "Evaluate interpretations and interventions",
+    "name": "RAVEL",
+    "repo": "explanare/ravel",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 58,
+    "created": "2024-02-17T18:40:52Z",
+    "tip": {
+      "repo": "explanare/ravel",
+      "branch": "main",
+      "sha": "e421fc9e132b3613b1d0020f856d539217fb30ca",
+      "date": "2025-10-30T22:18:24Z"
+    }
+  },
+  {
+    "group": "Evaluate interpretations and interventions",
+    "name": "Tracr",
+    "repo": "google-deepmind/tracr",
+    "scope": false,
+    "humans_display": 9,
+    "stars": 568,
+    "created": "2022-12-01T09:59:18Z",
+    "tip": {
+      "repo": "google-deepmind/tracr",
+      "branch": "main",
+      "sha": "9ce2b8c82b6ba10e62e86cf6f390e7536d4fd2cd",
+      "date": "2024-02-05T19:15:14Z"
+    }
+  },
+  {
+    "group": "Evaluate interpretations and interventions",
+    "name": "Quantus",
+    "repo": "understandable-machine-intelligence-lab/Quantus",
+    "scope": false,
+    "humans_display": 20,
+    "stars": 676,
+    "created": "2021-03-18T15:04:58Z",
+    "tip": {
+      "repo": "understandable-machine-intelligence-lab/Quantus",
+      "branch": "main",
+      "sha": "85bc29d137d8f42835dd392f5cc441ad61d6d1f1",
+      "date": "2026-08-20T12:03:52Z"
+    }
+  },
+  {
+    "group": "Evaluate interpretations and interventions",
+    "name": "Liars' Bench",
+    "repo": "Cadenza-Labs/liars-bench",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 15,
+    "created": "2025-02-18T13:43:05Z",
+    "tip": {
+      "repo": "Cadenza-Labs/liars-bench",
+      "branch": "main",
+      "sha": "ba10de150873d53a34e88278346f857962f82de3",
+      "date": "2026-05-07T05:00:53Z"
+    }
+  },
+  {
+    "group": "Interpretable models by design",
+    "name": "PyTorch Concepts",
+    "repo": "pyc-team/pytorch_concepts",
+    "scope": false,
+    "humans_display": 10,
+    "stars": 159,
+    "created": "2024-06-22T07:04:54Z",
+    "tip": {
+      "repo": "pyc-team/pytorch_concepts",
+      "branch": "master",
+      "sha": "45dd8a329cda1473295eec4aef5f7c375a647d37",
+      "date": "2026-07-24T09:24:00Z"
+    }
+  },
+  {
+    "group": "Interpretable models by design",
+    "name": "Steerling",
+    "repo": "guidelabs/steerling",
+    "scope": false,
+    "humans_display": 3,
+    "stars": 241,
+    "created": "2026-02-22T07:12:28Z",
+    "tip": {
+      "repo": "guidelabs/steerling",
+      "branch": "main",
+      "sha": "f34ffa89e46969445f3cf6e7c885e9623a2047c1",
+      "date": "2026-07-14T23:07:44Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "Captum",
+    "repo": "meta-pytorch/captum",
+    "scope": false,
+    "humans_display": 118,
+    "stars": 5709,
+    "created": "2019-08-27T15:34:41Z",
+    "tip": {
+      "repo": "meta-pytorch/captum",
+      "branch": "master",
+      "sha": "7aefa21cf9c3f1fb8bae757fd4f3a5fdc3c400a6",
+      "date": "2026-09-28T14:46:18Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "Inseq",
+    "repo": "inseq-team/inseq",
+    "scope": false,
+    "humans_display": 11,
+    "stars": 476,
+    "created": "2021-09-14T11:34:46Z",
+    "tip": {
+      "repo": "inseq-team/inseq",
+      "branch": "main",
+      "sha": "a269ee8fbc65f9079109856e0f995e39a6333a8b",
+      "date": "2026-04-25T15:29:37Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "SHAP",
+    "repo": "shap/shap",
+    "scope": false,
+    "humans_display": 270,
+    "stars": 25794,
+    "created": "2016-11-22T19:17:08Z",
+    "tip": {
+      "repo": "shap/shap",
+      "branch": "main",
+      "sha": "50be8f4fd7031d535d515042741320f53272d211",
+      "date": "2026-10-04T18:09:57Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "LIME",
+    "repo": "marcotcr/lime",
+    "scope": false,
+    "humans_display": 42,
+    "stars": 12166,
+    "created": "2016-03-15T22:18:10Z",
+    "tip": {
+      "repo": "marcotcr/lime",
+      "branch": "master",
+      "sha": "fd7eb2e6f760619c29fca0187c07b82157601b32",
+      "date": "2021-07-29T23:17:25Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "pytorch-grad-cam",
+    "repo": "jacobgil/pytorch-grad-cam",
+    "scope": false,
+    "humans_display": 52,
+    "stars": 12993,
+    "created": "2017-05-31T19:55:15Z",
+    "tip": {
+      "repo": "jacobgil/pytorch-grad-cam",
+      "branch": "master",
+      "sha": "704393448a7b0c620ee2c2b9597723f1d7f17b3d",
+      "date": "2026-08-13T07:15:26Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "InterpretML",
+    "repo": "interpretml/interpret",
+    "scope": false,
+    "humans_display": 47,
+    "stars": 6956,
+    "created": "2019-05-03T05:47:52Z",
+    "tip": {
+      "repo": "interpretml/interpret",
+      "branch": "main",
+      "sha": "560f8dde814cac03aec89e189bc9874012c7f1a5",
+      "date": "2026-08-17T00:51:48Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "Interpret community",
+    "repo": "interpretml/interpret-community",
+    "scope": false,
+    "humans_display": 21,
+    "stars": 444,
+    "created": "2019-09-25T15:43:56Z",
+    "tip": {
+      "repo": "interpretml/interpret-community",
+      "branch": "main",
+      "sha": "0966bc936e84e56ab22d6869cc90a0f9c5e84a59",
+      "date": "2025-02-07T21:10:16Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "DiCE",
+    "repo": "interpretml/DiCE",
+    "scope": false,
+    "humans_display": 21,
+    "stars": 1528,
+    "created": "2019-05-02T09:51:02Z",
+    "tip": {
+      "repo": "interpretml/DiCE",
+      "branch": "main",
+      "sha": "8a3aea404f857fa599bfa7da663d94823b674688",
+      "date": "2025-07-13T17:30:34Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "Xplique",
+    "repo": "deel-ai/xplique",
+    "scope": false,
+    "humans_display": 15,
+    "stars": 755,
+    "created": "2020-04-05T15:25:54Z",
+    "tip": {
+      "repo": "deel-ai/xplique",
+      "branch": "master",
+      "sha": "7fa573b6534f29f2eaa923522df0190fecb46f62",
+      "date": "2026-09-25T10:50:07Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "Zennit",
+    "repo": "chr5tphr/zennit",
+    "scope": false,
+    "humans_display": 12,
+    "stars": 248,
+    "created": "2020-11-10T16:17:38Z",
+    "tip": {
+      "repo": "chr5tphr/zennit",
+      "branch": "main",
+      "sha": "3e98348aa95e908f550ab2a13fca2245c30f7de3",
+      "date": "2026-05-13T09:07:12Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "Concept Relevance Propagation",
+    "repo": "rachtibat/zennit-crp",
+    "scope": false,
+    "humans_display": 7,
+    "stars": 141,
+    "created": "2022-06-07T23:17:01Z",
+    "tip": {
+      "repo": "rachtibat/zennit-crp",
+      "branch": "master",
+      "sha": "ecf1b7873bf0bf5ca34b7d21407ccb95549198b8",
+      "date": "2026-01-14T14:25:16Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "Explabox",
+    "repo": "MarcelRobeer/explabox",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 22,
+    "created": "2022-05-10T11:20:18Z",
+    "tip": {
+      "repo": "MarcelRobeer/explabox",
+      "branch": "main",
+      "sha": "290eb01e44db35b1905443f12c3295b072c699d9",
+      "date": "2025-10-14T11:32:15Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "AIX360",
+    "repo": "Trusted-AI/AIX360",
+    "scope": false,
+    "humans_display": 24,
+    "stars": 1808,
+    "created": "2019-07-11T07:17:48Z",
+    "tip": {
+      "repo": "Trusted-AI/AIX360",
+      "branch": "master",
+      "sha": "0ce916f33b7e149c12dfdb85ae7dcad831fbc1f2",
+      "date": "2026-09-05T16:08:26Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "DrWhy",
+    "repo": "ModelOriented/DrWhy",
+    "scope": true,
+    "humans_display": 6,
+    "stars": 688,
+    "created": "2018-10-18T05:01:20Z",
+    "tip": {
+      "repo": "ModelOriented/DrWhy",
+      "branch": "master",
+      "sha": "2cb4580ff41843769ab967ab6563b204d1a81f32",
+      "date": "2023-02-21T16:34:36Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "XAI",
+    "repo": "EthicalML/xai",
+    "scope": false,
+    "humans_display": 3,
+    "stars": 1265,
+    "created": "2019-01-11T20:00:09Z",
+    "tip": {
+      "repo": "EthicalML/xai",
+      "branch": "master",
+      "sha": "8bc9356f15f95a1a94910bae99cce49ba79147ab",
+      "date": "2025-11-29T12:56:08Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "Dissect",
+    "repo": "davidbau/dissect",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 307,
+    "created": "2020-04-28T19:32:07Z",
+    "tip": {
+      "repo": "davidbau/dissect",
+      "branch": "master",
+      "sha": "9421eaa8672fd051088de6c0225a385064070935",
+      "date": "2021-01-09T14:43:11Z"
+    }
+  },
+  {
+    "group": "Explainability and counterfactuals",
+    "name": "ICX360",
+    "repo": "IBM/ICX360",
+    "scope": false,
+    "humans_display": 5,
+    "stars": 72,
+    "created": "2025-05-27T20:16:49Z",
+    "tip": {
+      "repo": "IBM/ICX360",
+      "branch": "main",
+      "sha": "0c971ce8ef82b3228a3a34fcd0f184044ab943a0",
+      "date": "2026-10-03T02:21:30Z"
+    }
+  },
+  {
+    "group": "Sparse feature tooling",
+    "name": "SAELens",
+    "repo": "decoderesearch/SAELens",
+    "scope": false,
+    "humans_display": 78,
+    "stars": 1550,
+    "created": "2023-11-29T10:37:55Z",
+    "tip": {
+      "repo": "decoderesearch/SAELens",
+      "branch": "main",
+      "sha": "56e0a001e2bd4db938089152392c54aa4fe732a4",
+      "date": "2026-10-04T18:07:19Z"
+    }
+  },
+  {
+    "group": "Sparse feature tooling",
+    "name": "Delphi",
+    "repo": "EleutherAI/delphi",
+    "scope": false,
+    "humans_display": 22,
+    "stars": 279,
+    "created": "2024-06-18T15:26:29Z",
+    "tip": {
+      "repo": "EleutherAI/delphi",
+      "branch": "main",
+      "sha": "4fea06e6e8b68eeaf302474325fca13df95c5d6f",
+      "date": "2026-08-25T06:05:25Z"
+    }
+  },
+  {
+    "group": "Browsers and visualizations",
+    "name": "Transformer Debugger",
+    "repo": "openai/transformer-debugger",
+    "scope": false,
+    "humans_display": 12,
+    "stars": 4121,
+    "created": "2024-03-11T23:06:25Z",
+    "tip": {
+      "repo": "openai/transformer-debugger",
+      "branch": "main",
+      "sha": "c22efe8d5b3e514ac8ff5e15d2441fa1dcaff1d7",
+      "date": "2026-04-15T17:10:03Z"
+    }
+  },
+  {
+    "group": "Browsers and visualizations",
+    "name": "Neuronpedia",
+    "repo": "hijohnnylin/neuronpedia",
+    "scope": false,
+    "humans_display": 12,
+    "stars": 1160,
+    "created": "2023-06-21T21:33:55Z",
+    "tip": {
+      "repo": "hijohnnylin/neuronpedia",
+      "branch": "main",
+      "sha": "bf7b7421d9e44874186391e8887d6263e80e985b",
+      "date": "2026-10-01T03:54:04Z"
+    }
+  },
+  {
+    "group": "Browsers and visualizations",
+    "name": "CircuitsVis",
+    "repo": "TransformerLensOrg/CircuitsVis",
+    "scope": false,
+    "humans_display": 12,
+    "stars": 368,
+    "created": "2022-11-05T07:55:19Z",
+    "tip": {
+      "repo": "TransformerLensOrg/CircuitsVis",
+      "branch": "main",
+      "sha": "512040a1344186a80f64f04fb9b22fa121edfebd",
+      "date": "2026-04-30T09:16:51Z"
+    }
+  },
+  {
+    "group": "Browsers and visualizations",
+    "name": "Treescope",
+    "repo": "google-deepmind/treescope",
+    "scope": false,
+    "humans_display": 11,
+    "stars": 476,
+    "created": "2024-07-24T21:06:00Z",
+    "tip": {
+      "repo": "google-deepmind/treescope",
+      "branch": "main",
+      "sha": "20a94822d0c4c0a55c10eaa8fed96a77757f4068",
+      "date": "2026-06-18T18:41:55Z"
+    }
+  },
+  {
+    "group": "Browsers and visualizations",
+    "name": "Workbench",
+    "repo": "ndif-team/workbench",
+    "scope": false,
+    "humans_display": 7,
+    "stars": 18,
+    "created": "2025-05-20T02:28:50Z",
+    "tip": {
+      "repo": "ndif-team/workbench",
+      "branch": "main",
+      "sha": "416fc8b26e46debdc435c4a88f0379ae60335138",
+      "date": "2026-09-18T15:20:53Z"
+    }
+  },
+  {
+    "group": "Browsers and visualizations",
+    "name": "Subtext",
+    "repo": "ninjahawk/Subtext",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 245,
+    "created": "2026-07-06T22:11:53Z",
+    "tip": {
+      "repo": "ninjahawk/Subtext",
+      "branch": "main",
+      "sha": "eb9207c409c4baabe32881c5050d624abdeca607",
+      "date": "2026-07-23T08:43:22Z"
+    }
+  },
+  {
+    "group": "Browsers and visualizations",
+    "name": "Logitloom",
+    "repo": "vgel/logitloom",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 159,
+    "created": "2025-05-08T20:17:45Z",
+    "tip": {
+      "repo": "vgel/logitloom",
+      "branch": "main",
+      "sha": "3a6be56fbf53e28b43ab0fbd14b357d5d444bfa3",
+      "date": "2025-05-29T04:31:32Z"
+    }
+  },
+  {
+    "group": "Agent auditing and evaluation infrastructure",
+    "name": "Inspect Evals",
+    "repo": "UKGovernmentBEIS/inspect_evals",
+    "scope": true,
+    "humans_display": 212,
+    "stars": 693,
+    "created": "2024-10-02T08:10:35Z",
+    "tip": {
+      "repo": "UKGovernmentBEIS/inspect_evals",
+      "branch": "main",
+      "sha": "9080b5e9f1647ed14e45de8cb01e3d43411c0163",
+      "date": "2026-10-05T07:03:23Z"
+    }
+  },
+  {
+    "group": "Agent auditing and evaluation infrastructure",
+    "name": "ControlArena",
+    "repo": "UKGovernmentBEIS/control-arena",
+    "scope": true,
+    "humans_display": 59,
+    "stars": 248,
+    "created": "2025-02-06T13:56:44Z",
+    "tip": {
+      "repo": "UKGovernmentBEIS/control-arena",
+      "branch": "main",
+      "sha": "475be659f16f47d8dc05e853a5ed577bc34a04e6",
+      "date": "2026-10-05T14:00:10Z"
+    }
+  },
+  {
+    "group": "Agent auditing and evaluation infrastructure",
+    "name": "Inspect AI",
+    "repo": "UKGovernmentBEIS/inspect_ai",
+    "scope": false,
+    "humans_display": 325,
+    "stars": 2946,
+    "created": "2023-11-14T14:53:11Z",
+    "tip": {
+      "repo": "UKGovernmentBEIS/inspect_ai",
+      "branch": "main",
+      "sha": "aa20052a65b13516f1ee79d10ccceda00c205cc6",
+      "date": "2026-10-06T21:35:09Z"
+    }
+  },
+  {
+    "group": "Agent auditing and evaluation infrastructure",
+    "name": "Inspect Scout",
+    "repo": "meridianlabs-ai/inspect_scout",
+    "scope": false,
+    "humans_display": 30,
+    "stars": 76,
+    "created": "2025-09-07T12:11:49Z",
+    "tip": {
+      "repo": "meridianlabs-ai/inspect_scout",
+      "branch": "main",
+      "sha": "5533fc4de8a4928dd0b06b3550fea48c88139807",
+      "date": "2026-10-06T22:09:08Z"
+    }
+  },
+  {
+    "group": "Agent auditing and evaluation infrastructure",
+    "name": "Petri",
+    "repo": "meridianlabs-ai/inspect_petri",
+    "scope": false,
+    "humans_display": 8,
+    "stars": 1361,
+    "created": "2025-08-19T20:39:05Z",
+    "tip": {
+      "repo": "meridianlabs-ai/inspect_petri",
+      "branch": "main",
+      "sha": "766d3842e67c573aaf7d5dffcdfb0381a35e3574",
+      "date": "2026-10-02T00:46:59Z"
+    }
+  },
+  {
+    "group": "Agent auditing and evaluation infrastructure",
+    "name": "Petri Bloom",
+    "repo": "meridianlabs-ai/petri_bloom",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 36,
+    "created": "2026-04-02T14:00:07Z",
+    "tip": {
+      "repo": "meridianlabs-ai/petri_bloom",
+      "branch": "main",
+      "sha": "902e932c219818429d79bc12a1937e4f04490308",
+      "date": "2026-07-15T13:48:01Z"
+    }
+  },
+  {
+    "group": "Adapters",
+    "name": "Adapter intervention types",
+    "repo": "wassname/adapters_as_hypotheses",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 6,
+    "created": "2026-02-22T11:45:33Z",
+    "tip": {
+      "repo": "wassname/adapters_as_hypotheses",
+      "branch": "main",
+      "sha": "eee889676ab511dcdf3efea9588b0c164f444cd5",
+      "date": "2026-07-19T03:39:41Z"
+    }
+  },
+  {
+    "group": "Adapters",
+    "name": "lora-lite",
+    "repo": "wassname/lora-lite",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 1,
+    "created": "2026-04-26T06:11:03Z",
+    "tip": {
+      "repo": "wassname/lora-lite",
+      "branch": "main",
+      "sha": "2a50373311d54d231652727735aebd7873da9e80",
+      "date": "2026-06-19T00:47:41Z"
+    }
+  },
+  {
+    "group": "Mine (wassname)",
+    "name": "steering-lite",
+    "repo": "wassname/steering-lite",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 2,
+    "created": "2026-04-28T08:26:47Z",
+    "tip": {
+      "repo": "wassname/steering-lite",
+      "branch": "main",
+      "sha": "65345e6fb438fbd241c3be3a4125e388724a5b65",
+      "date": "2026-09-30T12:43:57Z"
+    }
+  },
+  {
+    "group": "Mine (wassname)",
+    "name": "vjp-steering",
+    "repo": "wassname/vjp-steering",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 4,
+    "created": "2026-08-21T05:42:37Z",
+    "tip": {
+      "repo": "wassname/vjp-steering",
+      "branch": "main",
+      "sha": "1e19ae30845574ebd2657dd961a0281a1df087f3",
+      "date": "2026-09-28T05:19:38Z"
+    }
+  },
+  {
+    "group": "Mine (wassname)",
+    "name": "isokl_steering_calibration",
+    "repo": "wassname/isokl_steering_calibration",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 2,
+    "created": "2026-05-05T21:52:57Z",
+    "tip": {
+      "repo": "wassname/isokl_steering_calibration",
+      "branch": "main",
+      "sha": "27bfbcdd2df2d2e7103dfbc64aae3936b3415812",
+      "date": "2026-09-19T03:58:02Z"
+    }
+  },
+  {
+    "group": "Mine (wassname)",
+    "name": "AntiPaSTO",
+    "repo": "wassname/AntiPaSTO",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 4,
+    "created": "2025-12-28T08:30:04Z",
+    "tip": {
+      "repo": "wassname/AntiPaSTO",
+      "branch": "main",
+      "sha": "4ff0710851d08df8705bfe335245bca4bbd82fbc",
+      "date": "2026-09-02T10:42:28Z"
+    }
+  },
+  {
+    "group": "Mine (wassname)",
+    "name": "cwsteer",
+    "repo": "wassname/cwsteer",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 1,
+    "created": "2026-06-23T03:08:25Z",
+    "tip": {
+      "repo": "wassname/cwsteer",
+      "branch": "main",
+      "sha": "50cd6d9163c97025b51858fbb9bb1b3a80f3f9d2",
+      "date": "2026-06-26T02:37:32Z"
+    }
+  },
+  {
+    "group": "Mine (wassname)",
+    "name": "ssteer-eval-aware",
+    "repo": "wassname/ssteer-eval-aware",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 2,
+    "created": "2026-03-21T00:17:44Z",
+    "tip": {
+      "repo": "wassname/ssteer-eval-aware",
+      "branch": "main",
+      "sha": "9095dd4337f6bb0c189f0d858ad3fd46e72d6e7e",
+      "date": "2026-05-03T03:56:04Z"
+    }
+  },
+  {
+    "group": "Mine (wassname)",
+    "name": "query-steering",
+    "repo": "wassname/query-steering",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 3,
+    "created": "2026-09-25T07:29:01Z",
+    "tip": {
+      "repo": "wassname/query-steering",
+      "branch": "main",
+      "sha": "5cfb80035849c8850e3af65fa62b7ab20572a16f",
+      "date": "2026-09-30T11:13:12Z"
+    }
+  },
+  {
+    "group": "Mine (wassname)",
+    "name": "abliterator",
+    "repo": "wassname/abliterator",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 11,
+    "created": "2025-03-11T10:35:09Z",
+    "tip": {
+      "repo": "wassname/abliterator",
+      "branch": "main",
+      "sha": "0c95026744a5e49f97423b4734185cd3d2ac5533",
+      "date": "2026-02-21T03:20:38Z"
+    }
+  },
+  {
+    "group": "Mine (wassname)",
+    "name": "persona-steering-template-library",
+    "repo": "wassname/persona-steering-template-library",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 1,
+    "created": "2026-06-13T02:05:42Z",
+    "tip": {
+      "repo": "wassname/persona-steering-template-library",
+      "branch": "main",
+      "sha": "5e177a2745b5194c3ede22f6264dcbb4428dc497",
+      "date": "2026-08-09T02:47:36Z"
+    }
+  },
+  {
+    "group": "Mine (wassname)",
+    "name": "moral-maps",
+    "repo": "wassname/moral-maps",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 2,
+    "created": "2026-04-30T09:29:35Z",
+    "tip": {
+      "repo": "wassname/moral-maps",
+      "branch": "main",
+      "sha": "f43313d06a5aebb1fe3f4b376786c5525bec81b5",
+      "date": "2026-09-25T06:05:15Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "Outlines",
+    "repo": "dottxt-ai/outlines",
+    "scope": false,
+    "humans_display": 179,
+    "stars": 15905,
+    "created": "2023-03-17T16:01:18Z",
+    "tip": {
+      "repo": "dottxt-ai/outlines",
+      "branch": "main",
+      "sha": "c52af8472c6fe8a607a733ec11b709476af77a96",
+      "date": "2026-08-24T14:20:14Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "XGrammar",
+    "repo": "mlc-ai/xgrammar",
+    "scope": false,
+    "humans_display": 74,
+    "stars": 1944,
+    "created": "2024-06-28T06:34:27Z",
+    "tip": {
+      "repo": "mlc-ai/xgrammar",
+      "branch": "main",
+      "sha": "ed1bc8312ba37947050938bf8bdd88b923a1057b",
+      "date": "2026-10-06T00:25:03Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "LLGuidance",
+    "repo": "guidance-ai/llguidance",
+    "scope": false,
+    "humans_display": 37,
+    "stars": 882,
+    "created": "2024-07-25T23:34:06Z",
+    "tip": {
+      "repo": "guidance-ai/llguidance",
+      "branch": "main",
+      "sha": "e7c69004694064a01db30ddc7a29a103a5d2f3c7",
+      "date": "2026-09-30T23:02:45Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "Microsoft Guidance",
+    "repo": "guidance-ai/guidance",
+    "scope": false,
+    "humans_display": 78,
+    "stars": 21789,
+    "created": "2022-11-10T18:21:45Z",
+    "tip": {
+      "repo": "guidance-ai/guidance",
+      "branch": "main",
+      "sha": "21b1d90dfbebff4b141df70c714c8af15aa5f4af",
+      "date": "2026-05-21T17:08:00Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "llama.cpp grammars (GBNF)",
+    "repo": "ggml-org/llama.cpp",
+    "scope": true,
+    "humans_display": 445,
+    "stars": 130508,
+    "created": "2023-03-10T18:58:00Z",
+    "tip": {
+      "repo": "ggml-org/llama.cpp",
+      "branch": "master",
+      "sha": "c479922ac520a08969b4c1dc154d7bbb3c386d85",
+      "date": "2026-10-06T22:24:17Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "lm-format-enforcer",
+    "repo": "noamgat/lm-format-enforcer",
+    "scope": false,
+    "humans_display": 14,
+    "stars": 2041,
+    "created": "2023-09-21T12:16:48Z",
+    "tip": {
+      "repo": "noamgat/lm-format-enforcer",
+      "branch": "main",
+      "sha": "817f944fcc8851917c40300a47f62d1defc3ffc3",
+      "date": "2026-04-04T14:57:49Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "prob_jsonformer",
+    "repo": "wassname/prob_jsonformer",
+    "scope": false,
+    "humans_display": 9,
+    "stars": 17,
+    "created": "2024-05-10T05:05:09Z",
+    "tip": {
+      "repo": "wassname/prob_jsonformer",
+      "branch": "main",
+      "sha": "b639079d045ab174398762e3b1e1fdca1d8d30ef",
+      "date": "2025-03-23T09:59:48Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "instructor",
+    "repo": "567-labs/instructor",
+    "scope": false,
+    "humans_display": 259,
+    "stars": 13981,
+    "created": "2023-06-14T10:42:23Z",
+    "tip": {
+      "repo": "567-labs/instructor",
+      "branch": "main",
+      "sha": "e12f8b49203b0c1f253d27c1e709d0a09b9fc5a8",
+      "date": "2026-09-11T03:41:29Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "guardrails",
+    "repo": "guardrails-ai/guardrails",
+    "scope": false,
+    "humans_display": 72,
+    "stars": 7492,
+    "created": "2023-01-29T04:11:35Z",
+    "tip": {
+      "repo": "guardrails-ai/guardrails",
+      "branch": "main",
+      "sha": "06d0ff2c5f9bcb493d976b76f885e37e41ce845d",
+      "date": "2026-08-26T19:53:51Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "TypeChat",
+    "repo": "microsoft/TypeChat",
+    "scope": false,
+    "humans_display": 35,
+    "stars": 8689,
+    "created": "2023-06-20T00:52:38Z",
+    "tip": {
+      "repo": "microsoft/TypeChat",
+      "branch": "main",
+      "sha": "fcd3a5a500a1f4ed0be88b7a0a388c87de8d7502",
+      "date": "2026-10-06T17:31:49Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "Promptify",
+    "repo": "promptslab/Promptify",
+    "scope": false,
+    "humans_display": 13,
+    "stars": 4640,
+    "created": "2022-12-12T18:06:32Z",
+    "tip": {
+      "repo": "promptslab/Promptify",
+      "branch": "main",
+      "sha": "bc5ed081a7a4d7be90e798dd48c324fd4c57bd2a",
+      "date": "2026-03-27T01:09:42Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "Constrained-Text-Generation-Studio",
+    "repo": "Hellisotherpeople/Constrained-Text-Generation-Studio",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 217,
+    "created": "2022-03-28T06:21:00Z",
+    "tip": {
+      "repo": "Hellisotherpeople/Constrained-Text-Generation-Studio",
+      "branch": "main",
+      "sha": "42a1b2799556b310e4702b8ece16bb720ee21cdd",
+      "date": "2026-04-11T16:30:33Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "jsonformer",
+    "repo": "1rgs/jsonformer",
+    "scope": false,
+    "humans_display": 6,
+    "stars": 4937,
+    "created": "2023-04-29T23:25:54Z",
+    "tip": {
+      "repo": "1rgs/jsonformer",
+      "branch": "main",
+      "sha": "bfad031876ace84ec0a7853718a1c0828ea1653a",
+      "date": "2023-05-30T17:57:20Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "LMQL",
+    "repo": "eth-sri/lmql",
+    "scope": false,
+    "humans_display": 35,
+    "stars": 4218,
+    "created": "2022-11-24T06:43:00Z",
+    "tip": {
+      "repo": "eth-sri/lmql",
+      "branch": "main",
+      "sha": "fc8edd4457dc5a5e4e595302166bec797582bf53",
+      "date": "2025-05-22T07:32:31Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "kor",
+    "repo": "eyurtsev/kor",
+    "scope": false,
+    "humans_display": 11,
+    "stars": 1684,
+    "created": "2023-02-16T19:47:25Z",
+    "tip": {
+      "repo": "eyurtsev/kor",
+      "branch": "main",
+      "sha": "f6dc65546c3a9aed53f26f0cbd3ad518a2c48504",
+      "date": "2024-11-25T14:37:41Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "salute",
+    "repo": "LevanKvirkvelia/salute",
+    "scope": false,
+    "humans_display": 5,
+    "stars": 218,
+    "created": "2023-05-21T02:56:01Z",
+    "tip": {
+      "repo": "LevanKvirkvelia/salute",
+      "branch": "main",
+      "sha": "34860fd8eeb34ad5bd4dc4fd5c390ddb19e1f340",
+      "date": "2023-06-17T00:21:35Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "clownfish",
+    "repo": "newhouseb/clownfish",
+    "scope": false,
+    "humans_display": 2,
+    "stars": 328,
+    "created": "2023-03-27T09:24:43Z",
+    "tip": {
+      "repo": "newhouseb/clownfish",
+      "branch": "main",
+      "sha": "13d8945f2ebd5346249fc74c00a2758651f07b9e",
+      "date": "2023-05-16T15:40:14Z"
+    }
+  },
+  {
+    "group": "Structured output (adjacent tooling)",
+    "name": "relm",
+    "repo": "mkuchnik/relm",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 108,
+    "created": "2023-03-21T13:54:14Z",
+    "tip": {
+      "repo": "mkuchnik/relm",
+      "branch": "main",
+      "sha": "cd18b0b5bc278b0da3f23567d23a83c1b62485a2",
+      "date": "2023-06-02T16:42:47Z"
+    }
+  },
+  {
+    "group": "Reading and tutorials",
+    "name": "Manual activation steering",
+    "repo": "annahdo/implementing_activation_steering",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 24,
+    "created": "2024-01-12T14:23:41Z",
+    "tip": {
+      "repo": "annahdo/implementing_activation_steering",
+      "branch": "main",
+      "sha": "5458edc1fb703166fc4cdb391db2bc2849c64f17",
+      "date": "2024-10-18T17:11:57Z"
+    }
+  },
+  {
+    "group": "Reading and tutorials",
+    "name": "Generative Meta-Model of LLM Activations",
+    "repo": "g-luo/generative_latent_prior",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 95,
+    "created": "2026-01-30T20:21:24Z",
+    "tip": {
+      "repo": "g-luo/generative_latent_prior",
+      "branch": "main",
+      "sha": "9895e12247aa4713b0cf14797726f8284443a72d",
+      "date": "2026-09-12T20:45:14Z"
+    }
+  },
+  {
+    "group": "Reading and tutorials",
+    "name": "Latent Introspection code",
+    "repo": "acsresearch/latent-introspection-code",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 3,
+    "created": "2026-02-03T20:30:17Z",
+    "tip": {
+      "repo": "acsresearch/latent-introspection-code",
+      "branch": "main",
+      "sha": "5007f75766b6f8c650cab438af67f970a262ceca",
+      "date": "2026-02-27T23:57:43Z"
+    }
+  },
+  {
+    "group": "See more",
+    "name": "dweprinz's list that inspired this one",
+    "repo": "dweprinz/dweprinz.github.io",
+    "scope": true,
+    "humans_display": 1,
+    "stars": 1,
+    "created": "2023-09-30T13:59:37Z",
+    "tip": {
+      "repo": "dweprinz/dweprinz.github.io",
+      "branch": "main",
+      "sha": "485f903171721873c582cfa4d751027e57056a11",
+      "date": "2026-09-29T09:05:31Z"
+    }
+  },
+  {
+    "group": "See more",
+    "name": "Awesome-explainable-AI",
+    "repo": "wangyongjie-ntu/Awesome-explainable-AI",
+    "scope": false,
+    "humans_display": 22,
+    "stars": 1659,
+    "created": "2020-02-16T06:27:44Z",
+    "tip": {
+      "repo": "wangyongjie-ntu/Awesome-explainable-AI",
+      "branch": "master",
+      "sha": "85c09c5dc8ea52078c8c7dc473a914f84a4e1130",
+      "date": "2026-08-19T02:09:45Z"
+    }
+  },
+  {
+    "group": "See more",
+    "name": "awesome-moral-evals",
+    "repo": "wassname/awesome-moral-evals",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 1,
+    "created": "2026-06-28T22:06:08Z",
+    "tip": {
+      "repo": "wassname/awesome-moral-evals",
+      "branch": "main",
+      "sha": "db7095804ac4dce836a3d5c49b6ee409367dd853",
+      "date": "2026-06-30T00:22:29Z"
+    }
+  }
+]

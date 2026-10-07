@@ -1,0 +1,11 @@
+PI/gpt-6.1-sol README verification 2026-10-07T00:02:05.274088+00:00
+GitHub /markdown GFM semantic parser: 16 tables, every rendered row has6columns PASS
+~H tooltip title survives GitHub sanitization in all16headers and intro PASS
+137 table entries;119 metric rows matched to durable data (H/stars/creation/tip date/SHA) PASS
+Original non-badge URLs preserved PASS
+Required Bau/Vogel/Inspect-Petri/IBM/Cadenza canonical entries present PASS
+Uniform headers, family JSON parses, metadata collector syntax PASS
+No list entries outside tables; no Pages/workflow/JavaScript added PASS
+Initial collector failure: guessed neuronpedia/neuronpedia returned404; canonical hijohnnylin/neuronpedia independently resolved and batch rerun successfully.
+Initial table-count assertion used literal <table>, but GitHub emits <table role="table">; semantic HTML parser verifies actual structure.
+Runtime/library/scientific claims not tested; no model execution, package install or publication.

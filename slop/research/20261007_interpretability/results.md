@@ -1,12 +1,30 @@
 # What to add and reorganize in awesome-interpretability
 
 Research snapshot: 7 October 2026, Perth / 6 October UTC. Author: PI/gpt-6.1-sol.
-Target: `wassname/awesome-interpretability`, original `main` commit `f5a023133bfc2997ca90926af8852e1774169ab4`. Recommendations only: README unchanged; nothing pushed or published.
+Target: `wassname/awesome-interpretability`, original `main` commit `f5a023133bfc2997ca90926af8852e1774169ab4`. The initial audit left README unchanged. The later user-requested implementation is below; nothing pushed or published.
 
 > wassname: “please do deep research for this. esp on gh and hf”
 > “it's usefull to know stars, human authors, and how persistant/stale the project is”
 > “also SAE's suck we can list but meh”
 > “there are NLA's too now”
+
+## Update: tables and notable project families, 7 October 2026
+
+> wassname: “nice add them then” / “put everything in table with those cols” / “just stuiff that is notable”
+
+README now has 137 entries in 16 task-grouped Markdown tables: project, ~H, stars, creation date, latest default commit, notes. All original non-badge URLs remain. GitHub's own GFM renderer preserves the ~H tooltip: “Estimated number of human contributors”. No Pages site, JavaScript or sorting implementation was added. README is uncommitted for editorial review.
+
+Additional owner-network checks are saved in `families/`:
+
+- David Bau / `thebaulab` / NDIF / Kevin Meng: retain BauKit and NNsight, add ROME, MEMIT, Dissect and the source-checked Rewriting reference; nnterp and Workbench are distinct companion/platform entries.
+- Theia Vogel / `vgel` / publicly linked upstreams: retain repeng, add Logitloom as output-trajectory exploration (not a logit lens), and the actual Latent Introspection paper code beside existing reading.
+- Inspect / Meridian / Petri: canonical Inspect AI, Scout and Petri; Petri Bloom is the small successor to frozen Bloom, not a place to transfer Bloom's stars. Inspect Evals and ControlArena get collection/framework-wide † markers.
+- IBM / Generative Computing / Cadenza-Labs: retain Steerability, activation-steering and vLLM-Hook; add ICX360 and Liars' Bench. Low-evidence/toy projects and fork copies were excluded. Cadenza was resolved from its public research/team site source, not just a spelling match.
+- Parent follow-up verified the credited Rewriting implementation, ELK and Apollo's deception-probe source, and actual ControlArena/Inspect Evals code. These supplement the scouts' bounded four-candidate limits.
+
+`families/readme_metrics.json` holds the 119 displayed GitHub metric rows, including scoped rows. `families/readme-verification.log` records table shape, retained links, required family coverage, metric/SHA consistency and GitHub-sanitized tooltip checks. The plain `claude` service account is also excluded in the final Inspect estimate: 331 raw accounts minus six exclusions = 325, versus the scout's narrower 326 estimate.
+
+The initial metadata batch failed on guessed `neuronpedia/neuronpedia`; canonical `hijohnnylin/neuronpedia` was resolved via search and the primary README, then the complete batch succeeded. An initial literal `<table>` assertion missed GitHub's `<table role="table">`; the semantic HTML parser verified all 16 six-column tables. No runtime/scientific validation was claimed.
 
 ## Decision summary
 
