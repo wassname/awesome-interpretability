@@ -2,7 +2,7 @@
 
 Tools, pretrained artifacts and benchmarks for understanding and changing models.
 
-GitHub metrics checked 7 October 2026. Tables are ordered by ~H, then stars, within each group. Dates are repository creation and latest default-branch commit, not issue activity. `—` means no public GitHub metric. † marks whole-repository metrics for collections or linked files/subdirectories; these rows do not rank as independent tools. A recent tip can be docs/configuration, not a code fix. Reconstruction, probe accuracy, readable labels and successful interventions test different properties.
+GitHub numbers checked 2026-10-07. Rows are sorted by ~H, then stars. † means the numbers are for the whole repo, not the linked part.
 
 [~H][humans] is an estimate; anonymous/co-authors can be missed, service accounts and aliases can distort it, and historical contributors are not necessarily current maintainers. [Research and sources](slop/research/20261007_interpretability/results.md).
 
@@ -67,6 +67,7 @@ GitHub metrics checked 7 October 2026. Tables are ordered by ~H, then stars, wit
 | Project | [~H↑][humans] | Stars↑ | Created | Latest commit | Notes |
 |---|---:|---:|---|---|---|
 | [PyReFT](https://github.com/stanfordnlp/pyreft) | **10** | **1,590** | 2024-02-17 | [2025-02-06](https://github.com/stanfordnlp/pyreft/commit/dafd0995a366d7b47160a337dcc388eda7431821) | Trainable low-rank representation interventions, built on Pyvene; historical baseline. |
+| [AxBench](https://github.com/stanfordnlp/axbench) | 6 | 218 | 2024-08-07 | [2026-03-12](https://github.com/stanfordnlp/axbench/commit/41c8332543e5a631f9a8c0a9df38799893ace758) | Concept detection and steering benchmark. [Even Simple Baselines Outperform Sparse Autoencoders](https://arxiv.org/abs/2501.17148), [Concept16K data](https://huggingface.co/datasets/pyvene/axbench-concept16k): model-generated examples sampled from GemmaScope concepts. |
 | [repeng](https://github.com/vgel/repeng) | 5 | 761 | 2024-01-21 | [2025-09-24](https://github.com/vgel/repeng/commit/0ba7196d81f7c5de28b1159c9d1732440afd97ce) | Library for making RepE control vectors. Theia Vogel. [Representation Engineering Mistral-7B an Acid Trip](https://vgel.me/posts/representation-engineering/). |
 | [steering-vectors](https://github.com/steering-vectors/steering-vectors) | 5 | 163 | 2024-01-18 | [2025-02-21](https://github.com/steering-vectors/steering-vectors/commit/5459bd1287be642ec75a4ab000dc833262bcb7f4) | HF/PyTorch control-vector training and injection; historical reusable baseline, last default commit February 2025. |
 | [Steerability](https://github.com/generative-computing/steerability) | 4 | 123 | 2025-06-13 | [2026-10-03](https://github.com/generative-computing/steerability/commit/4459fce2cf8737cf6e0811a33f4d5b01f0e4dcc6) | Extensible general-purpose steering library, formerly IBM/AISteer360. My open PRs: [VJP-delta](https://github.com/generative-computing/steerability/pull/33), [CorDA-PCA, S-space and Linear-AcT](https://github.com/generative-computing/steerability/pull/32). |
@@ -74,6 +75,7 @@ GitHub metrics checked 7 October 2026. Tables are ordered by ~H, then stars, wit
 | [Spherical-Steering](https://github.com/chili-lab/Spherical-Steering) | 2 | 23 | 2026-02-08 | [2026-05-19](https://github.com/chili-lab/Spherical-Steering/commit/198cb2e2131c93340b3af2678b203cb77f30f740) | Rotates activations instead of adding to them (ICML 2026); paper code. |
 | [Introspection adapters](https://github.com/safety-research/introspection-adapters) | 1 | 30 | 2026-04-28 | [2026-04-28](https://github.com/safety-research/introspection-adapters/commit/92a3b05ac1c472b76b966c441d11b88c1b7b76ec) | LoRA self-report of trained behaviors for weight/behavior auditing, not an activation decoder; false positives. [Paper](https://alignment.anthropic.com/2026/introspection-adapters/). |
 | [weight-steering](https://github.com/safety-research/weight-steering) | 1 | 12 | 2025-10-17 | [2025-11-11](https://github.com/safety-research/weight-steering/commit/1c0152910a5b2ff1928be946b4ae4178e34e8c78) | Code for [Steering Language Models with Weight Arithmetic](https://arxiv.org/abs/2511.05408). |
+| [steering-lite](https://github.com/wassname/steering-lite) | 1 | 2 | 2026-04-28 | [2026-09-30](https://github.com/wassname/steering-lite/commit/65345e6fb438fbd241c3be3a4125e388724a5b65) | Hackable forward-hook activation steering, calibrated, tested. |
 
 ## Evaluate interpretations and interventions
 
@@ -81,7 +83,6 @@ GitHub metrics checked 7 October 2026. Tables are ordered by ~H, then stars, wit
 |---|---:|---:|---|---|---|
 | [Quantus](https://github.com/understandable-machine-intelligence-lab/Quantus) | **20** | **676** | 2021-03-18 | [2026-08-20](https://github.com/understandable-machine-intelligence-lab/Quantus/commit/85bc29d137d8f42835dd392f5cc441ad61d6d1f1) | Attribution faithfulness, robustness and randomization metrics; implementations are not universally verified by original metric authors. |
 | [Tracr](https://github.com/google-deepmind/tracr) | 9 | 568 | 2022-12-01 | [2024-02-05](https://github.com/google-deepmind/tracr/commit/9ce2b8c82b6ba10e62e86cf6f390e7536d4fd2cd) | Compile RASP programs into transformers with known mechanisms; archived ground-truth reference. |
-| [AxBench](https://github.com/stanfordnlp/axbench) | 6 | 218 | 2024-08-07 | [2026-03-12](https://github.com/stanfordnlp/axbench/commit/41c8332543e5a631f9a8c0a9df38799893ace758) | Concept detection and steering benchmark. [Even Simple Baselines Outperform Sparse Autoencoders](https://arxiv.org/abs/2501.17148), [Concept16K data](https://huggingface.co/datasets/pyvene/axbench-concept16k): model-generated examples sampled from GemmaScope concepts. |
 | [MIB](https://github.com/aaronmueller/MIB) | 3 | 27 | 2025-04-01 | [2025-08-15](https://github.com/aaronmueller/MIB/commit/b69dabe9899251d4a8fe90789afa4d655afc84c7) | Mechanistic interpretability benchmark project; implementation is split into tracks. [Circuit track](https://github.com/hannamw/MIB-circuit-track). |
 | [CausalGym](https://github.com/aryamanarora/causalgym) | 2 | 57 | 2023-10-10 | [2024-11-30](https://github.com/aryamanarora/causalgym/commit/0f3129ff3b6c5c8264892f30a25be25150ae9179) | Controlled linguistic causal-intervention benchmark. [HF data](https://huggingface.co/datasets/aryaman/causalgym); reference code assumes GPTNeoX-family models. |
 | [Liars' Bench](https://github.com/Cadenza-Labs/liars-bench) | 2 | 15 | 2025-02-18 | [2026-05-07](https://github.com/Cadenza-Labs/liars-bench/commit/ba10de150873d53a34e88278346f857962f82de3) | Cadenza Labs lie-detection benchmark with black/white-box detectors; submodule setup documentation conflicts with actual URLs. |
@@ -167,7 +168,6 @@ GitHub metrics checked 7 October 2026. Tables are ordered by ~H, then stars, wit
 | [vjp-steering](https://github.com/wassname/vjp-steering) | 1 | 4 | 2026-08-21 | [2026-09-28](https://github.com/wassname/vjp-steering/commit/1e19ae30845574ebd2657dd961a0281a1df087f3) | Contrastive steering vectors from vector-Jacobian products (WIP). |
 | [AntiPaSTO](https://github.com/wassname/AntiPaSTO) | 1 | 4 | 2025-12-28 | [2026-09-02](https://github.com/wassname/AntiPaSTO/commit/4ff0710851d08df8705bfe335245bca4bbd82fbc) | Self-supervised honesty steering via anti-parallel representations. |
 | [query-steering](https://github.com/wassname/query-steering) | 1 | 3 | 2026-09-25 | [2026-09-30](https://github.com/wassname/query-steering/commit/5cfb80035849c8850e3af65fa62b7ab20572a16f) | Steer attention so the model reads out a secret from its context. |
-| [steering-lite](https://github.com/wassname/steering-lite) | 1 | 2 | 2026-04-28 | [2026-09-30](https://github.com/wassname/steering-lite/commit/65345e6fb438fbd241c3be3a4125e388724a5b65) | Hackable forward-hook activation steering, calibrated, tested. |
 | [isokl_steering_calibration](https://github.com/wassname/isokl_steering_calibration) | 1 | 2 | 2026-05-05 | [2026-09-19](https://github.com/wassname/isokl_steering_calibration/commit/27bfbcdd2df2d2e7103dfbc64aae3936b3415812) | Compare steering methods at the same KL budget. |
 | [ssteer-eval-aware](https://github.com/wassname/ssteer-eval-aware) | 1 | 2 | 2026-03-21 | [2026-05-03](https://github.com/wassname/ssteer-eval-aware/commit/9095dd4337f6bb0c189f0d858ad3fd46e72d6e7e) | S-space steering suppresses eval-awareness. |
 | [cwsteer](https://github.com/wassname/cwsteer) | 1 | 1 | 2026-06-23 | [2026-06-26](https://github.com/wassname/cwsteer/commit/50cd6d9163c97025b51858fbb9bb1b3a80f3f9d2) | Contrastive weight steering: generate, filter, train, calibrate, steer. |
@@ -200,6 +200,21 @@ GitHub metrics checked 7 October 2026. Tables are ordered by ~H, then stars, wit
 | [OpenAI Structured Outputs](https://developers.openai.com/api/docs/guides/structured-outputs) | — | — | — | — | JSON schema enforced by the API; other providers have similar options. |
 | [LangChain structured output](https://docs.langchain.com/oss/python/langchain/structured-output) | — | — | — | — | Structured-output integration. |
 
+## Perspectives
+
+Agendas and changes of view, oldest first.
+
+| Perspective | Who | Year | In their words |
+|---|---|---|---|
+| [Simulators](https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators), [The Persona Selection Model](https://alignment.anthropic.com/2026/psm/) | janus; Sam Marks, Jack Lindsey, Chris Olah | 2022, 2026 | "LLMs learn to simulate diverse characters during pre-training, and post-training elicits and refines a particular such Assistant persona." |
+| [AGI Ruin #27](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities), [The Most Forbidden Technique](https://www.lesswrong.com/posts/mpmsK8KKysgSKDm2T/the-most-forbidden-technique) | Eliezer Yudkowsky; Zvi Mowshowitz | 2022, 2025 | "Optimizing against an interpreted thought optimizes against interpretability." For CoT, [Baker et al.](https://arxiv.org/abs/2503.11926) found that "with too much optimization, agents learn obfuscated reward hacking". |
+| [The case for ensuring that powerful AIs are controlled](https://www.lesswrong.com/posts/kcKrE9mzEHrdqtDpE/the-case-for-ensuring-that-powerful-ais-are-controlled) | Ryan Greenblatt, Buck Shlegeris | 2024 | Safety measures should hold "even if the AIs are misaligned and intentionally try to subvert those safety measures". |
+| [Towards Guaranteed Safe AI](https://arxiv.org/abs/2405.06624), [Is there a Natural Abstraction of Good?](https://www.lesswrong.com/posts/M5s6WgScRfmeWsLD4/dialogue-is-there-a-natural-abstraction-of-good) | davidad | 2024, 2026 | From proof-checked safety guarantees to the claim that frontier LLMs "have grokked the natural abstraction of what it means to be Good". Gabriel Alfour disputes it in the same dialogue. |
+| [A Pragmatic Vision for Interpretability](https://www.lesswrong.com/posts/StENzDcD3kpfGJssR/a-pragmatic-vision-for-interpretability) | Neel Nanda and the GDM interpretability team | 2025 | After ["SAEs underperformed linear probes"](https://www.lesswrong.com/posts/4uXCAJNuPKtKBsi28/negative-results-for-saes-on-downstream-tasks), "a strategic pivot over the past year, from ambitious reverse-engineering to a focus on pragmatic interpretability". |
+| [The Urgency of Interpretability](https://darioamodei.com/post/the-urgency-of-interpretability) | Dario Amodei | 2025 | Understand models "before models reach an overwhelming level of power". |
+| [Chain of Thought Monitorability: A New and Fragile Opportunity](https://arxiv.org/abs/2507.11473) | Tomek Korbak, Mikita Balesni and 39 co-authors | 2025 | "Because CoT monitorability may be fragile, we recommend that frontier model developers consider the impact of development decisions on CoT monitorability." |
+| [Why We Are Excited About Confessions](https://alignment.openai.com/confessions/) | Boaz Barak, Gabriel Wu, Jeremy Chen, Manas Joglekar | 2026 | A second output rewarded only for honesty, because "being honest in confessions is the path of least resistance". |
+
 ## Reading and tutorials
 
 | Project | [~H↑][humans] | Stars↑ | Created | Latest commit | Notes |
@@ -226,4 +241,4 @@ GitHub metrics checked 7 October 2026. Tables are ordered by ~H, then stars, wit
 
 [humans]: slop/research/20261007_interpretability/families/readme_metrics.json "Estimated number of human contributors (non-bot/non-service GitHub accounts; approximate, not verified people or active maintainers)."
 
-<!-- Table conversion and new entries: PI/gpt-6.1-sol; existing author descriptions retained where possible. -->
+<!-- Table conversion and new entries: PI/gpt-6.1-sol; existing author descriptions retained where possible. Perspectives table and intro cut: Claude Opus. -->

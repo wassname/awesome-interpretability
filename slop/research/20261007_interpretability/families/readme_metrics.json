@@ -630,7 +630,7 @@
     }
   },
   {
-    "group": "Evaluate interpretations and interventions",
+    "group": "Steering and trainable interventions",
     "name": "AxBench",
     "repo": "stanfordnlp/axbench",
     "scope": false,
@@ -642,6 +642,21 @@
       "branch": "main",
       "sha": "41c8332543e5a631f9a8c0a9df38799893ace758",
       "date": "2026-03-12T19:33:01Z"
+    }
+  },
+  {
+    "group": "Steering and trainable interventions",
+    "name": "steering-lite",
+    "repo": "wassname/steering-lite",
+    "scope": false,
+    "humans_display": 1,
+    "stars": 2,
+    "created": "2026-04-28T08:26:47Z",
+    "tip": {
+      "repo": "wassname/steering-lite",
+      "branch": "main",
+      "sha": "65345e6fb438fbd241c3be3a4125e388724a5b65",
+      "date": "2026-09-30T12:43:57Z"
     }
   },
   {
@@ -1272,21 +1287,6 @@
       "branch": "main",
       "sha": "2a50373311d54d231652727735aebd7873da9e80",
       "date": "2026-06-19T00:47:41Z"
-    }
-  },
-  {
-    "group": "Mine (wassname)",
-    "name": "steering-lite",
-    "repo": "wassname/steering-lite",
-    "scope": false,
-    "humans_display": 1,
-    "stars": 2,
-    "created": "2026-04-28T08:26:47Z",
-    "tip": {
-      "repo": "wassname/steering-lite",
-      "branch": "main",
-      "sha": "65345e6fb438fbd241c3be3a4125e388724a5b65",
-      "date": "2026-09-30T12:43:57Z"
     }
   },
   {
