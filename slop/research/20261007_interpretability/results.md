@@ -1,7 +1,7 @@
 # What to add and reorganize in awesome-interpretability
 
 Research snapshot: 7 October 2026, Perth / 6 October UTC. Author: PI/gpt-6.1-sol.
-Target: `wassname/awesome-interpretability`, original `main` commit `f5a023133bfc2997ca90926af8852e1774169ab4`. The initial audit left README unchanged. The later user-requested implementation is below; nothing pushed or published.
+Target: `wassname/awesome-interpretability`, original `main` commit `f5a023133bfc2997ca90926af8852e1774169ab4`. The initial audit left README unchanged. The user-approved table conversion and research were pushed to `main` at `12e6b5097fd48d38f7e7d1d4436483e9782cd463`. The perspectives follow-up below is still a draft, not added to README.
 
 > wassname: “please do deep research for this. esp on gh and hf”
 > “it's usefull to know stars, human authors, and how persistant/stale the project is”
@@ -12,7 +12,7 @@ Target: `wassname/awesome-interpretability`, original `main` commit `f5a023133bf
 
 > wassname: “nice add them then” / “put everything in table with those cols” / “just stuiff that is notable”
 
-README now has 137 entries in 16 task-grouped Markdown tables: project, ~H, stars, creation date, latest default commit, notes. All original non-badge URLs remain. GitHub's own GFM renderer preserves the ~H tooltip: “Estimated number of human contributors”. No Pages site, JavaScript or sorting implementation was added. README is uncommitted for editorial review.
+README now has 137 entries in 16 task-grouped Markdown tables: project, ~H, stars, creation date, latest default commit, notes. All original non-badge URLs remain. GitHub's own GFM renderer preserves the ~H tooltip: “Estimated number of human contributors”. No Pages site, JavaScript or sorting implementation was added. User requested “push what you have now anyway”; README was committed and pushed at `12e6b50`, and GitHub's default-branch API returned the same SHA. The user flagged the PI-written introduction; it was left unchanged in that requested push, pending a specific prose edit.
 
 Additional owner-network checks are saved in `families/`:
 
@@ -25,6 +25,25 @@ Additional owner-network checks are saved in `families/`:
 `families/readme_metrics.json` holds the 119 displayed GitHub metric rows, including scoped rows. `families/readme-verification.log` records table shape, retained links, required family coverage, metric/SHA consistency and GitHub-sanitized tooltip checks. The plain `claude` service account is also excluded in the final Inspect estimate: 331 raw accounts minus six exclusions = 325, versus the scout's narrower 326 estimate.
 
 The initial metadata batch failed on guessed `neuronpedia/neuronpedia`; canonical `hijohnnylin/neuronpedia` was resolved via search and the primary README, then the complete batch succeeded. An initial literal `<table>` assertion missed GitHub's `<table role="table">`; the semantic HTML parser verified all 16 six-column tables. No runtime/scientific validation was claimed.
+
+## Follow-up: major perspectives, not another paper survey
+
+> wassname: “just major perspectives that are major field turning poitns by notable figures (or my favs)”
+
+Propose a short `Perspectives` section, with author/year/main argument instead of GitHub metrics. Six main entries:
+
+1. Neel Nanda and GDM colleagues: pragmatic interpretability, paired with their decision to deprioritise fundamental SAE work (2025).
+2. Chris Olah's Interpretability Dreams (2023), paired with Dario Amodei's Urgency of Interpretability (2025): the foundational reverse-engineering agenda.
+3. Ryan Greenblatt / Buck Shlegeris: the case for AI control (2024), safety even if models try to subvert safeguards.
+4. Evan Hubinger and colleagues: model organisms of misalignment (2023), deliberately induce failures to test mitigations.
+5. Korbak / Balesni and the broad author coalition: CoT monitorability as a fragile opportunity (2025).
+6. janus' Simulators (2022), paired with Marks / Lindsey / Olah's Persona Selection Model (2026).
+
+Two user-requested adjacent entries: davidad's 2024–2026 changes of view, and Boaz Barak and colleagues' 2026 confessions argument. Both merit attribution rather than presenting them as established field consensus. davidad appears to be the intended “David” reference; his 2025 ARIA tooling pivot and 2026 personal alignment/wisdom pivot are distinct, and neither establishes that formal verification is worthless.
+
+Gradient hacking is a companion risk argument; gradient routing is a distinct training method, not a synonym. Keep both as companion links unless expanding the list. ELK is the strongest additional historical candidate. “Mis training” provisionally maps to model organisms/emergent misalignment; no exact named project was identified.
+
+Primary-source quotes, author/date checks, competing positions and exclusions: [appendix/perspectives.md](appendix/perspectives.md). No README edits or further push were made for this research follow-up.
 
 ## Decision summary
 
